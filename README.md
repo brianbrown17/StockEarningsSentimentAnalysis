@@ -13,6 +13,6 @@ View the entire notebook, as well as data displays, words clouds, and topic grap
 Note: You may be prompted to use the 'pip install' command to install some libraries. This notebook was created within the Rutgers iLab machines.
 
 ## Accessing Data
-This repository also contains some of the sample data used to construct the notebook. You can view this unedited data in the /EarningsTranscripts subfolder.
+This repository also contains some of the sample data used to construct the notebook. You can view this unedited data in the /Earnings_Transcripts subfolder.
 
 In practice, this data would be best procured with a webscraper, such as Scrapy.
