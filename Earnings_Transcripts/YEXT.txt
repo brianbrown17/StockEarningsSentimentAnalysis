@@ -1,0 +1,362 @@
+@NYSE:YEXT
+@12.06.2019
+@-0.01
+
+Operator
+
+Good afternoon, and welcome to Yext Third Quarter Fiscal 2020 Financial Results Call. All participants will be in listen-only mode. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Dominic Paschel. Please go ahead.
+Dominic Paschel
+
+Thank you, Ben, and good afternoon, everyone. Welcome to Yext third quarter fiscal 2020 conference call. With me today are Howard Lerman, Founder and CEO, Steve Cakebread, Chief Financial Officer and Jim Steele, President and Chief Revenue Officer.
+
+Before we begin, I'd like to remind everyone that this call may contain forward-looking statements, including statements about revenue and non-GAAP net income guidance. Gross margin, cash flow, market opportunities, capital expenditure, retention rate, business performance, and other non-historical statements, as further described in our press release. These forward-looking statements are subject to certain risks, uncertainties and assumptions, including those related to Yext growth, evolution of our industry, product development and success, including the introduction, prospects and market opportunities of Answers and general economic and business conditions.
+
+These statements reflect the company's current expectations based on its beliefs, assumptions and information currently available to it. Although we believe these expectations are reasonable, we undertake no obligation to revise any statements to reflect changes that occur after this call.
+
+Descriptions of these and other risks that could cause actual results to materially differ from those forward-looking statements are discussed in our reports filed with the SEC, including our most recent report on Form 10-Q, and our press release that was issued this afternoon.
+
+During the call, we also refer to non-GAAP financial measures. Reconciliations with the most comparable gap measures are also available in the press release, which is available at investor.yext.com.
+
+With that, I will turn the call over to Howard.
+
+Howard Lerman
+
+Thank you, John. Hello everyone and welcome to our third quarter earnings call. Revenue grew 30% over the third quarter of last year. Unearned revenue for the third quarter grew 32% year-over-year. And the number of structured facts, an indication of engagement usage, reached 259 million which grew more than 65% from the year ago quarter.
+
+During the quarter, we signed the largest new enterprise client deal in the history of the company with Subway to provide -- to power brand verified Answers from more than 30,000 of its restaurants, in the United States and Canada and Europe. This is a massively important milestone. And during Q3, we also signed contracts with leading brands like Liberty Tax, Pilot Travel Centers, Lucky Brands, and the Church of Jesus Christ of Latter Day Saints.
+
+We expanded and renewed contracts with the Toronto Dominion Bank, AutoZone, EGB, Wells Fargo, Quedoba and HR Block. We've never been more excited about the demand for Yext. But in Q3 the launch of our new Answers product disrupted our sales execution. It elongated purchasing cycles as customers who are down a path with Yext got excited about Answers and wanted to learn more before buying Yext and it slowed some deal cycles.
+
+All that said, we have never seen a stronger pipeline and stronger market demand for the Yext search experience cloud. And while we have the most experienced reps we've ever had, still 45% are new since the beginning of the year. So introducing a new product to a group of reps, who are just getting comfortable with our existing products was a lot for them to digest.
+
+That said, we have never been more excited about our future. We have an amazing new product in Answers, which we believe has doubled our TAM. We now have 250 quota-carrying reps, the highest number and most experienced we've ever had. We believe we have the strongest pipeline and demand generation we've ever seen. We now have a complete search experience solution that every brand on the planet can benefit from and we have never been in a stronger position going forward.
+
+Let's talk a minute about Yext Answers, a revolutionary new product. With the Yext Answers, anyone with a website can answer questions in their own domain and a Google like experience. Believe it or not, most companies today can't answer basic questions about themselves in their own website. And when a user can't get an answer from a company's own website, they bounce back to Google and run the same search and then the brand's lost control of the customer journey as the user's lost in a sea of results and competitive ads and third party sources which are rife with misinformation.
+
+Yext Answers, based on natural language processing that accesses facts and the knowledge graph keeps brands in greater control of the customer journey and increases conversion on a brand's website. You see, unlike traditional site search, which is built on technology that uses keywords to return links to documents, Answers gives a direct answer to the question just like Google does, except it's on a company's own domain.
+
+Brands across multiple industries have already transformed their websites with Answers during its early adopter period, including BBVA USA, Three Mobile [ph] and IHA. These customers and many more, we've already signed and are already live are already seeing results. And let's talk about one for a minute, Three mobile. They've been able to use Yext Answers to achieve significant customer insights. Previously, they were using Yext to power their store locations and listings. But now with Answers, they know so much about what their customers are looking for.
+
+Graham Johnson, that's their [Chief Selling] Executive. You may recall from the investor breakout at Armor he emailed our team to say, and I quote, "it was great to see the insights and suggested content from the first day. Some of the search terms alone have opened up our eyes to some massive missed opportunities, both commercially and experientially."
+
+We are just at the beginning of customer success with Answers. We just launched this product, but we're already on a run rate to handle over 5.7 million searches and deliver a stunning 2.8 million clicks per year. The data first proves that people use site search, and second, that Yext Answers, that the Yext Answer search engine is delivering search quality so superior that users are engaging with the results by clicking.
+
+In fact, one of the large -- one of our large financial clients informed us that they've already seen a 25% increase in conversion on their website when their customers use Answers, versus their old site search and this is a huge lift. With Answers, Yext can offer brands a comprehensive solution to power their search experiences everywhere from one single platform. Every customer journey starts with search. Today's modern search experiences don't just link the documents. They understand questions and provide answers which come from a knowledge graph.
+
+And with the Yext knowledge graph brands can create entities to represent every fact they want the world to know about them. That's the foundation of our platform and our strategies to build applications on top of the knowledge graph that let our customer's power search experiences to meet their customers everywhere. So for example, Listings leverages all the locations of customers and their knowledge graph to be published in Google Maps, and voice search applications like Siri and Alexa.
+
+And next, our Pages product lets companies build a website or web page for every fact that shown on their knowledge graph, optimized to appear in search. And now with Answers, a company can answer a question on their own domain about any facts stored in their knowledge graph in a Google like experience. And if a fact changes, say a health system adds a new insurance accepted, or a financial services company launches a new credit card, they simply update their knowledge graph and boom, their customers find the latest facts, anywhere, they're looking, whether it's on Google, Facebook, Alexa, now in a company's own website and now in their own site search too.
+
+And so we're positioning this comprehensive solution as the Yext search experience cloud, delivering brand verified answers everywhere consumers search. Every customer journey starts with a search. The Yext search experience cloud provides the answer.
+
+With Answers we believe the total addressable market for the Yext Search Experience Cloud has effectively doubled. Answers is opening up new industry segments like CPG and technology and new types of entities for existing customers and wants to answer questions about their business. We're already seeing success selling into new segments with wins like Campbell's, and expanding entities into existing customers like Three Mobile, who now want to be able to answer anytime with any type of question about their business, not just about their locations.
+
+Since every customer journey starts with a search, we believe the Yext search experience cloud will become a critical component within our customers' DXP or Digital Experience Platform stack. This means we're well positioned to capture share within the $14 billion DXP market, which Gartner estimates is growing at approximately 14% per year.
+
+And so in total, we now believe our addressable market opportunity has expanded from the $10 billion number at the time of our IPO to more than $20 billion with the addition of Answers, and we are well positioned to capture share, driven by our comprehensive Search Experience Cloud Platform. We've never been more optimistic about our future. We have a complete search solution.
+
+We have an exciting new product that effectively doubles our TAM. We have the most tenured set of sales reps we've ever had. And above all, we stand at an important time when the world needs Yext. This information is running rampant online. Our mission to power the truth and drive our customers, more transactions from their search experiences has never been more precious.
+
+Now I'll turn the call over to our President and Chief Revenue Officer, Jim Steele.
+
+Jim Steele
+
+Thanks, Howard. As Howard noted, the launch of Answers is significant but did delay our deal cycles. Despite this issue, we continue to win new business this quarter, closing, 88 deals with at least $100,000 in total contract value, versus 71 deals in the same period last year, including three deals that resulted in at least 1 million of total contract value, including new logos and renewals of existing customers.
+
+Total number of mid-market and enterprise customers increased 46% year-over-year to 1,766 customers. This is notable since Howard just walked you through the Answers upsell opportunity and path. This means we have an expanding mid-market and enterprise customer base available to upsell with compelling products like Answers. I think it's worth repeating that the sales cycles for a typical enterprise seller can take multiple quarters, especially on deals exceeding $1 million. The sales cycle for a typical mid-market seller is about half the time of an enterprise seller.
+
+Though the sales cycles are longer total contract values are meaningfully larger in the mid-market and enterprise than in small business. Subway, which Howard announce is Yext's largest new enterprise client deal in the history of the company was a multi-quarter due diligence and sales process.
+
+In addition to Subway in Canada and Europe, internationally, we had some very nice wins. In Europe, we added logos such as Motability Operations, the Abbeyfield Society, Assata Stores; in the UK; Reeva, out of Germany and a significant expansion at Marston's, Charlotte, Tilbury and the Body Shop International. Japan's most impactful deal this quarter was exhibio one of the largest sporting goods company companies in Japan.
+
+I'm happy to say we have built an exceptional sales team worldwide, nearly 20% of our total employee base are quota carrying sales reps. This is a significant increase from the start of the year, growing 45% to 250. We've now exceeded our sales hiring targets for the year and I believe we're laying a strong foundation to capture this enormous business opportunity Howard talked about.
+
+We will continue to hire the best, but now in fourth quarter, we're shifting our focus to driving execution and efficiency in particular, across enterprise and mid-market. We now have the comprehensive solutions. We have the marketing, the sales enablement, the go-to market team and the opportunity online to realize their full potential.
+
+So now I'll turn the call over to Steve to walk you through the quarter in more detail, Steve?
+
+Steve Cakebread
+
+Jim, thank you. While the launch of Answers and the momentum generated at ONWARD19 are not reflected in our current financials, they do position us nicely for long term sustainable growth from our expanded market opportunity.
+
+Our third quarter revenue grew 30% to $76.4 million. Revenue excluding small business customers grew 34%, highlighting the increasing role of our enterprise and mid-market investments. In addition, international revenue grew 67% year-over-year to $13.6 million. Unearned revenue increased 32% from the year ago period to $107.5 million. And as of October 31, we had $252 million in remaining performance obligation or RPO. And our backlog includes another $32 million in revenue that's under contract but subject to accounting exclusions. On that basis, we have to $284 million in estimated future revenue under contract.
+
+Net retention was 107% for the overall company, and comparable with Q3 last year. In our enterprise and mid-market net retention was 110%, again consistent with Q3 last year as well.
+
+Gross margins were 73.3% this quarter compared to 74.6% last year. That's driven in part by hiring in our services organization, and additional lease expenses. Keep in mind year-to-date, gross margins are still 74.2% and we feel comfortable that over time, our gross margins will continue to be in the range of 73% to 77%.
+
+Total OpEx increased from $66.7 million last year to $98.8 million this quarter. Primary drivers of this increase was overall growth in headcount, including the increase in our quota carrying sales reps, along with the new leases in New York, District of Columbia in London. We will be incurring double lease expense in New York until our One Madison Avenue lease expires in December of 2020. Typically the annual run rate for our lease at One Madison Avenue is $4.8 million per year, while the annual run rate at 61 Ninth Avenue is $10.3 million a year. Once our lease at One Madison expires at the end of December 2020, our run rate for our lease expensive New York will be approximately $10.3 million annually.
+
+Keeping in mind in Q4 of this year, our lease expense at One Madison will be $1.2 million and $2.6 million at 61 Ninth. Third quarter net loss increased from $22.9 million a year ago to $42.7 million this quarter, on the basis of our 113.5 million weighted average basic shares outstanding net loss per share of $0.38 this quarter compared to $0.23 loss a year ago on the basis of 99.6 million weighted average basic shares outstanding.
+
+Non-GAAP net loss, excluding stock-based compensation increase from $10 million a year ago to $21.6 million this quarter. And our non-GAAP net loss of $0.19 per share this quarter compares to $0.10 in the year ago quarter. So please refer to the press release we issued this afternoon for reconciliation of GAAP to non-GAAP results.
+
+Cash and cash equivalents were $245 million as of October 31, 2019. Net cash used in operations for the third quarter was $31.8 million as compared to net cash used in operations of $22.6 million in the year ago period. The biggest drivers were the increase in head account, changes in unearned revenue and our new leases. ONWARD19 expenses are also impacted this quarter.
+
+As to guidance in the fourth quarter, we expect revenue to be between $79 million and $81 million and in the same period we anticipate non-GAAP loss per share of between $0.15 and $0.13, which reflects the impact of $0.03 on our new lease agreements in New York and DC. This also assumes a weighted average basic share count of approximately 115.2 million shares. We do expect to be operating cash flow [technical difficulty] in the fourth quarter consistent with past seasonal trends.
+
+Turning to the full year we now expect $296.5 million to $298.5 million in revenue. Our non-GAAP net loss per share range is now expected to be in the range of $0.51 to $0.49 and this includes a $0.09 per share from the impact of our new lease agreements in New York and DC. This also is based on an assumed basic weighted average share count of approximately 111.8 million shares.
+
+We're focused on growing the business, driving to non-GAAP breakeven and getting to operating cash flow breakeven. As we head into the fourth quarter, I'm thrilled about the new initiatives we put in place that Howard and Jim discussed. Specifically, we've exceeded our hiring plan during the quarter resulting in 45% year-to-date increase in the size of our sales team. We grew our mid-market and enterprise customer base by 46% year-over-year.
+
+We've launched a game changing products in Answers, and the customer feedback has been very positive and initial market response has been encouraging. And we've seen a 65% growth in a number of facts, the Yext Knowledge Graph. As we mentioned, we have a strong solution our Search Experience Cloud Platform and a consistent message to explain our business. I'm feeling confident about our ability to utilize our opportunity and drive toward our long term plan.
+
+So with that, we'll turn it back to the operator and open for questions. Thank you.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question-and-answer session. [Operator instructions] Our first question comes from Koji Ikeda with Oppenheimer. Please go ahead.
+
+Koji Ikeda
+
+Hey, great, guys. Thanks for taking my question. So I had a question, kind of thinking about the future growth profile of the business here, specifically next year. So with the -- it sounds like you had a great launch of Answers but that really pushed out some of the sales cycles, resulting in that fourth quarter guide looking kind of at the mid-20s. So considering that you guys are a subscription business and you have talked about 30% sustained growth in the past, do you still feel confident that you can grow 30% next year? Thank you.
+
+Howard Lerman
+
+Thanks, Koji. This is Howard, I'll take that question first. Look, we launched an amazing new product in Answers in Q3. And anytime you launch a new product, it's going to be a little bit disruptive. This is the first major product that we've launched in five or six years. And it slowed the deal cycles down a little bit for upsells for new customers. Think about for example, if you were launching -- if you broke your iPhone, and then in 30 days, Apple was releasing the iPhone 11 and you had an iPhone 10, you think a little bit about, am I going to buy the 10 or going to wait 30 days and buy the 11. So we had some deals that slowed, as a consequence of launching this product.
+
+Second, we started the quarter off by kicking off a planned enablement roadshow in preparation. It took about 200 reps off the field for a couple weeks. We knew would give them a little bit less time to sell. But we didn't expect it quite to elongate the deal cycle in the quarter.
+
+And then the final thing I'll just say about the sales execution issue that we experienced with the launch of Answers is that, look, 45% of our reps are new this year. They all are getting comfortable with our existing products and starting to be able to sell them. But then throwing a brand new product at them with some new buyers and some new different types of dynamics involved was a little bit of a curveball, and it took, it took a little bit longer for them to digest that.
+
+So that's kind of our view on the sales execution in Q3. But that said, we've never seen a stronger pipeline, we've never felt stronger market demand for the Yext search experience cloud and we see the early feedback from all the new initiatives we're launching.
+
+And I want to say just one other thing, which is that we're an innovative company. We believe every company in the world that has a knowledge graph and obviously we believe every company in the world that has a website is going to need a Knowledge Graph in order to sort out all the different facts about their company and put them everywhere people are searching. Every customer journey starts with a search. And whether that's on Google, whether that's on a company's own website, we want to be -- we have the opportunity to be the company that provides the answer to that search.
+
+It's a very compelling and strategic place to be. And so we're really excited about this opportunity. We doubled our Tam with the launch of this new product. We have the most complete set of sales reps we've ever had, the most tenured we've ever had, we have a complete solution with the Yext Search Experience Cloud. And we believe very much that our future is -- our best days are ahead of us and I'll turn it to Jim for a sec.
+
+Jim Steele
+
+Yes, thanks, Koji. This is Jim Steele, just to kind of add some color. At the beginning of the third quarter, we're getting ready to launch Answers. So we brought our sales team as Howard said. That created obviously a lot of time out of selling mode, and we brought them in to train them on Answers, which is a very different sales cycle. We have a different buyer. In many cases, in fact, all the cases we've been selling at a much higher level.
+
+It turns out that every company is -- views their website as sacrosanct. They want to make sure that they're very protective of it and up until now, we've been powering, their external kind of digital ecosystem, with the Googles and Facebooks and Yahoo -- Yahoos and Bings and Yelp and everyone else. But when you're dealing with their website, it's a different level of being protective as a customer.
+
+So the CMO, the CIO, in particular, and the Chief Digital Officers, all got involved and we're dealing with different budgets. So created some complexity in terms of understanding the data architecture that goes into selling Answers, is really taking the knowledge graph that we've been already selling for a while, it drives our listings and pages products. But now we're also powering their internal website.
+
+So there was a lot of interest and just to give you an idea, we almost had too much interest because when we train the reps at the same time, we asked their sales teams for nominations for their customers, for early adopters, knowing that we weren't actually going general availability with Answers until the last few days of October, the last few days of our quarter. And we had 10 slots that we had available, capacity wise to deal with early adopter customers.
+
+Well, we had this overwhelming response, we had 130 nominations, and the customers all got excited. They said yes, we need this. We're interested in learning more and I'll give you one example, we had a healthcare company, a very large healthcare company that we were already working on their Knowledge Graph and listings opportunity. And when we introduced answers to them, they got very excited. But it brought a whole new sales path because we got involved with different executives. And they -- we went down a different path and they had different budgets. They wanted to bundle the two deals together. So that deal did not close in the third quarter, which we had expected.
+
+We do expect -- hope knock on wood. We do want to win this deal. Hopefully in 90 days, we'll be talking about it. But this is the kind of thing that happened. It definitely created a pause as customers wanted to understand how Answers fits in and they wanted to leverage an Answers purchase along with their other solutions that they're buying. But to Howard's point our demand has never been stronger. We have never been better prepared going into a quarter than we are today from a capacity point of view with 250 sales reps all trained and enabled on our solution.
+
+We've got this platform now with the knowledge graph and the new product with answers that it has just unbelievable demand. And from a leadership point of view, the leadership team and revenue has never been in a stronger place.
+
+We've got a world class team. We have Patrick Blair running our commercial business unit sales. We've got David Netsky, running our enterprise business. We've got Wendy Sturgis in Europe, our CEO of Europe who has been with the Yext over eight years. And we recently brought on Mary Fratto Rowe from Salesforce a couple months ago to build our customer success organization and to make sure our customers getting the most value they can out of our products.
+
+So the combination of all that and then we have, Udo San [ph] as our CEO of Japan. He built Salesforce Japan for 10 years. And with that team and the pipeline that's never been stronger. I am really excited about the growth opportunities for next year and starting you know going into the fourth quarter we're in a very strong position.
+
+Howard Lerman
+
+Right and I'll just remind everybody, I mean we did grow Q3 revenue 30%. Unearned revenue grew 32%, backlog at $283.7 million at the end of this quarter leaves us in good position for the fourth quarter and going forward. With our product offering and all those stuff that Jim described I mean our long-term growth strategy is still intact.
+
+Our focus clearly is on Q4 because that drives our fiscal year ‘21 guidance. So we'll give you all that stuff next quarter as we both finish Q4 and finish our budgeting. But I feel really good with where we're at. We've never been better positioned as a company for the products the sales team capacity, the solutions we have and growing the TAM just gives us a huge amount of opportunity. So yes we think the long-term growth plans are still very much intact here.
+
+Koji Ikeda
+
+Great. Thanks for taking my questions.
+
+Operator
+
+Our next question comes from Naved Khan with SunTrust. Please go ahead.
+
+Naved Khan
+
+Thanks a lot. Couple of question. So maybe I think you guys talked about a few things in terms of -- that might have affected the quarter and also going forward including maybe a couple of lost week's training the sales reps as well as longer decision-making. If we have to think about Q4, how much of the impact was kind of one-time related to training the sales reps versus sales cycle getting elongated.
+
+And I think you also mentioned about pipeline being at a record. Is there at some point a catch-up when you see more conversions happening in the pipeline and people just kind of are basically willing to comment more dollars? Or how should we be thinking about it? I thought Answers in some ways could actually help accelerate sales just because it's so compelling and can you just help us walk through the thinking on your end?
+
+Howard Lerman
+
+Thanks, Naved. It's Howard. I'll take the question. We don't see this as a multi-quarter problem. We expect to have a seasonally strong Q4. It's not a catch-up quarter. Our deal flow is strong but these are big deals and it's a new product so there's a little bit longer closing cycles as large deals take time. We got to educate customers on the new product, get embedded into our customer's account. They've got a fine budget for Answers. So we'll make up in Q4 what we've missed in Q3 but we are building a pipeline strong and we've got great demand momentum.
+
+Naved Khan
+
+The other thing I wanted to ask was -- so this is sort of a new metric released on like new customer -- total customer count including the mid-sized. Can you give us a sense of what the contribution is from mid-size currently and how that might grow?
+
+Howard Lerman
+
+Yes, I think we just started in our mid-market. So a lot of our business still comes from the larger enterprise accounts and quite frankly that's where a lot of the hiring came in the last couple of months in Q3 was in our mid-market. So you'll see mid-market starts to become a contributor over the next year. But as you know there are smaller deals quicker deal cycle which is why we want to invest there and some great accounts. But for this quarter and I think for the next couple of quarters you will see us still be dominated by enterprise deals predominantly.
+
+Jim Steele
+
+And we encourage you to stop at Subway on your way home to support our newest largest customer.
+
+Naved Khan
+
+Thanks. With respect to head count, can you maybe just brief us on what your thinking is? Do you think the hiring might slow down a bit because at an appropriate level or what kind of thinking is that?
+
+Howard Lerman
+
+So I think -- so there's a couple of things here on the overall company have count of course we've been on plan and we will continue to be there. What we've done is accelerated the sales rep hiring and that's still going to be a point of focus here. And you've heard me say this, we're not in the 32 NFL markets in North America. We have a great opportunity, clearly in international growing at 67%.
+
+So we're going to continue to hire both sellers and developers predominantly in this company. That said you don't bring on the quantity of sales reps in the period short period of time that we did without taking a little bit of a breather assimilating them and getting them productive.
+
+And so you'll see us kind of push ahead as business pushes ahead. But right now we've kind of got to integrate all these people we just brought on and make them successful. But we've not stopped hiring, we've not really slowed hiring in the areas of development and sales reps.
+
+Naved Khan
+
+Thank you.
+
+Operator
+
+Our next question comes from Mike Murphy with JP Morgan. Please go ahead.
+
+Unidentified Analyst
+
+Hey guys, Adam Burshey [ph] on for Mark Murphy. First question on Yext Conversion Tracking. So some partners during ONWARD, said that that's the feature they are most excited about doing it. And independent of the sales cycle elongation do you guys have any feedback on how this might be helping like changing the sales process since it makes it easier for customers to track IOI [ph].
+
+Howard Lerman
+
+So Yext Conversion Tracking just to give everyone a sense of what that is, if you haven't seen it before, it allows customers to track not just the clicks they're getting out of their search experiences but also attract conversions as they define it. This is a new feature we launched at ONWARD. It's part of our existing packages and it lets customers see not just clicks but also conversions as well across their listings on their pages and with Answers. It doesn't change the amount that they're getting from the product. It's just a new way for them to analyze the features.
+
+So I don't think that has any impact whatsoever on the sales or sales execution. One of the coolest things about Yext Answers is that you can see what people are typing in, what they're searching for, what they're asking questions about and quickly react. And then you can for the first time add a transaction to a site search.
+
+So traditional side search today when you run a site search, if you go to like Citibank.com and you search for something what they do is they give you 10 Blue links back. You try like searching for like student checking account and you'll see like there's like 10 links to maybe they're relevant results. But with the Yext answers for some of our customers that are using this product like we have several banks that are already live on it.
+
+Now if you type in say branches near me you get a Google-like experienced back with maps and the maps have transactions on them. And those transactions include phone calls and driving direction requests. It can actually be whatever the customer wants. So for the first time we've made it possible for a company to transact write-off -- sorry for a user to transact write-off the search engine results page of a site search, kind of like you can Google. And this is a breakthrough and customers are already seeing the results from this.
+
+I think I mentioned that one of our customers, a bank and they are a pretty big bank has seen a 25% increase in conversions. These are real people that are converting write-off the page to a user that went through Yext Answers versus went through their old site search. That's a huge lift and it's going to have a real impact on their bottom line.
+
+Unidentified Analyst
+
+Thank you. And second question, as you guys continue to build our your indirect sales channel do you guys have any feedback on the uptake of the certification program that you guys released. I believe those caught the Hitchhiker program. And how is it being adopted amongst major SIs. Thanks.
+
+Howard Lerman
+
+Hitchhikers is our new program that lets customers get certified and become super experts in our product. We had extraordinary demand for people to become hitchhikers at Yext, think of every SaaS company like Salesforce you have a Salesforce certified administrative at your company or maybe you purchased access to a Salesforce administrator that works at Salesforce. That's the program that we're implementing now.
+
+And these are experts in the product that help companies get set up and Hitchhikers play a key role in helping a company get setup, maintaining their knowledge graph and creating the original architecture and schemo for that graph, keeping all the entities live getting all the connections into the knowledge graph, and the data can flow in from all the different systems across the company making sure that data can make it out to any partner that might be using Yext, your app directory.
+
+And then also setting up the pages setting up the websites, getting all the styling correct. You have to do some basic CSS and some other type of some coding to kind of make that happen. It's not like hardcore engineering but you need to have some technical expertise to do it. And then finally watching the queries come in watching the questions come in as people asked up, we've got be able to answer. And so hitchhikers are experts at being able to quickly react and keep a customer current in all their search experiences everywhere.
+
+That's the goal of this program. And it's going to be more formally rolled out. We took initial interest we had overwhelming response and these hitchhikers are going to be a key part of helping customers get going like certified administrators are for Salesforce.
+
+Operator
+
+Our next question comes from Tom White with D.A. Davidson. Please go ahead.
+
+Tom White
+
+Great, thanks for taking my questions. In the prepared remarks you guys talked about kind of the strong pipeline and demand, exiting onwards for answers and the fact that customers want to digress, learn a bit more about the product. Given that Steve is there any kind of color you can give us on sort of the trajectory for kind of unearned revenues growth in the fourth quarter.
+
+And then just a follow up to another question about the outlook for next year, I just wanted to clarify. Steve, it sounds as though you guys are still comfortable with sort of that 30%-ish revenue growth target that you guys have talked about in the past. I just wanted to get clarity there given sort of this slower exit to the year and some of the comments about the elongated sales cycle? Thanks.
+
+Steve Cakebread
+
+Sure. I think on the long-term strategy, and where we see ourselves is that 30-plus growth is still intact and quite frankly it's stronger just because market size, sales quality, new products et cetera. So that's not changed. I mean you have to be a little careful. If you look at our quarters, keep in mind we're still big deal, enterprise driven. So we're going to get some volatility in the quarterly numbers but year-to-date we're still in our model.
+
+In terms of Q4, yes, there's -- obviously ONWARD generates a huge amount of demand with particularly when you bring out new products. We have a lot of work to do. And yes, I think everybody feels really comfortable about where the opportunities are for us. But as we've said a couple of times on this call there's big deals, it takes a while. There's more budget, there's more people. And so it's -- our job to go out and execute in Q4 and we'll talk about that when we get to the end of the quarter.
+
+Tom White
+
+Great thanks so much for the color.
+
+Operator
+
+Our next question comes from Mark Mahaney with RBC Capital Markets. Please go ahead.
+
+Unidentified Analyst
+
+Hi guys. This is Mike Chen [ph] for Mark. I was just wondering if you could provide a little more color on the international. I know you mentioned Germany and Japan being pretty strong market. But any more color on some of the other top performing markets. And are there any specific international markets where you may need to expand headcount a little more than others? Then I have a follow-up.
+
+Howard Lerman
+
+Hey Mike. So it's been exactly three years since we opened up our office in Northern Europe based out of London for the UK and then about 2.5 years ago we opened up Germany and France and as part of the Southern Europe we also have an office in Italy. And those have been great markets for us. I mean, as Steve said, the growth rate internationally has been tremendous. We have 67% growth which is really driven by the luxury retailers in Europe. You think about any of the names from France and from Italy, a lot of those customers are our customers.
+
+We have tremendous growth there. Financial services is very strong. So our international market we love it, we moved Wendi Sturgis over there in February of this year at the beginning of the year as our CEO for Europe. And we have three strong MDs that are running the 3 regions there. So we are very optimistic. And then in Japan, Japan has been about a 1.5, 2 years since we hired Udo San. And that has been just a great success story as well.
+
+So we have customers in a 150 different countries. And of course we have our operation in China as well, because a lot of our global brands have operations throughout China. And we have very good relationships with all the publishers, all the third-party search engines there.
+
+So we see international is a great growth opportunity, but we're being very careful about not to expand too fast. Like we have those three markets, four markets including Japan and five, I guess if you include Italy. But all over Europe and Japan, we see so much opportunity that we're not jumping the gun here on others. We have others in mind at some point, but we're not -- we don't want to move too fast.
+
+Unidentified Analyst
+
+Got you. And then just in terms of gross margins. Could you explain again why that came down quarter-over-quarter and year-over-year? And I know you talked about it being relatively in the range of 73% to 77%. But is that just going to be kind of lumpy quarter-to-quarter or is that going to like trend or how like that's going to be influenced [ph]?
+
+Steve Cakebread
+
+Yes, that's a good observation. I mean all our numbers are lumpy simply because we're doing enterprise business and revenue's lumpy, because of that as well. But we did just like in sales made some conscious investments in customer service and support. As Howard talked about Hitchhikers wasn't a big part of it but customer support does start to get -- we need to get those folks ramped up for answers and our other expansion. So I would look at it lumpy. And if you go back and look at our financial trends it does run between 73% and 77%. That's why I gave you the year-to-date because it's been kind of settling in the mid 74% range.
+
+So quarter -- the quarter numbers while I look at them year-over-year there are somewhat subject to what we do in a particular quarter but the year-to-dates are going to stay in the mid-70s range as we described.
+
+Unidentified Analyst
+
+Got it. Thank you.
+
+Operator
+
+Our next question comes from Stan Zlotsky with Morgan Stanley. Please go ahead.
+
+Stan Zlotsky
+
+Hey guys. Thank you so much for taking my question. Wanted to go back to Answers for a second. So when you're talking to these customers and clearly there's a lot of stakeholders that are brought to the table in those discussions. How much bigger are these Answers deals when Answers specifically is getting involved.
+
+Howard Lerman
+
+I’d say it's roughly double.
+
+Stan Zlotsky
+
+Got it. And the deals that you mentioned that slipped out of Q3, did you close any of them in Q4 yet?
+
+Howard Lerman
+
+Yeah, a few but there are still more deals to go, and we've got big deals. That's where things stand as you know I mean deals move in and out a quarter or so. Once slip in one quarter doesn't necessarily mean it's a bigger quarter. We still got $1 million deals to take down and those takes some time with budget. But we feel good about where we're at and what we're doing.
+
+Stan Zlotsky
+
+Got it, got it and looking at I know you don't like to talk about billing, Steve but you have a big seasonal Q4 coming up. And although you don't like to talk about billings the stock does trade on billings over a very tough comp coming up 49% from a year ago and you just printed 12% in Q3. How should we think about billings going into the big seasonal Q4?
+
+Steve Cakebread
+
+Well, a couple of things, I won't go through my diatribe on why billings is somewhat irrelevant but that said you saw Q4 revenues come down because clearly our business in Q3 in terms of bookings wasn't where we expected it to be. Q4 is huge and as we said we have new products so I'm not going to put any expectations out about billings. The one thing is we'll put both of ourselves out of our misery because we will in Q4 give you year-over-year growth in RPO. We are looking at giving installed base and a few other metrics. So billings will become very irrelevant to the conversation as we get our metrics sorted out for next year.
+
+Stan Zlotsky
+
+Okay perfect. Thank you so much guys.
+
+Operator
+
+Our next question comes from Brett Knoblauch with Berenberg Capital Markets. Please go ahead.
+
+Brett Knoblauch
+
+Hi guys. Thanks for taking my question. Maybe just on the recent investments you guys have been making over the past several quarters and maybe when do you plan on kind of seeing a return on that investment and maybe when should we start expecting to see some leverage in the business OpEx has just kind of consistently been outpacing revenue growth and maybe just how long you expect that trend to continue.
+
+Steve Cakebread
+
+I think there's a couple of aspects of this. One as we said we will continue to invest in our sales and marketing and our developers just because we've got some great new products. And we're totally uncovered in a lot of markets. Although Jim, as you heard said it's going to continue to work on sales efficiency and productivity which we're quite well aware of that, so that's not a surprise.
+
+That said part of the dialogue if you go back and listen to the script, next year for us we're carrying a lot of excess real estate into next year and until that kind of sorts itself out there's going to be an overhead to that. I think as we get into fiscal year ‘22 we start to see the efficiencies on the broader operation. So there's kind of two things going on that you look out as you look at next year.
+
+And again we'll describe a lot more of this for next year as we get through Q4 and we balanced revenue but we clearly -- the number of facilities with our head count growth we've added, like I said London, D.C. New York, we just are sitting in San Francisco today actually in new facilities we brought on in the last six months. We've got to outfit all of those, so you're going to see some impacts there. But I think that will go away in ‘22, fiscal year ’22. And then the rest of it is operational efficiency which we are really driving towards, it’s serious business to get to cash flow breakeven and operating breakeven. So that is not lost on us and that's where we're driving to.
+
+I think the product lineup the fact that we have strong pipelines et cetera starts to put in place the productivities that we're all looking for over the foreseeable future. But next year is going to be a little bit challenge because of facilities costs.
+
+Brett Knoblauch
+
+And then how should we think about hiring next year. Obviously up 45% so far year-to-date, is that…?
+
+Steve Cakebread
+
+Let me go into that. I mean some of it our hiring driven by what we do in Q4 too. So I think those are more appropriate questions as we get through Q4 and where we're going. I guess have we fundamentally will continue to hire developers and we fundamentally will continue to put sales reps in territories where we know we have great opportunity but we're uncovered.
+
+But in terms of specifics and totals and all that I really need to look at Q4 results and then we'll see how we scale the business next year.
+
+Brett Knoblauch
+
+Thanks, Steve. Thanks guys.
+
+Howard Lerman
+
+Great. Thank you, Brett.
+
+Ben we're going to go ahead and end today's conference call. And we look forward to chatting with you in the coming weeks and in January and wish you all a happy holidays. Thank you, Ben.
+
+Operator
+
+Thank you. The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

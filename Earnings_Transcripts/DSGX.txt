@@ -1,0 +1,399 @@
+@NASDAQ:DSGX
+@12.05.2019
+@-0.03
+
+Operator
+
+Welcome to the quarterly results call. My name is Adrienne and I will be your operator for today's call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. [Operator Instructions] Please note that this conference is being recorded.
+
+I'll now turn the call over to Scott Pagan. Scott Pagan, you may begin.
+
+Scott Pagan
+
+Thank you and good afternoon everyone. Joining me on the call today are Ed Ryan, CEO; and Allan Brett, CFO. I trust that everyone has received a copy of our financial results press release that was issued earlier today. Portions of today's call other than historical performance include statements of forward-looking information within the meaning of applicable securities laws. These statements are made under the Safe Harbor provisions of those laws.
+
+These forward-looking statements include statements related to Descartes' operating performance, financial results and condition, Descartes' gross margins and any growth in those gross margins, cash flow and use of cash, business outlook, baseline revenues, baseline operating expenses, and baseline calibration, anticipated and potential revenue losses and gains, anticipated recognition and expensing of specific revenues and expenses, potential acquisitions and acquisition strategy, cost reduction and integration initiatives, and other matters that may constitute forward-looking statements.
+
+These forward-looking statements involve known and unknown risks, uncertainties, assumptions and other factors that may cause the actual results, performance, or achievements of Descartes to differ materially from the anticipated results, performance or achievements implied by such forward-looking statements. These factors are outlined in the press release and in the section entitled Certain Factors That May Affect Future Results in documents filed and furnished with the SEC, the OSC, and other securities commissions across Canada, including our Management's Discussion and Analysis filed today.
+
+We provide forward-looking statements solely for the purpose of providing information about management's current expectations and plans relating to the future. You're cautioned that such information may not be appropriate for other purposes. We don't undertake or accept any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements to reflect any change in our expectations or any change in events, conditions, assumptions, or circumstances on which any such statement is based, except as is required by law.
+
+And with that, let me turn the call over to Ed.
+
+Ed Ryan
+
+Thanks Scott. Good afternoon everyone and welcome to the call. Thanks for joining us today. We kept the momentum going from the first half of the year and had another great quarter here at Descartes. We built business, delivered predictable results. We focused first and foremost on delivering superior predictable results for our customers, which in turn helps us deliver superior predictable results for our shareholders.
+
+Our consistent delivery of these results for all stakeholders has helped us build credibility in the market. That credibility is important across our entire business. Our credibility with the customer community helps us build deeper relationships and creates opportunities to deploy more solutions. Our credibility with the partner community helps us go-to-market more effectively with established global companies like SAP and Oracle NetSuite as well as emerging companies like Geotab.
+
+Our creditability as an acquirer and logistics and supply chain market helps open doors for new opportunities, and is an important factor when founders are contemplating where the best home for their business is. Our credibility as a neutral party and good steward of data has been instrumental in helping us develop and maintain good access to updated trading data content from governments and institutions.
+
+Our credibility as an employer helps us attract and retain some of the smartest logistics and supply chain minds on the planet, and our credibility with the investor community underpins our long-term strategy as we continue our journey to become a leader and logistics and supply chain technology. As we've said before, we believe this is a long-term game, and we believe that we have the right strategy, operating plan and credibility to be the winner in this market.
+
+On today's call, I'll talk a little bit about that strategy and our long-term operating plans. I'll also talk about some of the trends we're seeing in the market and how we believe our network based approach gives our customers an edge on their competitors. After my market update, Alan will then provide a detailed overview of our financial results, and then I'll finish up the call talking about our calibration for Q4 and our operating plans moving forward.
+
+First, let's start by going over some of the key financial highlights for the third quarter of fiscal 2020. We had another outstanding quarter of operating results and we're very happy with our key metrics, fueled by our continued organic growth and our ability to successfully integrate acquisitions.
+
+Revenue for the quarter was up 19% from Q3 last year, coming in at $83 million. Our adjusted EBITDA continues to grow nicely. For the quarter, we generated $31.5 million of adjusted EBITDA, an increase of 31% over Q3 of last year. Digital compliance continues to contribute nicely to this growth, growth that remains ahead of our plans of the mid to high 20s and adjusted EBITDA growth for this fiscal year compared to the previous fiscal year.
+
+We continue to convert our EBITDA into cash, converting 87% of EBITDA into cash and generating a record $27.5 million of cash in the quarter and consistent with our long-term operating plans, we've been investing cash back into our business to focused research and development investments and by combining with complementary businesses.
+
+We combined with four businesses so far in FY '20. You'll hear some updates from some of those investments in just a few minutes. All-in-all, another great quarter here at Descartes, continuing the momentum from Q1 and Q2, we have a predictable cash generating business and we have a solid balance sheet with financial capacity to continue to acquire businesses, and we're well positioned to continue our growth.
+
+So, let's talk a little bit about Descartes' strategy and how our network has been set up to help customers deal with an increasingly unpredictable business environment. Descartes has been connecting trading partners for more than 20 years to help them exchange information, automate processes, and move goods more efficiently. We are in the information business and we always have been. We are in a constant mission to connect more parties, collect more data and help those parties make use of that data.
+
+The proliferation of IoT devices and an increasing demand for real-time information is great news for us. Quite simply, we can now collect more data and we can get our hands on it quicker than ever before, but that's not an easy thing to do. It takes years to build a network and a lot of domain expertise to constantly keep up with the new standards while also maintaining old standards as not all customers move at the same pace.
+
+Logistics is a multi-party, multi-process problem and when you cut across nodes, geographies and industry verticals, you end up with a lot of data protocols and sources for data collection. You also end up with different data needs and semantics based on the type of supply chain participant. The carrier will think about things differently than the shippers as well as forwarders and the government agencies that they need to connect too.
+
+So if you want to have all those parties on your network, you need to have solutions that meet their requirements, which mean solutions for shippers, carriers, and logistics intermediaries. More than ever, we believe that connectivity is key. Increasingly, it is real-time connectivity that customers demands. Connectivity is required across the supply chain whether it's a consumer order or a B2B order. In order to be agile and react quickly to the opportunities are out there.
+
+Need to be connected to your customers, your logistics partners, applicable governments, your inventory information, and if you're moving goods internationally, you also need to be connected to updated content to understand total landed costs, and regulatory requirements. We've seen this coming and I've added to our network accordingly and we continue to invest in our network because the challenges for our customers are getting greater every day with the Amazon effect, and the constantly changing regulatory environment.
+
+When we think about what's next, we continue to invest to get good data quickly for our customers, which is where we think our long-term strategy of connecting shippers, carriers and logistics intermediaries will continue to pay off. Let's now take a step forward in terms of our customers are making use of our network. With access to real-time information, global trade content and connected trading partners. And let's take a look at that through the lens of a shipper, a carrier and logistics intermediary for a few examples.
+
+Last week was Black Friday, which is now a global phenomenon. It presents challenges and opportunities for shippers, carriers, and logistics intermediaries. From a shipper perspective, the challenges and opportunities with Black Friday and e-commerce more generally can vary depending on the size of the Company and their omni-channel strategy.
+
+Either way, the expectations are the same, consumers and now businesses as well are conditioned to have goods available within short delivery times, and they want real-time visibility into the status of their orders. Whether you're a large retailer, small e-tailer or something in between in order to satisfy your customers' expectations, you need to know how much inventory you have and where it is at all times. And you need to know your delivery capabilities and costs at the time of the order.
+
+In today's world, if you don't deliver on your promises, it can really hurt you as customers could be fickle and they have more choices than ever. We believe the connectivity is at the core of a successful e-commerce and omni-channel strategy. If you're a small e-tailer, for instance, you need to be connected to your various sales websites to display your products such as Amazon, eBay and Magento.
+
+You need connectivity to understand what's likely a distributed inventory situation. You need to be connected to your logistics partners to seamlessly print labels and execute shipments. And if you're sourcing or distributing goods internationally, you need access to updated duties and tax information to accurately calculate the total landed cost of your purchases, and your customer's orders.
+
+This is exactly the kind of connectivity and ecosystem you get as a member of the global logistics network. We spent considerable time and effort investing in our e-commerce tools for the SMB community over the past few years including acquisitions like Oz, ShipRush and pixi. And we think there are more opportunities to invest in this space moving forward.
+
+Similarly, if you're a large retailer developing or enhancing your omni-channel strategy, you may have a lot of similar pain points as the smaller guys, but on a larger scale and with some additional considerations, particularly if you operate your own fleet of vehicles. Descartes has a long history of helping fleet owners transform the delivery operations, moving from batch optimization to true real-time optimization, which is critical to help customers understand the profitability and certainty of any narrow time windows.
+
+We continue to be the go-to company for companies who are looking to distinguish their businesses based on the logistics operations. Our customers can use our dynamic scheduling home delivery solutions to enhance their customer experience right from the online delivery appointment booking through to the mobile monitoring and delivery at the customer's door. Let's switch gears and talk a little bit about how our connected network helps carriers manage the complexities of today's dynamic market.
+
+I'll start by emphasizing the fact that we're a multimodal network. So when we talk about serving our carrier community, it includes truck carriers, air carriers, rail carriers and ocean carriers. Continuing to tread briefly on route optimization, we have a number of truck carrier customers that are using our route optimization solutions to help them differentiate themselves with higher service levels for deliveries. So, this is a narrowing niche in that market.
+
+More broadly for the truck community, we continue to invest in our visibility and capacity matching capabilities, which I'll come back to in a few minutes. And we also have a number of other products that help truck carriers connect to their customers and improve efficiency. For instance, we have dock rescheduling solutions that help trucking companies more efficiently schedule their time windows at the stop, which makes the customer happy while the decreasing wait times.
+
+Our MacroPoint real-time visibility solution also connects trucking companies to their customers whether that's a freight worker or the associated shippers, again helping improve customer satisfaction while increasing efficiency. From an airline perspective, we've been connecting airlines to their customers and partners for years. We connect airlines to the freight forwarders community, the ground handler community, the shipper community and to the government agencies.
+
+More recently, we enhanced our toolkit for air carriers with the acquisition of CORE. Airlines use CORE's network to accurately track international mail, parcel, and cargo shipments as well as U.S. domestic mail and parcel shipments. What's unique about CORE is the leading edge IoT solution for tracking ULDs or unit load devices, which is the box, the pallets, the cargo is loaded into before it goes on a plane.
+
+ULD management is difficult and by incorporating Bluetooth-enabled IoT technology, CORE is helping the air carriers better manage their pool of assets. We are looking to link that data to individual shipment information on the GLM to provide even greater visibility to carriers, forwarders and shippers.
+
+We've also been connecting ocean carriers to the customers for decades. In fact, when I joined Descartes nearly 20 years ago, it was through the acquisition of the transport where I worked and our focus was on helping ocean carriers, publish rates and connect to their customers. We have grown that area of our business considerably since then, and now offer a number of advanced rate management systems for ocean carriers.
+
+We help connect ocean carriers to government agencies for customs filing initiatives. We have tools to help ocean carriers better managed the land position -- land portion of their container moves, and we helped connect shippers, forwarders and NVOCC to ocean carriers for the booking and execution of shipments.
+
+Finally, from a rail perspective, we connect the rail community systems to help our customers get visibility into shipment statuses, and we also have tracking solutions available for the same rail customers. Again, it's important to us that we have all the participants in supply chain connected to our network. And that's why we continue to invest in solutions across the board.
+
+So let's switch gears again and talk about how our connected network helps logistics intermediaries like freight forwarders and customs sized brokers. We continue to believe that freight forwarders, 3PL, customs brokers, NVOCC and other intermediaries will continue to play a key role in international trade into the future. Our strategy is to support and serve that community, not to displace, compete or disintermediate as some technology-based companies target.
+
+As a result, we continue to expand the solutions we offer this important group of industry players. We have targeted solutions for forwarders and brokers that help them connect and collaborate with carriers, other intermediaries and their customers, the shippers. And they can also make use of a wider set of solutions on the global logistics network, such as our content tools and our e-commerce foot print.
+
+We also continue to build out our solutions for customs filings and security compliance. As we talked about on the call before, rules and regulations are constantly evolving and we have a team of people dedicated to staying on top of this and providing solutions that help isolate our customers from complexity in this ever-changing landscape. This area of our business has seen strong growth over the last couple of years with the dynamic regulatory environment caused by trade wars and geopolitical forces like Brexit.
+
+Coming back to our investment in MacroPoint and the capacity matching product, we remained excited about the opportunity to connect brokers and carriers to match freight capacity with demand. Just to recap, our capacity matching solutions is designed for freight brokers and carriers to partner on an opt-in basis to share lean history and capacity to support better network alignment and utilization.
+
+As I highlighted before, it isn't about disintermediate and logistics service providers from their customers, it's just the opposite. It's a tool to help the logistics service providers and make them more successful. It's about helping logistics service providers respond to dynamic markets and self assemble to identify opportunities to connect, collaborate, remove friction, and respond to market forces that are threatening their business.
+
+As we continue to enhance the capacity matching solutions and add more usage to the community, we see more and more opportunities to really make a difference for our customers here and help them thrive in today's market. Hopefully, as we walk through these examples for shipper carriers and logistics intermediaries, we see a common theme, connectivity to trading partners and data sources is key and we believe that our multimodal network-based approach is the right solution.
+
+One last area that I would like to comment on before moving on is the integration of Visual Compliance. I just talked about the importance of having solutions for all the participants and supply chain. Some of our solutions are better suited for shippers, some for carriers and some for logistics intermediaries. However, some of our solutions are more universal and our trade data content solutions fit that bill with Visual Compliance being our mostly recent investment in that space.
+
+In order to stay on top of the changes to duties, tariffs, taxes, and sanctions list, customers need access to timely, reliable information and they take systems that can digest that information. Visual compliance provides software solutions, content and services to automate customs, trade and fiscal compliance processes with the focus on the denied and restricted party screening processes and export licensing.
+
+Adding Visual Compliance earlier this year not only gave us more scale in the denied party screen space but also brought new functionality that we have been talking the market over the last nine months. Nine months into it and we are very happy with the results. We're seeing improvement in our data collection and processing as we now have a wider content team now working together.
+
+We're also starting to work on product synergies. For instance, leveraging the Visual Compliance offerings combined with our Customs Info solutions. From a go-to-market perspective, we continue to see good cross-selling activities in Europe with our local team marketing and products and landing deals and our North American content sales teams are now unified.
+
+And from a financial perspective, we are really pleased with the continued growth of the recurring revenue of the business and the financial profile remains very healthy. Business continues to perform ahead of our plans, which has contributed to our aggregate growth being ahead of our planned range.
+
+Before handling the call over to Allan to talk a little bit more about the financials, I'd like to thank some people that continue to contribute to the strength of our business. So, thank you to our employees for all their hard work they put in to make sure our customer gets results. Our customers continue to get results and that's why we have a successful business. Thank you to our customers who continue to place confidence in Descartes as their network of choice whether you're a shipper, logistics intermediary, carrier, or even a government agency.
+
+Thanks for connecting and helping our community grow and thanks for your continued engagement. Thanks to our partners for helping us continue to expand our ecosystem and thank you to our shareholders, both new and long standing for continuing to have confidence in Descartes and supporting us with your capital.
+
+And with that, I'll turn the call over to Allan.
+
+Allan Brett
+
+Okay. Thanks Ed. As indicated, I'm going to walk you through our financial highlights for the third quarter ended October 31st. We are pleased to report record quarterly revenues of 83 million this quarter, up 19% from revenues of 70.0 million in Q3 of last year. This revenue result was achieved despite a foreign exchange headwind of approximately 1 million on revenue in the quarter, compared to the third quarter of last year. Excluding FX revenue growth would have been just over 20% in the quarter.
+
+Our revenue mix continues to be very strong, with services revenue, also increasing 19% to 72.6 million in the third quarter, compared to 61.1 million and both consistent at 87% of revenue. License revenues came in at 1.5 million or just over 2% of sales. This quarter, down very slightly from license revenue 1.6 million are also 2% of sales in Q3 last year. While professional services and other revenue came in at 8.9 million or 11% of revenue, up nicely from 7.3 million and again consistent at 11% of revenue in the third quarter last year, as project activity remained very solid in the quarter.
+
+Gross margin was steady at 73% of revenue for the quarter consistent with gross margin experienced in the third quarter last year. Operating expenses increased primarily related to the impact of recent acquisitions, offset partially by cost efficiencies as we integrate these acquisitions. With revenue growth and continued strong cost control, we continue to see strong adjusted EBITDA growth of 31% to 31.5 million, or 38.0% of revenue, compared to 24.0 million, or 34.3% of revenue in the same period last year.
+
+As a result of the solid operating results, cash flow generated from operations came in at 27.5 million or approximately 87% of our adjusted EBITDA in the third quarter this year. And this is up 43% compared to operating cash flow of 19.2 million, or 80% of adjusted EBITDA in Q3 last year. Going forward subject to unusual events and quarterly fluctuations, we expect to see continued strong operating cash flow conversions of between 80% and 90% of our adjusted EBITDA in the quarters ahead.
+
+From a GAAP earnings perspective, net income came in at 9.7 million or $0.11 per diluted common share in the third quarter, up 23% from net income of 7.9 million, or $0.10 per diluted common share in the same period last year. Overall, we are quite pleased with these operating results in third quarter, as strong revenue growth has allowed us to continue to make investments in the business, while achieving greater than 30% growth in adjusted EBITDA and producing strong cash flow.
+
+If we turn our attention to the balance sheet, our cash balances totaled to 28.8 million at the end of the third quarter, while borrowings under our existing revolving credit facility were 9.3 million for a net cash position of just under 20 million at the end of Q3. During the third quarter, we used cash flow from operations to repay approximately $25.5 million on the credit facility while we also drew approximately $11.7 million on the credit facility to complete the best transport acquisition earlier in the quarter.
+
+As a result, we currently have approximately $340 million available to us to draw under our current credit facility. And in addition, after using approximately $250 million in raising and issuing common shares earlier in the second quarter of this year, we are also able to offer just over $500 million of additional capital under the current $750 million base shelf prospectus that we have outstanding. So clearly, we continue to be very well capitalized to allow us to consider all acquisition opportunities in our market consistent with our business plan.
+
+As we look to the fourth quarter of this year, we should note the following. After incurring approximately $3.9 million in the capitalization for the first nine months of the year, we expect to incur between $1 million and $2 million in additional capital expenditures in the fourth quarter. We expect that amortization expense from past acquisitions will be approximately $13.6 million for the balance of this year which is the fourth quarter, with this figure being subject to adjustment for FX changes and future acquisitions. Our income tax rate came in at approximately $26.4 million for the first three quarters of the year which is very close to our statutory tax rate in Canada and the U.S. our two largest markets.
+
+Going forward, we would expect that our tax rate will continue to trend in the range of 25% to 28% of pre-tax income in the fourth quarter. So as always, we should add that our tax rate may fluctuate from quarter-to-quarter from onetime items that may arise as we operate internationally, across multiple countries. And finally, we expect stock based compensation will be approximately $1.2 million to $1.4 million in the fourth quarter of this year subject to any forfeitures of stock options or share units.
+
+And with that, I'll turn it back over to Ed to wrap up with our baseline calibration.
+
+Ed Ryan
+
+Thanks a lot Allan. Before talking about calibration, I just wanted to remind everyone that registration is open for Evolution 2020, our Annual User and Partner Conference. Evolution 2020 will be held at the Diplomat Beach Resort in Ft. Lauderdale, Florida from Tuesday March 17 to Thursday March 19, 2020. It's a great opportunity to meet the people that build and deploy our solutions, as well as the customers that use them. If you want to learn about Descartes, it's a really good investment of your time and I would encourage you to book early.
+
+Let's move on to calibration for Q4 FY 2020. Similar to previous quarters, we don't provide guidance, but we use our baseline calibration as a key metric relating to the ongoing health and strength of our business. Our calibration for Q4 assumes the following exchange rates; CAD0.75, €1.11 to U.S. dollar and GBP1.29 to U.S. dollar. Our calibration for Q4 is $79.3 million in visible recurring contracted revenues, otherwise known as our baseline revenues. And our baseline operating expenses are $53.9 million. This gives us a baseline calibration of $25.4 million for adjusted EBITDA for Q4.
+
+Some other key points related to how we're positioned for fiscal 2020. We have a solid financial footing. We have a healthy business that's well calibrated and we have a healthy balance sheet. We're profitable and cash generating. We have low capital needs within our organic business. And as you've seen from our recent historical financial results, we have solid growth in our organic business.
+
+Our primary uses of capital for continued use in acquisitions, we've completed 45 acquisitions since 2006. And we have access to additional capital capacity quickly should we need it, we have $9 million drawn on a $350 million line of credit and we have the ability to expand that line of credit to $500 million, if needed. We have a preliminary shelf prospectus for up to $750 million, of which just over $500 million remains unused to raise capital by other mechanisms.
+
+In short, we have good capacity for our planned acquisition activity. We have a strong acquisition pipeline as well that continues to be a lot of industry activity right now with consolidation continuing in our market. With our capital capacity and our execution capabilities, there are still a number of acquisition opportunities to expand the geographic reach, functional capabilities, trade data and content, or community or participants on our network.
+
+We continue to see lots of interesting opportunities out there to continue or even accelerate our pace of profitable growth. We're seeing both larger and smaller opportunities. And while we review everything as it comes our way, we're not buyers for buyers sake. The fact that we have an acquisition line of credit and a shelf line in place doesn't change how we view acquisitions. We intend to continue to be prudent on valuation, but we're confident in our ability to deploy capital effectively.
+
+As a reminder for our plans for the remainder of fiscal 2020, as we said in the past, our belief for sustainable growth in the long term is 10% to 15% growth in adjusted EBITDA. However, given the scale of Visual Compliance acquisition for fiscal 2020, we indicated we would grow in the mid to high-20s. You'll see from our results this quarter that we're ahead of that plan. As in the past we intend to invest any over performance back in the business, our growth is planned to come through a combination of organic and inorganic activities. And as always, acquisitions are not incremental to this plan.
+
+We intend to continue to focus on recurring revenue and deemphasized one-time license sales. Given the current performance of the business and mindful of the FX environment, our planned operating margin range remains 35% to 40%, but please keep in mind this could vary if buy other businesses that need fixing up or if the FX environment changes, both of which would impact that metric in the short run.
+
+And finally, as always, we'll continue to make ourselves available to shareholders to answer any questions. We believe we've got a great business. We want to be available to help people learn about our business. We continue to spend time and resources to get the word out and we hope you'll do the same.
+
+So with that, let's turn the call over to your questions. Operator, if you could open the lines.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. We'll now begin the question-and-answer session. [Operator Instructions]
+
+Ed Ryan
+
+Operator, I'm looking at list of people on the line too.
+
+Operator
+
+Okay, I can take Raimo Lenschow from Barclays first.
+
+Unidentified Analyst
+
+Mike on for Raimo. Thanks for taking my question and congrats on the quarter. I did have a question for you kind of on the macro environment. There have been some players talking about, in the software space talking about maybe seeing some weakness in Europe. Others have been kind of saying no, we're not seeing any of that. Are you seeing anything in terms of like macro environment that's having an impact on your numbers in any way, shape or form? And then I do have a follow up.
+
+Ed Ryan
+
+You're seeing in Europe?
+
+Unidentified Analyst
+
+Yes, yes, specifically in Europe, but then, on the macro as a whole?
+
+Ed Ryan
+
+No, I mean -- we heard previous same newspapers everyone else read. I think people were fearful of that over the last couple of months. We didn't end up really seen any of it in any of the numbers that we just reported. It looked pretty strong. Europe continues to perform pretty well. Over the last five years or six years, North America is probably outpaced Europe, but in the last few Europe is kind of me to come back in our business a little bit just performing a little better than normal, but no certainly nothing in the short term.
+
+Unidentified Analyst
+
+Okay, that's helpful. And then, I did want to call out you announced a partnership that you have with Microsoft on BI and the Descartes analytics offering. Can you talk a little bit about that offering and go into details on maybe some opportunities you see from that product?
+
+Ed Ryan
+
+Well, and I mentioned this earlier and you alluded to it earlier in the call. We have more and more data content available on our network and we're looking for more and more ways for our customers to be able to slice and dice that information to be able to use it effectively in their business. And part of that partnership that you saw being announced there is to help find ways for our customers to do that and give them the ability to design their own reports and tools and things like that, that would help them run their businesses more efficiently. The bigger our network gets the more data it collects and customers to make use of that data to try and figure out what they should do next. And the tool that Microsoft offers is plays a role in that and helping them to figure their own reports.
+
+Operator
+
+And your next question comes from Scott Group from Wolfe Research.
+
+Scott Group
+
+So I wanted to ask, what are you guys seeing from a peak seasons standpoint? And I just want to understand, how sensitive is your model in the fourth quarter to good or bad peak season and as we think about a more compressed peak between Thanksgiving and Christmas this year, is that good bad neutral for you guys?
+
+Scott Pagan
+
+Well, it probably doesn't matter a ton, but certainly when it's condensed it puts more pressure on our customers, usually people are still intent on buying the same amount of stuff and our customers just have to deliver a little faster. That usually is up being good for us because the more you have to do a quickly as a customer as a provider in the logistics space, the more pressure there is on you to have tools. Like the tools that we provide to help you be more efficient in your operation. And so I think, on a macro perspective, that's helpful to us. Otherwise, without commenting too much on future results, our customers seem to be performing well.
+
+Scott Group
+
+And then, do you have any preliminary thoughts about next year and your confidence in doing the longer term 10% to 15% EBITDA growth? Do you think there's line of sight potentially to that being better? Just any thoughts, you can give us some next year?
+
+Allan Brett
+
+No, listen, we've been saying 10% to 15% for a bunch of years now, I don't think you're going to hear us change that answer. We outperform it from time-to-time, but we think that in the long run is the best way to run our business, and I don't think you're going to hear us change that anytime soon.
+
+Scott Group
+
+You feel like you feel good about that 10 to 15 at least for next year?
+
+Allan Brett
+
+Right, I just said it like five minutes ago on the call, yes.
+
+Scott Group
+
+And then just lastly, I know you talked about, feel good about the acquisition pipeline. Does it feel like it' growing, shrinking at all? You're looking focusing more on larger deals, smaller deals, just any help there in terms of what we are?
+
+Allan Brett
+
+Both for sure, we continue to see large deals come through. We often pass on them because they're being sold by private equities of bankers involved and lots of bidders, and they get too pricey for us. We're looking to get a good return for our shareholders; and if something there for price, we usually walk away. We've seen a lot of that over last several years and I suspect it will continue for some time.
+
+Our bread and butter is going after smaller tuck-in type acquisitions. Most of our best acquisitions came from that space. I think you'll continue to see us aggressively going after that market. We're looking to find good companies that want to sell their businesses. We oftentimes end up talk to them for a long time before we buy the Company, and I don't think that's going to change anytime soon.
+
+Operator
+
+And our next question comes from Deepak Kaushal from GMP Securities.
+
+Deepak Kaushal
+
+Just a quick follow-up on one of the previous questions and then I have a couple more. Just in terms of the dynamics with private equity players. Am I to understand -- we've heard some reports here and there that there's been some change in thinking around deploying capital and private equity for acquisitions. Are you saying that you're not seeing any changes there? They're as strong as ever and fast and that's not expected to change in the coming years?
+
+Ed Ryan
+
+No, I would comment it in our view of the world, not necessarily if there's -- we see more for sale than ever which I think is the private equity community perhaps going, maybe this party is coming to an end, we should sell stuff. I've also seen them raise a lot of money. When they raise money, if you know about how they operate, they kind of have to deploy. So they're out there looking around and still bidding on stuff, but I think they're nervous right now that they, their bubble may burst one of these days. But I don't have a ton of evidence of that either, we have some evidence of it, but you know, it's just in the last couple months.
+
+I hear the same things that you hear and I -- is it true? I'm not sure yet. I see some things that I would think might point to the fact that they're getting nervous because they have a lot of stuff up for sale right now. But they continue to raise funds and I think when they raise those funds, they have to put them to use or they at least have a lot of pressure on them to put them to use. And I don't know how that's going to go from them in the near future, but I do think they've been as a group overpaying for companies for a long time.
+
+Deepak Kaushal
+
+Okay, thanks. That's helpful. Just on Visual Compliance, just wondering if you can comment on the competitive landscape and the competitive dynamics of that sector, now that you guys have combined your two businesses and are going to move it together. Are you getting market share? Go ahead.
+
+Ed Ryan
+
+We think we have a very competitive offering in the market. We think we're very well positioned. We think we have the best solution out there and we have one of the largest solutions out there. And I think, we're some of the comments I made earlier in the call, we're kind of trying to indicate that, we think buying that company and combining it with what we had already, not only in the denied party screen space, but also with complementary businesses that tariffs duty management business was a great idea, and I think that's started to bear fruits not only in our growth in revenue in that business, but also in the profitability of that business. So, we are looking for that to continue.
+
+Deepak Kaushal
+
+Okay. That's excellent. And one last question, and it's a same question but it's in a different part of your business. And I expect the dynamics are largely different there in the U.S. backhaul and capacity matching, it's a nascent business and you still doing a lot to pioneer in that market is my understanding. What is the landscape look like there? Are there a lot of startups vying for market share? Is any major players that standup head and shoulders above the rest? How can you kind of contrast the market dynamics in that part of the business?
+
+Ed Ryan
+
+You know what, what I think is going on is you see two different types of approaches to it. The one that we are taking which is to collect as much data as we can and provide it out to everybody that would might need it so they can make better decisions in their business and make more money as a result. And then you have the other types of companies then you know the names, but the Uber freights of the world that have said, hey, I can get my hands on any of that date that I am going to use it for myself to become a freight broker. And I'll try and beat the other freight brokers by knowing where trucks are and operating more efficiently using that type of information.
+
+We think the approach that we're taking is the better one. We think that it certainly more healthy for the industry to be served. We certainly have our hands on a lot more information about where trucks are going to be in the future that we believe anybody else in North America and we're trying to bring to bear to provide our customers with a great solution. It's still early days in this market and by no means something that is you are going to notice in our numbers anytime soon, but it's still a small business for us, but we think it's one that could be great.
+
+We have a bunch of pilots that are going -- we're going to close those pilots right now. We're working with those for 40 or 50 customers to try to make the solution better and better and better. So, that as we roll it out in the coming years to a broader audience that we have the best solution on the market. Like MacroPoint was, when it started, right, it's been a lot of time getting it right and then it went over a few years became a dominant player in that market.
+
+We hope to do the same with the capacity matching business. The guys that are turning in the other direction from us and saying I'm just going to be a freight broker myself, I hope they are a customer of ours one day, but in the meantime, I would rather be on our side, servicing couple of thousand freight brokers than trying to be a freight broker myself.
+
+Deepak Kaushal
+
+Okay. And the 40 to 50 pilots that you mentioned, I presume that most of those done, are you now serving them commercially on a post pilot basis or there is some kind of...
+
+Ed Ryan
+
+Yes. No. The pilot was never freight. When I say pilot, they are initial customers that agreed to help us build out the products and they may have had preferred pricing for doing that, but they were paying from the get go.
+
+Deepak Kaushal
+
+And they all are continuing to use the product.
+
+Ed Ryan
+
+Yes.
+
+Unidentified Analyst
+
+Okay, excellent. Well, thanks for taking my questions. I will pass the line.
+
+Operator
+
+And your next question comes from the Matt Pfau from William Blair. Your line is open.
+
+Matt Pfau
+
+Hey guys. Thanks for taking my questions. Ed, one of the follow-up on capacity matching solution, I believe the 40 or 50 or so brokers that you have on board are mainly medium-size brokers. Have you seen interest? Or have you been in discussions with larger brokers about them potentially leveraging the capacity matching solution?
+
+Ed Ryan
+
+We are, it's tougher to get them and we're a little reluctant to get them until we have all the functionality built out. But, we've certainly been in contact with them in the last few months. Some of our, we do business with almost all of them already right on the MacroPoint solution. And we're now going to talk about capacity matching, and trying to share, trying to show them the advantage of having access to all the information that we're able to gather on our network.
+
+They have some concerns about the size of their network and not wanting to help smaller players than that. We have some ideas of how to kind of neutralize that for them, where they're only exposing the same amount of data that everyone sees about them. They also have their own data, because if you're large and one of the largest brokers around you have a lot of data on your own. I think some of our initial ideas was to do this myself. And we kind of went in with the argument, why would you just do it yourself? If I can tell you where another 800,000 trucks are every day? Wouldn't you like to know that too?
+
+And I think that's the part where we're starting to really make some progress with the weather going here. Why wouldn't I use this Descartes capacity matching solution when I'm ready, to supplement the information that I have, we kind of maybe argument to them. You can get a certain number of matches out of your own network. Do it, but why wouldn't you take advantage of the matches that I can get you beyond that? And if every match saves you a couple hundred bucks, and I charge you 10.4 or 15.4 or 24, whatever. So it's a money tree. Why not take advantage of that? And I think they're starting to see it eye to eye with us on that.
+
+Matthew Pfau
+
+Got it, and on MacroPoint at your user conference earlier this year, one of the announcements was that there was a plan to roll that out in Europe. Just wondering how that's progressing if there's any update there?
+
+Ed Ryan
+
+Good, we're proceeding cautiously in that area. There is a lot of concerns in Europe about data privacy. There is certainly some language barrier concerns in Europe as well. We've stuck initially to the English speaking countries. And because these privacy issues were proceeding cautiously and rolling it out. You may have noticed that if you follow Geotab one of our big ELD partners, Geotab is just rolling out in the UK right now. The more trucking companies that have ELD devices, the more efficiently our MacroPoint service works.
+
+So we're kind of going in there, right behind them, saying, people that have this service would be great users of the MacroPoint solutions. Let's use that as kind of a starting point in the UK market. So I think we're proceeding cautiously. We think it'll be a nice business for us. Some day, I don't have any hopes for that to be the next couple months. But we're certainly working for the long-term in that business. And expect that, just like truckers in North America and their customers, North America want to have this high end visibility solution. We think customers in Europe will eventually get there as well.
+
+Operator
+
+And your next question comes from Justin Long of Stephens. Your line is open.
+
+Justin Long
+
+I guess to start. I know organic growth is tough to calculate, but it seems like we saw a bit of a deceleration in the rate of change this quarter, maybe around 100 basis points or so. If that math is right, can you talk about what drove that deceleration? And how you're thinking about the direction of organic growth going forward?
+
+Ed Ryan
+
+I'll let Allan speak to it specifically, but I don't think we agree it was decelerating, but…
+
+Allan Brett
+
+Yes, no, I think from our perspective, it's been similar this quarter to what has been the last number of quarters, sort of the last year and a half to two years. For most of you look in note three to our financials where we show the pro formas. There's a little bit of unusual extra revenue in the Visual Compliance numbers last year, that that throw it off a little bit, but we've been somewhere in that 5% to 6% range, and we're in a similar kind of range this quarter.
+
+Justin Long
+
+Okay, that's helpful. So it's been it's been pretty stable?
+
+Allan Brett
+
+Relatively, yes.
+
+Justin Long
+
+And then as a follow-up, I wanted to circle back to Visual Compliance, just because it seems like you continue to outperform in terms of integrating that deal, but is there any color you can provide on the magnitude of that outperformance relative to what you expected when you bought the business? And maybe you could speak to how much of the outperformance has been a function of the top line versus margins?
+
+Ed Ryan
+
+It's a little bit of both. It's doing well. We had high expectations for it in the beginning. And I think it may be even do it a little better than we thought, certainly making more money than we thought and we have a lot of hope for it, in the long run. We're starting to see customers come on board more and more quickly. Just in the past month or two, we signed the biggest customer they'd ever signed, big customer of ours, big existing customer of ours that was cross-sold the Visual Compliance solution. I don't think that would happen if we didn't get that acquisition. I don't think it would happen to them. And I don't think it would happen to us.
+
+As a result of the two companies coming together, we were able to bring on a very large customer, just as an example. And maybe more importantly, we're excited for the prospects of the future of that business. So we think we're the market leader in that space now. We think if you need that type of service, you're going to choose us to be smart to choose us. We think that if you don't have that type of service right now and you're a big player in the logistics industry, you're going to realize you need it soon. And so that's all very exciting.
+
+Operator
+
+Next question comes from Paul Treiber from RBC Capital.
+
+Paul Treiber
+
+Just want to follow-up on the last question, just in regards to the trade content strategy or the more of the go-to-market strategy and marketing behind that. What's the strategy in place to raise awareness? Because I think with the, obviously the tariff environment, there's a lot of focus on the changes there. In what way are you creating awareness among your customer base and then beyond your customer base, you provide these types of services?
+
+Ed Ryan
+
+I think the biggest help does is the newspapers, that keep talking about trade wars and security issues and things of this nature. That's been great for us and it has been for a long time. I think, as with every acquisition that we've done in the past several years, I mean look we have 26,000 some customers now. That's a lot of people that need these types of services that we buy a company they might have 1,000 or 2,000 customers, but we have 26,000, and cross-selling has become a huge part of what we do.
+
+Operationally, we've combined the MK Data, the Visual Compliance and now the Customs Info businesses together as one group that goes to market and we think that helps get visibility with the customers that need those types of services. The sales reps are outselling all of them together. And we think in the long run, that's the best way to run this business. And we think we certainly have a tailwind going right now. And then more and more people are realizing that they need to do this. And I think that's only going to continue.
+
+Paul Treiber
+
+Can you elaborate a bit more on the cross sales strategy from a sales perspective. I mean do you put sales incentives in place to drive cross sales. Are you building out like an inside sales force to try to harvest more revenue from them?
+
+Ed Ryan
+
+And the biggest thing we've done so far is put those sales forces together and make them operate as one and I think that's paid benefits not only for our customers who, where it makes it easier for them to find and learn about the solutions, but also for the sales reps that they're making more sales as a result, right? Would you rather go try and convince someone who's never heard of us to buy the solution or go convince someone that's already doing business with us? Well, as a guy that grew up in our sales organization, I can tell you, if they already have a contract with us and they're already doing business with us. We have access to their executives. We have a contract and a master term in place with them already. It's a lot easier to sell that way. And we're pushing ourselves get that we do have sales incentives, I don't want to get into those on the call, but we definitely have the ability to, from time to time provides sales people increased incentive to sell certain products of ours. It's not the main way we do business. But from time to time, we take advantage of that.
+
+Paul Treiber
+
+And then just one for our Allan here. Could you, Allan, the performance obligations that are in note 19, there's some variability quarter-to-quarter but good year-over-year growth. You just walk through some of the moving parts that drives the variability there?
+
+Allan Brett
+
+Sure. So what that is under the new revenue standard that is the sort of contracted revenue we have that we would receive over time. The number will fluctuate from time to time, a lot of our contracts we sign they'll be annual or for multi year. And as we go through a year you'll see, with, a lot of times with annual renewal, and so you'll see a fluctuation as you go through different parts of the year, right, they'll tend to be a little bit of a pop up of those early in a year, they may come off a little bit throughout the year, because there's only a portion of a year left, three months left is now at the end of the third quarter compared to nine months left at the end of the first quarter.
+
+Obviously, they're impacted by acquisition. So that number for us has increased with acquisitions throughout the year and then with not any significant acquisitions this year, you'll see a bit of a drop off just simply that period of contract is because time left for these contracts. So, small change, I wouldn't read too much into it, it's simply the remaining contract and life of commitments we have.
+
+Paul Treiber
+
+Is there any seasonality in terms of the renewals or is it fairly inconsistent or throughout the year?
+
+Allan Brett
+
+There's a renewal throughout the year. There is a little seasonality. You're going to see more renewals come at different times. We've got a couple of large contracts that that will have an impact for the year, but typically beginning of January, January beginning of our fiscal year you'll see a little bit more renewables in the January-February timeframe. And with our annual they drop off throughout the year. So there's a little bit of that seasonality that you'll see.
+
+Operator
+
+And this ends our question-and-answer session. I'll now turn the call back over for final remarks.
+
+Ed Ryan
+
+Great. Thanks, everyone. We look forward to reporting back to you in, on Q4 the next couple of months. Thanks for your time this afternoon.
+
+Operator
+
+Thank you, ladies and gentlemen. This concludes today's conference call. Thank you for your participation. And you may now disconnect.

@@ -1,0 +1,315 @@
+@NYSE:CLDR
+@12.06.2019
+@+0.03
+
+Operator
+
+Good afternoon. My name is Elaine and I will be your conference operator today. Welcome to the Cloudera Third Quarter Fiscal 2020 Quarterly Results Conference Call. All participants' lines have been placed in listen-only mode to prevent background noise. [Operator Instructions] Please note this conference is being recorded.
+
+Your host, Kevin Cook, Vice President, Corporate Development and Investor Relations. Kevin, you may begin your conference.
+
+Kevin Cook
+
+Thank you, Elaine. Good afternoon and welcome to Cloudera's third quarter of fiscal 2020 conference call. We will be discussing the results announced in our press release issued after market closed today. From Cloudera with me are Martin Cole, Chairman and Interim Chief Executive Officer; Jim Frankola, Chief Financial Officer; and Arun Murthy, Chief Product Officer.
+
+During the course of this call, we will make forward-looking statements regarding future events and the future financial performance of the company including those as merged with Hortonworks, generally these statements are identified by the use of words such as expect, believe, anticipate, intend and other words that denote future events.
+
+These forward-looking statements are subject to material risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements. We caution you to consider the important risk factors that could cause actual results to differ materially from those in the forward-looking statements in the press release and on this conference call. These risk factors are described in our press release and are more fully detailed under the caption Risk Factors in our Annual Report on Form 10-K. Our quarterly reports on Form 10-Q and our other filings with the SEC.
+
+During this call, we will present both GAAP and non-GAAP financial measures. Non-GAAP financial measures exclude stock-based compensation expense and amortization of acquired intangible assets. These non-GAAP measures are not intended to be considered in isolation from, a substitute for or superior to our GAAP results and we encourage you to consider all measures when analyzing Cloudera's performance. Except where noted, all numbers reported for prior periods of presented for Cloudera on a standalone basis since there is no comparative year-over-year financial information for the combined company.
+
+For complete information regarding our non-GAAP financial information, the most directly GAAP comparable measures and a quantitative reconciliation of those figures please refer to today's press release regarding our third quarter results. The press release has also been furnished to the SEC as part of the current report on Form 8-K. In addition, please note the date of this conference call is December 5th, 2019 and any forward-looking statements that we make today are based on assumptions that we believe to be reasonable as of this date.
+
+We undertake no obligation to update these statements as a result of new information or future events.
+
+Now Marty Cole, Chairman and Interim Chief Executive Officer.
+
+Martin Cole
+
+Thank you, Kevin and hello, everyone. Thank you for joining us to discuss our third quarter fiscal year 2020 results. Building on the momentum generated in Q2, I'm very pleased to report that we continue to execute well in Q3. Among the highlights, we delivered strong operating and financial results across-the-board and launched the Cloudera Data Platform which we refer to as CDP. The launch has been well-received by customers, partners and industry analysts. As we previewed in our last earnings call, we're implementing licensing and distribution changes. And this is also having a positive impact on our business performance. Over the last two weeks, we made CDP Data Center available well ahead of schedule. And announced enhancements to our partner program Cloudera Connect.
+
+In the quarter, our field team continued to ramp its performance, exceeding expectations across a number of dimensions. And we're experiencing improved operating leverage and moving towards substantial positive operating cash flow in fiscal 2021. These accomplishments all represent good progress for the business. During this call, we will recap the major announcements we've made it the Strata Data Conference in September. Describe our early progress with CDP Public Cloud and introduced CDP Data Center. Arun will be available during the Q&A session to help us answer any CDP specific questions you may have.
+
+With regard to our Q3 financial performance. Total revenue was $198 million. Subscription revenue was $167 million and operating cash flow was negative $6 million. Annualized recurring revenue was $697 million at the conclusion of the third quarter representing 13% year-over-year organic growth. Each of these results exceeded expectations. We also had another good quarter in terms of adding customers. We now have 977 customers who exceed $100,000 of ARR, a net increase of 24 in Q3. And we had an impressive increase in customers representing greater than $1 million of ARR to more than 150 in total.
+
+As I've been on the ground over the past few quarters, I've had the opportunity to spend time engaging directly with our customers and partners. It is gratifying to gauge their high level of satisfaction with our products and our roadmap. This is particularly noticeable among our largest customers. They remain stable and continue to perform mission-critical use cases with our products. Their enthusiasm for CDP is significant. For my time with customers, I've been further convinced that Cloudera's Enterprise Data Cloud strategy is on target and the market opportunity is real.
+
+I am now going to turn to recent product announced and our early progress with CDP. We made two major announcements at the Strata Data conference in September. First, we launched Cloudera Data Platform for Public Cloud. Launching three cloud-native services. Cloudera Data Warehouse, Cloudera Machine Learning and Cloudera Data Hub. These offerings all provide easy, self-service access to enterprise data and analytics. CDP Public Cloud represents a highly competitive set of cloud-native services. With a key differentiation of a single pane of glass for securing and managing all environments.
+
+Although these Public Cloud services are distinct and fully functional are discrete offerings, our customers tell us they want the comprehensive capabilities of a multifunction platform with solutions that are hybrid and multi-cloud capable. CDP is different than other offerings in the data management and analytics market today because CDP has made to run on any cloud, on-premises and in any hybrid configuration customers prefer. CDP is multifunction, supporting the broadest array of enterprise-use cases from the Edge to AI. CDP is secured and governed across any environment.
+
+The technology delivered through our shared data experience, SDX is unique. And CDP is open. Open source, open compute and open storage. Our customers have told us that these are the factors they value most in determining how to optimize cost and performance of workloads. CDP Public Cloud services are available today on both Microsoft Azure and Amazon AWS. The second major announcement at Strata was the introduction of CDP Data Center. CDP Data Center is our next-generation on-premises offering representing the strongest elements of the former Cloudera and Hortonworks platforms, as well as significant new innovation for secure enterprise analytics and data management.
+
+CDP Data Center delivered differentiated technologies such as virtual private clusters that separate compute and storage for better scalability and performance. It also includes a preview of a new object store for on-premises, code named Ozone that can scale to billions of files or objects more than ten times improvement over HDFS based systems. Importantly, CDP Data Center is built on the same code base as CDP Public Cloud. This makes the managed of analytic clusters in the setup of SDX security and governance easy. The platform also benefits from extensive testing, hardened by both cloud testing and bare metal testing. And CDP Data Center is the first step in delivering CDP Private Cloud, providing all stateful aspects, data, metadata, security governance and infrastructure.
+
+It is the foundation for CDP Private Cloud containerized experiences for warehousing, machine learning and more. In a nutshell, CDP Data Center is built for hybrid cloud, optimized for bare metal and ready for Private Cloud. CDP Data Center became available on November 22nd earlier than promised. It represents another impressive effort on the part of our engineering team. We're already seeing significant traction for it in our pipeline.
+
+Now let's review the early customer response to CDP Public Cloud. CDP Public Clouds seems to have hit the mark. Many customers have been waiting to see the precise composition, functionality and performance of CDP before cementing their Cloudera led data strategies. Just as publicly demonstrated CDP to customers was reassuring in fiscal Q2. Its launched was a catalyst for our results in Q3. It has inspired confidence for our customers who are considering leveraging Public Cloud infrastructure. And these customers are renewing with plans to adopt CDP Public Cloud. As a result, we have targeted existing customers with workloads that are well-suited for hybrid cloud implementations. We have intentionally employed a very deliberate rollout strategy to help ensure early success for these customers. We began with 19 large customers who expressed interest in being early adopters of CDP Public Cloud.
+
+18 of the original 19 of advanced to live testing and limited usage of the offerings. When we launched, there was a waiting list of more than 50 customers who have indicated interest and intend to trial CDP Public Cloud. As of today, we have transitioned 49 of these customers through the evaluation phase. And a like number have been added to the queue. We chose to control the release of the software in order to collect feedback and identify any areas for improvement. We want to learn everything we can from the utilization of our cloud services by large enterprises especially concerning the first hybrid and multi-cloud use cases.
+
+The feedback we've received and the overall pace of progress has been encouraging. The following case studies are representative of the early successes we're seeing with CDP Public Cloud. The first is a multinational financial services company. They delivered data applications as a service to ensure their customers have the performance they expect they typically overprovision cloud capacity. They have also provisioned permanent clusters to provide the governance and security that has been and is the differentiation. As a result, they constantly trade-off customer experience and governance against costs.
+
+With CDP, they can eliminate the need to compromise. CDP's workload management enables them to deliver an optimal customer experience without over-provisioning. And with CDP's SDX, they don't have to sacrifice governance to deliver a great customer experience. With CDP, they get security, customer experience and lower costs. The next case is with a research-based biotech company. Their genomics research is driven by complex data engineering and ad hoc queries. As they considered next-generation cloud-native analytics alternatives, CDP became clear choice for two reasons. First, enterprise security and governance at which Cloudera has always excelled. And second, CDP delivers at a lower-cost. CDP's data warehousing auto scales up and down so the only use and only pay for what they need both Cloudera service and their cloud infrastructure.
+
+Shifting to APAC. Our next example is a major provider of telecommunication services. They rely on innovative data analytics to make their people more productive and to serve customers better. They have found at CDP's cloud native machine learning is a promising example of that type of innovative analytics service. It helps their data scientists experiment faster and collaborate better. Their IT organization likes it because it keeps them in control and embraces shadow IT. This is crucial to delivering innovation while ensuring security and governance. The final case I'll share with you with a global healthcare organization. They have already seen massive benefits with Cloudera by bringing together over 250 data warehouses to serve data and applications to nearly 2,000 people.
+
+They are evaluating CDPs data warehousing features like role-based access control, cloud bursting and identity federation. These unique capabilities enabled them to more easily and quickly replicate these existing applications to people across their Private and Public Clouds. And with CDP, they expect to build new applications faster by provisioning compute instantly and running workloads against their existing data lake but with increased security and governance. In addition to the positive response from customers, industry analysts have recognized and praised CDP Public Cloud. Industry expert and ZDNet contributor, Andrew Brust said and I quote, CDP is a total remake of the Hadoop/Spark stack. CDP is a virtualized platform that can manage data and data workloads, spin or scale the necessary cluster infrastructure and software up and down on demand. And do that on-premises as well as across the three major Public Clouds.
+
+Industry experts and analysts Tony Baer of Ovum added his perspective saying, to its credit Cloudera didn't simply do a cut and paste job with the new offering. It was a complete rethinking from the ground up, starting with re-factoring of storage and compute that severed ironclad connection between Cloudera platform and HDFS. Finally, it is worth noting that we also introduced new pricing options to reflect our cloud-native services and substantial improvements in features and performance of CDP Data Center. In simple terms, we have established pricing that is designed to be competitive with comparable offerings from AWS, Azure and the cloud-only vendors, while providing superior performance on a functionally equivalent basis.
+
+In order for enterprises to run mission-critical workloads, securely, reliably and scaleably, an integrated solution or Data Cloud is required. Cobbling together similar capabilities with competitors services is considerably more expensive than our offerings in both personnel and direct product costs. We believe our CDP Public Cloud services provide more value to customers at comparable pricing. CDP delivers enterprise grade security, governance workload analytics and cluster management without additional expense. CDP also includes NiFi and Kafka functionality. We believe this breadth of analytics, unified and integrated as-a-service is unmatched. And of course CDP enables cloud bursting as demanded by Hybrid Cloud used cases. All-in-all, we're pleased with our strong execution in Q3 and the initiatives we've introduced to drive sustained growth. We have new products, new pricing, new licensing, new distribution methods and a new partner programs.
+
+Each initiative is significant. Together, we believe they will have a material impact on our business. For example, we know there were customers who had indicated their intention to self-support than elected instead to renew their subscriptions in Q3. Since our compiled software will no longer be freely accessible, these customers concluded that they preferred to renew their subscription agreements. This is positive news yet it will take some time to assess their trajectory of this trend. Also as our previously released binaries age, becoming less secure and reliable, we expect some non-paying users of the software will convert to paying subscribers. In addition, consistent with our expectations churn improved in Q3 as compared to first half levels after adjusting for one very large deal that Hortonworks won from Cloudera at a deeply discounted price in Q4 fiscal 2019 prior to the merger closing.
+
+This deal impacted us in the most recent quarter as it took effect in Q3 of fiscal year 2020. Before I turn it over to Jim, I want to acknowledge the work of our field organization in Q3. In addition to my earlier shout out to the engineering team. The field organizations execution has continued to improve in terms of timely renewals, pipeline conversion and the accuracy of forecasting.
+
+Let's now turn to Jim to review the details. And then we will take your questions. Jim over to you.
+
+A -JimFrankola
+
+Thanks Marty. Hello, everyone. Q3 was a solid quarter reflecting sustained, strong execution throughout the organization. From a financial point of view, our results were again better-than-expected while early the initiatives that Marty described are beginning to take hold.
+
+Total revenue for the third quarter was $198 million and subscription revenue was $167 million. Operating cash flow for the quarter was negative $6 million. Because of the merger, comparative year-over-year information on these items is not meaningful. As always, details concerning definitions and trends can be found in the supplemental materials on Cloudera's Investor Relations website. Annualized recurring revenue for fiscal Q3 was $697 million, up 13% year-over-year. This was higher than planned driven primarily by existing customers renewing and expanding agreements with the certainty associated with the launch of CDP Public Clouds.
+
+As was the case in Q2, Q3 revenue and ARR benefited from stronger operational execution and improved field-level functioning. In Q3, we had fewer slip renewals than last quarter and excluding the one large Q4, 2019 deal that took effect in Q3. Dollar-based churn was better. We concluded Q4 with 977 customers who started at or have grown to more than $100,000 of ARR. This was a net increase of 24 over the previous quarter. Our largest customers remain stable and continued to expand consumption of our offerings. As Marty highlighted, customers representing greater than $1 million of ARR increased in Q3 to more than 150. As we review the remainder of the income statement, note that unless otherwise stated all references to expenses and operating results are on a non-GAAP basis. Historical NON-GAAP results are reconciled the GAAP results in the press release issued earlier today.
+
+Our adjustments from GAAP to non-GAAP are limited to stock-based compensation and amortization of M&A related intangibles. Total gross margin for Q3 was 77% driven by subscription gross margin of 86%. Q3 gross margin was level with Q2. Operating expenses were $161 million for the quarter or 81% of revenue, an improvement from 82% of revenue in Q3 of fiscal 2019. Including in operating expenses are $10 million of merger-related spending. Excluding these amounts, operating expenses were 76% of revenue in Q3. These results reflect a rapid achievement of our planned cost synergies and increased operating leverage since the merger.
+
+Overall, operating loss was $8 million in Q3 representing an operating margin of negative 4% which includes 500 basis points of merger-related expenses? Excluding these expenses, operating margin would have been positive 1% for the third quarter, a substantial improvement from Q3 operating margin of negative 3%. Loss per share was $0.03 in the quarter based on 283 million weighted average shares outstanding compared to a loss per share of $0.02 in the third quarter of fiscal 2019.
+
+Now turning to the balance sheet and cash flow. We exited Q3 with $502 million in cash, cash equivalent and marketable securities and restricted cash down from $509 million at the conclusion of Q2. Operating cash flow for the third quarter was negative $6 million which includes $6 million of merger-related payments. Cash flow with better than expected due to top line outperformance coupled with continued strong execution on merger-related cost synergies. Capital expenditures were $2 million in the quarter. These low levels of expenditures are indicative of Cloudera's capital efficiency. Total contract liabilities which comprised deferred revenue and other contract liabilities were $454 million at the end of third quarter, at the end of the third quarter RPO was $686 million.
+
+I will conclude by providing initial guidance for fiscal Q4 and updated guidance for fiscal year 2020. We expect Q4 total revenue to be between $200 million and $203 million and subscription revenue in the range of $173 million to $176 million. We expect our services revenue and margin will continue to decline over the next few quarters as we use some of our services personnel to support the rollout of CDP. Net loss per share is projected to be $0.04 to $0.02 based on 294 million weighted average shares outstanding.
+
+For fiscal year 2020, we expect total revenue to be between $782 million and $785 million and subscription revenue to be in the range of $659 million to $662 million. Since we are ahead of plan in capturing merger cost synergies, we now expect operating cash flow for fiscal year 2020 to be between negative $55 million and $45 million and net loss per share to be $0.21 to $0.19 based on 281 million weighted average shares outstanding.
+
+Projected operating cash flow for fiscal 2020 includes approximately $60 million of merger related payments. Adjusting for this merger related expenses, the business is expected to be cash flow positive for the year. With a merger complete in CDP end market, we intend to build on these results and are placing greater emphasis on cash generation in our fiscal 2021 plan. As discussed last quarter, consistent pipeline building throughout Q2 and Q3 is expected to yield bookings in Q4 and the first half of fiscal 2021. As such we're raising our subscription revenue and ARR guidance for Q4. Specifically, we anticipate Q4 ARR to be in the range of $700 million to $720 million. As a reminder, our fiscal 2020 financial plans do not factor in CDP customer adoption.
+
+We expect our plans to be achieved through the purchasing and expansion of our existing offerings for the balance of the fiscal year. The revenue impact of CDP will occur primarily in fiscal 2021.
+
+I will now return the call to Marty.
+
+Martin Cole
+
+Thanks, Jim. We're pleased to report another straightforward quarter for Q3. We executed our plans and again exceeded expectations, raising our outlook for the fiscal year. Stability, consistency of execution and delivery has been the focus of our leadership team. I'm happy for the entire team that their work is translating into tangible results. CDP Public Cloud is off to a strong start with customers. And CDP Data Center is aloft.
+
+I again want to thank our engineering team for delivering CDP Data Center so quickly after CDP Public Cloud. This greatly simplifies our customers' plans and our product roadmap. I want to thank our field organization for its commitment to meeting our new business goals for the quarter. I want to recognize and thank all of our employees across the globe for delivering against our business objectives and embracing our disciplined and action-oriented culture. And finally, I want to thank our customers and partners for continuing to believe in our products and services.
+
+Let's pause here and begin the Q &A portion of the call. As a reminder, Arun Murthy, Chief Product Officer has joined us and is available for questions. Operator, let's have the first question please.
+
+Question-and-Answer Session
+
+[Operator Instructions]
+
+Operator
+
+Your first question comes from the line of Chad Bennett from Craig- Hallum.
+
+ChadBennett
+
+Great. Thanks for taking my questions. Great job on the quarter. Everything looks really clean and good. So Marty, maybe few questions for you. It certainly sounds like CDP Cloud at least is going over very well with your enterprise customers. And what I believe at strata now with CDP Data Center or bare metal out. The customer interest at least then in that was actually exceeding maybe CDP cloud and maybe that's a function of kind of where they are at today. But just how do you think about CDP, how quickly CDP Data Center can impact bookings as soon as this quarter and into next year.
+
+MartinCole
+
+So I'll start Chad, I'm probably going to have both Arun and Jim add some comments here. Jim with respect to the bookings impact and Arun with respect to sort of product features and capabilities. So thank you for your comments and question. We are very pleased to have both CDP Public Cloud and CDP Data Center in the market. And we're now working with customers as we described throughout the call here who are getting early access to it and have been starting to look at used cases for the product. The beautiful thing is that under the CDP umbrella we have the Data Hub, the Data Warehouse and Machine Learning and all of those capabilities will be available whether you're in the Public Cloud, on bare metal as you described. And what we really think the ultimate opportunity will be is to crossover both of those and look at it in the hybrid environment.
+
+So let me turn it to Jim here. He can explain where we are with respect to expectations in terms of impacts which I will tell you is, as we've described in the past. We have very little impact in the current fiscal year by design in terms of our revenue model. And we will see more in 2021, our fiscal 2021, but Jim maybe you can comment a little bit on that.
+
+JimFrankola
+
+Yes. Very specifically on CDP Data Center that is the on-prem version of our software. The product was announced at strata. It was released on November 22nd. So it's just in the market right now. It's being evaluated by customers going through their security frameworks. So I would anticipate that we will sell CDP Data Center this quarter. But most of the deals that we see this quarter will be deals that were formerly targeted to be legacy Cloudera or Hortonworks on-premise software versions. So I, as we've discussed in the past this quarter's bookings are planned for this quarter are built on our current offering.
+
+I think the benefit of CDP Data Center and CDP Public Cloud will be primarily next fiscal year in terms of upside to our additional, our standalone bookings plans and Arun have to comment.
+
+ArunMurthy
+
+Thanks Jim. Once again thanks for the question. Just want to reiterate the way we looked at this from a product standpoint is it's one product. We have CDP, we'd launched in the Public Cloud. And then as CDP sort of just about releasing in for our on-prem customers. CDP Datacenter represents like Marty said in the prepared portion represents a stateful portion of CDP on-prem is about the data, the Meta data, and the SDX layer and so on. And as we released Private Cloud next year which will have which is completely based on Cabernets and containers and we bring to market all our offerings, machine learning offerings and so on running on Kubernetes, daily cleanly attach to CDP Data Center.
+
+So as a result what you see us doing is executing on this Enterprise Data Cloud strategy starting with Public Cloud now we have taken the first -- we've done half the step, if you will, on-prem and then we'll finish this next year with CDP Private Cloud on Kubernetes and containers.
+
+ChadBennett
+
+Great. And maybe one quick follow-up for me if I could. Jim, can you just talk about, I know you hinted that churn improved without that anomaly deal. And I assume you expect further improvement heading into the current quarter or year-end, but just generally speaking the seasonality of the bookings and renewals in the fourth quarter. And also I think it's typically IBM, your partner's biggest quarter of the year kind of level of visibility or comfort of seeing the kind of seasonal increase that someone would expect in this quarter around bookings and churn. Any comment there. Thanks.
+
+JimFrankola
+
+Yes. Let me unpack that. There are a couple of different elements. On the churn piece, once we moved past the first-quarter or two of the merger, our ability to plan and understand our business increased significantly and started parallel what we're like pre merger. So our anticipation of improvements in churn that we told you last quarter, we're tracking towards that and we expect to achieve the improvements that we had forecast.
+
+With respect to seasonality, we typically see 35% to 40% of our bookings occur in Q4. Our Q4 is looking like that this year as well. So we're forecasting a strong Q4 relative to the quarters that we've had earlier this year. And that's built into the guidance that we've given to you.
+
+MartinCole
+
+And, Chad, let me just comment because you made reference to IBM. And as we talked last quarter, they are a very strong partner of ours. We had a very good quarter with them in Q2. We continue to do well within Q3. It is an important quarter for them as well. Their calendar Q4. And we enjoy, continue to enjoy a good relationship with them.
+
+I'm particularly excited about the work we're doing together with Red Hat and OpenShift and Arun made reference to the Kubernetes work. We've got additional collaboration occurring there. And so a lot of momentum with IBM.
+
+Operator
+
+And your next question comes from the line of Sanjit Singh from Morgan Stanley.
+
+MarkRende
+
+Great. Mark Rende on for Sanjit Singh. Thanks for taking my question. I guess I think I know we just talked about CDP Public Cloud and CDP Data Center. But when you think about I guess longer term which do you see as the bigger growth driver? Or like particularly for that cohort of larger enterprise over a 100k ARR customers.
+
+MartinCole
+
+Yes. I'd say at this point we believe that we will have an offering to meet the needs of the enterprise whether it's bare-metal which is our Data Center offering, our Private Cloud offering or the Public Cloud. The beauty of it is, it gives them the flexibility to move across different platforms. Whether that's what we characterize the hybrid and the beauty of being able to move workloads into the Public Cloud as is necessary. But also where they want the security, the governance, the consistency that we're able to deliver through our shared data experience. So we give them the flexibility. We give them the opportunity to operate where they so desire and among our large customers, among our largest customers are north of $1 million in ARR.
+
+They want all that flexibility likely and in over the last few quarters I've been out in the field spending time with customers. Among our largest ones, certainly the financial institutions, they're more likely to stay on-prem in their own Private Cloud as they describe it. But there will be workloads that they will want to take the Public Cloud and have the flexibility to use a similar framework that we've delivered for them on the Private Cloud into the Public Cloud. That's really that's really what we describe as the Enterprise Data Cloud Vision.
+
+MarkRende
+
+Great and then maybe if I could sneak in one more quick one. Regarding the selling motion for CDP. Is it vastly different from the selling motion for the like the older existing Cloudera products? Or if it is very different, how is like the salesforce adapting to that different sales motion? Any color there would be helpful. Thank you.
+
+MartinCole
+
+Yes. So, Mark, at this point the selling motion is very similar. We're selling a product to enterprise customers. We're targeting a similar market audience. And so we're selling the same way particularly as it relates certainly to Private Cloud and Data Center version. Overtime, we may increase the market opportunity with respect to the Public Cloud version. And we're looking at other ways to sell that at a lower cost than what we have traditionally used to with our salesforce to sell product.
+
+Operator
+
+And your next question comes from the line of Raimo Lenschow from Barclays.
+
+RaimoLenschow
+
+Hey, congratulations from me. If you think about CDP and evolution there, now that you have like the optionality to go Public Cloud and Private Cloud or Data Center. What do you see in terms of customer feedback in terms of where do you want to land? Because remember a couple of quarters ago, we're talking about customers wouldn't start on-premise, is this kind of offering and the kind of the broader offering that you have that's changing the discussion?
+
+That was the first question. The second question is could you give us any color in terms of like what are the higher value-add services like the data warehouses et cetera. Like what, where do you see the most interest? Thank you.
+
+ArunMurthy
+
+Raimo, this is Arun. Thanks for the question. A couple of things. As we talk to customers we're seeing some interesting early patterns emerge. For small customers, they definitely look and saying, I want to maybe lift and shift some of my on-prem workloads and move us in the Public Cloud that's sort of one patter we see. The slightly larger pattern we see is I have a lot of existing infrastructure and workloads. But I might not have the capacity to run sort of the net new workloads I have. And they want to do this sort of Cloud Burst scenario. So where they want to take this workload, seasonal workload, run this once and shut it down.
+
+So and then the last one is they just want to take advantage of the different sort of differentiations that the Public Cloud vendors themselves provide. You might be able to do certain workload better on one Public Cloud versus the different ones. So we see that pattern where they want to take advantage of specific hardware capabilities available in one Public Cloud and sort of then bring the results back. The important thing we're seeing is there's a lot of sort of emerging understanding about how costs are such a key driver for them as they understand the cost profiles, their workload. They want the optionality of bringing it back, if you will, so that they have the arbitrage they can do.
+
+And that's why a big focus for us as being sort of optimizing cost and performance. And that has a huge payoff. In the olden days, they were sort of benchmark wars we'd win or lose, right? What we now have is actual real dollars at stake when it comes to performance and optimization. The other sort of part of the answer is what is also seeing is huge sort of interest in our data in motion in the ML platforms. Also what we're seeing is when you sort of have customers evaluating our products. They are also sort of really gravitate towards our barrels sort of offerings because they really understand and they really want to embrace this notion of containers and Kubernetes and bringing our offerings in a native fashion for all them particularly through our warehouse offering and ML offering has been sort of very key driver for us.
+
+Operator
+
+Your next question comes from the line of Mark Murphy from JPMorgan.
+
+MarkMurphy
+
+Yes. Thank you. Marty with CDP data warehouse and CDP machine learning in the marketplace now, are you finding that you're being pulled into the discussions that might have previously gone directly over to companies like or a product like Redshift and snowflake and Databricks or is it too early to make that kind of adjustment yet?
+
+MartinCole
+
+The quick answer and well informed answer is yes. We now have a competing product. The competitive dynamic has improved certainly with CDP Public Cloud. Previously customers were bifurcating workloads and say, okay, we've got to find another product to go into the Public Cloud. We like where you guys are on-prem but you don't have the offering that we're looking for in terms of ease-of-use, consistency, security, governance et cetera. That's no longer the conversation. The conversation has changed dramatically. And they're like, wow, we really like what you guys have here. We've enjoyed the experience on-prem. Now we can take that same experience and actually an easier or better experience and move into the Public Cloud that has been very powerful. And as I referenced in my prepared remarks, the shared data experienced SDX enables that to occur.
+
+MarkMurphy
+
+Okay. And as a follow-up, Jim, the sequential growth in ARR has been ranging between I think 1.5% and 2.5% for three quarters in a row. Based on the guidance it looks like it will be sort of similar around that range or a little lower. Would it, it would kind of seem to suggest I think that it will settle out at 6% to 10% year-over-year. If you were to just kind of trend that out. Is that what you expect or can you see a point where there would be a bigger sequential coming there as CDP really takes, starts to take hold more broadly?
+
+JimFrankola
+
+The answer is yes overtime. So we're not prepared to give guidance out for fiscal year 2021 yet. We want to see the rate of CDP adoption. We want to get through what's going to seasonally large Q4. But overtime with CDP, we think that we should be able to grow with the market. The market in the cloud is growing in excess of 20%. The market on-prem is growing depending on who you talk to in the high teens, sorry low-single digits to high teens. So we think with our new product offerings, we'll be able to participate at a much higher rate. And very specifically as we look over the next several quarters, we have a new product. We have new pricing. We have the licensing and distribution changes that we've put in place and a number of internal initiatives. So all of those are factors to think that we believe will give us a platform for growth in excess of those numbers overtime.
+
+MarkMurphy
+
+Okay. So just to clarify, you would not be able to say yet that this Q4 ARR growth, I think you're guiding it about 8%. We don't know yet if that's the trough in ARR growth.
+
+JimFrankola
+
+Once again, let us get through our Q4. Let us see the rate of CDP adoption. Let's see how some of these other initiatives start to gain traction. And then we will give you our guidance in March.
+
+MarkMurphy
+
+Yes, fair enough. And a very last thing, I was wondering if you could just re-explain the churn situation. It sounds like it improved across the vast majority of the base, but you were adjusting it for one large deal. I guess I did not fully understand the details or what has happened with that one large deal.
+
+JimFrankola
+
+Yes. In general churn is improving, very specifically Q3 and Q4 churn levels at an absolute level were roughly the same as reported. But in Q3, we had a large transaction that was merger-related. If we normalize for that then Q3 churn rates showed substantial improvement over Q2. So the major message is second half churn is getting better than first half as we disclosed. As we looked at Q3, we were pleased with our churn rate performance in terms of the things that we could control. And the one transaction that basically was put in place in Q4 that the shoe dropped and that meant that they reported Q3 numbers were roughly the same as Q2.
+
+MartinCole
+
+Just on that point, Mark. Mark, this is Marty, just to follow-up one other particular customer we referenced, it's not a customer we lost. But rather it was a customer where the volume declined based on what had happened prior to the merger on some pricing. So as Jim said though the second half churns rate is better than the first half of the fiscal year churn rates. So we're very pleased in terms of the trajectory and improvements.
+
+Operator
+
+And your next question comes from the line of Michael Turits from Raymond James.
+
+MichaelTurits
+
+Guys, congrats on a solid quarter. The discussion over the last couple of years has been challenges and competing with the cloud vendors in data lakes and applications running. You don't have the new products out but you're putting up solid numbers. Do you feel like that's because people now say, okay, there's a path to a product that we now like or you're executing better in the cloud. And are we clear that you actually are seeing better win rates in the cloud against the cloud providers.
+
+MartinCole
+
+Yes, Michael, it's Marty. So appreciate your question because it's sort of a great leading question. And the answer is having the availability of CDP, having the roadmap being able to demonstrate the functionality has greatly improved the conversations with our customers. As we talked about earlier in the year that was a challenge, we couldn't show them. We couldn't give them the details of what products will be available when. So now we have that capability and we're delivering products. So we've got CDP Public Cloud. It's been shipped customers who are using it. It's available on AWS and Azure. The CDP Data Center, the on-premises version.
+
+They're now having visibility to that. We just start shipping that a couple of weeks ago and made it available a couple of weeks ago. So that has changed the conversation and has empowered our field force, our sales organization to go have sit down and say, here's where we're going. Here's your journey. Let's now talk about the renewal. Let's talk about the expansion. This is a very positive conversation because it's around real products with a real roadmap that customers could experience. They could see they could touch. So just to be clear, are your win rates against say, CMR actually improving?
+
+JimFrankola
+
+Arun, are you going to take that?
+
+ArunMurthy
+
+Yes. Like we said we had a product in the market now for about eight weeks. The customers that we're talking and we are engaging with a really excited about sort of what we're doing from a security governance standpoint and particularly from a performance and cost optimization standpoint. Having said that it's very, very early. We don't have like real numbers to show yet. And we understand that the burden of proof focus on us. So expect us to come back to you in the next quarters and give you some more color there.
+
+MichaelTurits
+
+Jim, if I could follow-up with you, and I think Mark was asking about ARR. I know you're not giving guidance for next year, but as you move into 2021, can you talk about the relationship between our ARR growth and revenue growth. Is there any kind of lag and how we see ARR translate into revenue as we move into the next year?
+
+JimFrankola
+
+Clearly, this year ARR in revenue growth are much different numbers because of the purchase accounting. I would say at a high level I expect next year ARR growth and revenue growth to largely converge. There will be puts and takes, but as I'm looking at the numbers right now, I think the puts and the takes will roughly offset. Michael, does that answer your question?
+
+Operator
+
+And your next question comes from the line of Dan Ives from Wedbush Securities.
+
+StreckerBacke
+
+Hi, this is Strecker on for Dan. Just one quick one here. Can you guys talk about how sales cycles are changing in the field? And then specifically what you're seeing on larger deals? Thanks.
+
+JimFrankola
+
+Sales cycles have remained relatively stable this year. They're typically; call it six to seven, eight months for most of our transactions. The recent announcements have given greater clarity. I would expect that as we head into next year, we would start to see a slight improvement in sales cycles especially for things relating to the Public Cloud.
+
+Operator
+
+Your next question comes from the line of Jack Andrew from Needham.
+
+KhanhNgo
+
+Gentlemen, it's Khanh Ngo filling in for Jack this afternoon. Thanks for taking my question. Within your enterprise customer base what percentage of customers has tried developing unsuccessfully hybrid cloud features? And how would you describe the maturity level of these customers and the extension is like would they have gotten purchased CDP after unsuccessfully trying to build hybrid themselves.
+
+ArunMurthy
+
+Great question. It's very early for us, it's hard to make a comment on how many like a percentage basis, but we certainly know of several customers who have tried this in the past. The big blocker for them had been this notion of having a consistent security and governance model right. So if you had one set of software at one end and other sort of software at other end. The big problem was when they started do either data migration or workload migration, their land and scenarios where they put data in and sort of kind of lost control of the data or lost track of it. And then the workloads themselves behave differently because you're dealing with different sets of products here which is really what formed our strategy around CDP was to say, look, we have to have a consistent one pane of glass to help you manage all this infrastructure and this data. But furthermore, we went like a couple of steps and said, include as part of CDP are tools for migrating data and migrating workloads are helping customers understand what cost profiles you would see if you migrate workload from on-prem to cloud and so on.
+
+So with CDP, we expect this to actually accelerate. And this is why we continue to work really well also with the cloud providers themselves because they see us and on-ramp to drive more workloads to the Public Cloud.
+
+KhanhNgo
+
+Great and I guess in terms of driving demand to cloud-based CDP. Do you envision it mostly driven by organic demand from the customers or do you have to acquire some kind of calling customers and trying to make sure that they kind of understand your message there?
+
+ArunMurthy
+
+Yes. So it's actually been fairly organic in the sense that customers do have, they do see Public Cloud as a key part of that overall and present infrastructure strategy, right? So given that we're sort of the largest incumbent in the house in the sense that the amount of data we have and the amount of workloads we have on-prem, it's actually been fairly organic where we can actually go in and have this conversation as part of our regular roadmap conversation and not having to do this as a one-off.
+
+Operator
+
+And you have a question from Tyler Radke from Citi.
+
+TylerRadke
+
+Hey, thanks and apologies as kind of been dancing around earnings calls. Maybe we could just talk a little bit on the synergies; the M&A related synergies you saw this quarter. Maybe just talk about your confidence in those inflecting going forward. Certainly on the revenue side but also on the top side and how should we be thinking about those synergies and other levers as you reach or as you target breakeven cash flow in 2021.
+
+JimFrankola
+
+Okay. So let me start with that. And if Arun want to add anything on the revenue side at the end let him. So with respect to the merger in big round numbers, we are well ahead of cost synergies. The standalone companies pre-merger had a cost structure about $900 million. They were planning to grow independently to over a $1 billion. Right now we're tracking to less than $800 million of costs this year. And so we've taken well over a $100 million out of the run rate close to $250 million off the, what each company had planned to spend. Most of unless all the actions associated with the merger cost synergies are complete. Some of the benefits for the longer lead-time items like combining support organizations and financial systems are now just starting to get the benefit.
+
+So there are still some savings ahead of us associated with the merger, but essentially all the actions are complete and we're very pleased. In terms of the revenue synergies, those benefits are what we're starting to see now in the product roadmap. So CDP couldn't have come out if Cloudera was a standalone company or Hortonworks was standalone company or at least not come out in terms of the schedule that we have aggressively maintained. So the revenue side benefits of the merger will be associated with the CDP offering. Also some of the changes that we made in terms of licensing and distribution. Either one of us on our own would have found it very hard to make those changes. And then finally, we have the cross-selling of products, data-in-motion and machine learning which has helped us this year and those two have been our fastest-growing elements of our business.
+
+End of Q&A
+
+That concludes today's Q&A session. I will now turn the call back to the presenter for closing remarks.
+
+Martin Cole
+
+Thank you. And thanks again everyone for joining us today. As we move through the rest of this month, our Cloudera family sends our good wishes to all of you for a happy and healthy holiday season. Goodbye for now and thank you. operator?
+
+Operator
+
+Ladies and gentlemen, this does conclude today's conference call. Thank you for participating. You may now disconnect.

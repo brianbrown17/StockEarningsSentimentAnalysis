@@ -1,0 +1,343 @@
+@NASDAQ:SCWX
+@12.06.2019
+@+0.04
+
+Operator
+
+Good morning, and welcome to the SecureWorks, Third Quarter Fiscal 2020 Financial Results Conference Call. Following prepared remarks we will conduct a question-and-answer session. [Operator Instructions] At this time, all participants are in a listen-only mode.
+
+We are webcasting this call live on the SecureWorks Investor Relations website. After the completion of the call, a recording of the call will be made available on the same site.
+
+Now, I will turn the call over to Teri Miller, VP and Chief Accounting Officer. You may begin.
+
+Teri Miller
+
+Good morning, everyone, and thank you for joining us today to review SecureWorks financial results for the third quarter of fiscal 2020. This call is being recorded. This call is also being broadcast live over the Internet and can be accessed on the Investor Relations section of SecureWorks website at investors.secureworks.com. The webcast will be archived at the same location for one year.
+
+This morning, SecureWorks issued a Press Release announcing results for its second quarter ended November 1, 2019. You can access this press release on the Investor Relations section of the SecureWorks website.
+
+During this call management will make forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, but are not limited to guidance with respect to GAAP and non-GAAP revenue and net loss per share, as well as adjusted earnings before interest, taxes, depreciation and amortization.
+
+Our forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those anticipated by these statements. You can find a description of these risks and uncertainties in this morning’s earnings press release and the company’s Annual Report on Form 10-K for the year ended February 1, 2019, which is also available on the Investor Relations website and on the Securities and Exchange Commission’s website.
+
+All forward-looking statements made on this call are based on assumptions that we believe to be reasonable as of this date, December 5, 2019. We undertake no obligation to update our forward-looking statements after this call as a result of new information or future events.
+
+Some of the financial measures we use on this call are expressed on a non-GAAP basis. These non-GAAP measures exclude stock-based compensation, the impact of purchase accounting, amortization of intangibles and the related tax effect of these items. We have provided reconciliations of the non-GAAP financial measures to GAAP financial measures in today’s earnings press release available on our website.
+
+Non-GAAP measures are not intended to be considered in isolation from, a substitute for, or superior to our GAAP results, and we encourage you to consider all measures when analyzing SecureWorks performance. Also as a reminder, all financial information discussed is non-GAAP and growth rates are compared to the prior year periods unless otherwise stated.
+
+With us on today’s call are Michael Cote, President and Chief Executive Officer of SecureWorks and Wayne Jackson, Chief Financial Officer. Following their prepared remarks, we will take your questions. We would appreciate you limiting your initial questions to two, so that we may allow as many of you to ask questions as possible in our allotted time.
+
+In the event you have additional questions that are not covered by others, please feel free to re-queue and we will do our best to come back to you. Thank you for your cooperation on this.
+
+Now, I’d like to turn the call over to Mr. Cote.
+
+Michael Cote
+
+Thank you, Teri, and thank you everyone for joining us this morning for our third quarter 2020 earnings call.
+
+We had a very good third quarter delivering strong financial results, including revenue of $141 million, gross margin of 59.2% of revenue, which expanded over 300 basis points from last year, earnings per share of $0.01, EBITDA of $6 million, and cash flow from operations of $23 million, all exceeding our expectations for the quarter, including our highest revenue and gross margin as a public company.
+
+Additionally, our revenue retention rate was 99% and our average revenue per customer increased 8.5% from the prior year to $108,000. I am very pleased with our financial results this quarter. However, we still have work to do on the go-to-market front to accelerate our revenue growth rate.
+
+The annual value of sales contracts or ACV closed during the quarter was less than our expectations and below last quarter. The total value of the pipeline remained relatively flat in Q3, but the mix of opportunities in the pipeline is shifting toward our new software offerings, and the total number and dollar value of early-stage opportunities in the pipeline for our software offerings is growing.
+
+Although we're in the early stages and the numbers are not yet material, I am optimistic about the traction and customer feedback on the TDR and MDR offerings. We are seeing increasing momentum of the number of deals closed.
+
+We live in a world of accelerating digital transformation, increasingly complex technology ecosystems and a growing number of adversaries that take advantage of the fragmented approaches to security. To outpace and outmaneuver these adversaries, we are leveraging the combination of machine and human intelligence, combined with more than 20 years of threat intelligence and security operations expertise to rapidly detect and respond to the evolving threats facing our customers.
+
+Our new security analytics platform lays the foundation for changing the way security is done. Over time our new platform will enable our partners and customers to leverage the speed and scale of machine-learning with crowd-powered data and analytics to develop their own applications and detectors, delivered through an open marketplace.
+
+We took a significant step towards that vision when we announced our first cloud-native, software-as-a-service application on the new platform, Red Cloak Threat Detection and Response or TDR. The software is differentiated by a suite of machine learning, deep learning and behavioral-based detectors that are informed and in-risk [Audio Gap] intelligence and network effect.
+
+TDR supports a variety of end-point, network and cloud-based data sources, as well as collaborative investigations and automated response actions. Our recently announced Managed Detection and Response offering leverages TDR and provides optional 24/7 analysis. The new platform enables us to decouple software from services and provides our customers with choice, making SecureWorks world-class security solutions more broadly accessible.
+
+Feedback from the market for our new software offerings has been positive, the pipe is growing and sales are accelerating. I'm proud of the stronger security position we are providing for our customers.
+
+Our new offerings are also a more natural fit with the Dell Technology sales team and with channel partners. We're pleased with the momentum gained, partnering with the global Dell sales force on the Dell SafeGuard and Response portfolio. Last month our TDR offering was launched as part of an expanded Dell SafeGuard portfolio, adding the power of advanced security detection and response capability to Dell's endpoint products.
+
+TDR's now sold and concert with VMware's Carbon Black, Endpoint and Next-Generation AV product. And beginning today, our MDR offering is also available to Dell customers through the Dell SafeGuard and Response portfolio.
+
+In addition to our endpoint partnerships with CrowdStrike and CarbonBlack, we partnered with Microsoft to extend our advanced Detection and Response capabilities by providing full landscape visibility to Microsoft Advanced Threat Protection and Office 365 customers via our TDR App, helping them discover hard to detect threats without the need to deploy another agent.
+
+We have made significant advancements with the development of our Security Analytics platform and successfully launched our first software application. We view our investments in sales, marketing and channel as critical to transform the scale and scale our go-to-market efforts for revenue growth acceleration.
+
+To capitalize on the significant opportunity with Dell Technologies and other strategic partners, I'm excited to welcome Maureen Perrelli as our new Chief Channel Officer. Maureen will take the lead with developing and expanding Channel Engagement Strategy, closely aligning our product, sales and marketing teams to ensure customer success with the right partners. Maureen’s initial focus will be to build upon our recent success and further leverage the significant go-to-market opportunities across Dell Technologies.
+
+Ian Bancroft has led our sales team in AMEA for nearly four years. He has built a great team and worked closely with Dell Technologies and other key partners to more than double our revenue in AMEA to over $100 million, representing a compound annual growth rate of approximately 30%, and is assuming the important role as Chief Sales Officer, leading our Global Sales Organization. His proven track record, developing talent, driving sales processes, leveraging the channel and strategic partners and building strong customer relationships will be keys to his success in this role.
+
+And Steve Hardy, our new Chief Marketing Officer, will lead our global marketing strategy, including product marketing, demand generation, corporate communications and field marketing to support the direct sales organization and channel programs in a unified manner. With Ian, Maureen and Steve's leadership and focus on demand-generation, I'm optimistic we can drive more top-of-funnel activity, enhancing sales productivity and new customer acquisition.
+
+Finally, Paul Parrish will be joining us Monday as our new Chief Financial Officer. Paul brings more than 35 years of financial management experience, including significant software and industry experience. I look forward to partnering with Paul to drive the continued trends [Audio Gap]. Ian, Maureen, Paul and Steve, all report directly to me. I'm excited to have them as part of the leadership team and look forward to their impact helping to drive growth.
+
+Our revenue, gross margin expansion and operating cash flow were all strong in Q3. As we finish the year, we remain laser-focused on building on our progress to-date.
+
+I will now turn it over to Wayne to talk about our third quarter performance in more detail. Wayne.
+
+Wayne Jackson
+
+Thanks Mike and good morning everyone. We continue to maintain our strong financial position, while investing in our new security solutions and related go-to-market efforts. In the third quarter of FY‘20 revenue of a $141.3 million exceeded the top end of our guidance range, and represents a 6.2% increase over Q3, FY’19 and a 3.5% increase sequentially.
+
+Gross margin as a percentage of revenue was 59.2%, increasing from 56% in the prior year. EBITDA was $5.8 million, also ahead of our expectations, driven by higher revenue and gross margins, and we generated $22.6 million of cash flow from operations in the quarter, primarily on improved collections of accounts receivable.
+
+We exited the quarter with annual recurring revenue of $442.8 million and we closed ten deals with a total contract value greater than $1 million in the third quarter. Revenue from our Managed Security Solutions, including increased revenue from the Dell SafeGuard and Response offerings grew 8.9% year-over-year and comprised 77.4% of total revenue.
+
+Consulting revenue decreased slightly year-over-year as we focused our go-to-market efforts on our high-value subscription and consulting offerings such as incident response and technical testing, which continue to be an important component of our comprehensive security solution for our customers.
+
+Finally, revenue outside the U.S. represented 25% of total revenue in the third quarter, up from 22% of revenue in Q3 last year, on consistently strong growth in the U.K., Middle East and Japan.
+
+Gross margin totaled $83.7 million in the third quarter of FY ’20 or 59.2% of revenue, a 320 basis point increase from the prior year and 290 basis points from Q2. The higher gross margin is primarily attributable to extended MSS margin, as we further leverage our delivery costs and to the contribution from growth in Dell SafeGuard revenue.
+
+Third quarter operating expenses totaled $81.6 million compared with $69.4 million last year. Research and development expenses totaled 16.3% of revenue in the quarter compared with 15.2% for Q3 FY ’19, a 110 basis point year-over-year increase, driven by incremental investments in our software app and platform development activities.
+
+Sales and marketing expenses were approximately 28.3% of revenue in the third quarter compared with 25.5% for prior year Q3, driven primarily by sales costs associated with Dell SafeGuard and Response offerings sold through our partnership with Dell that did not exist last year this time.
+
+General and administrative expenses totaled 13.1% of revenue in the third quarter compared with 11.1% for the same quarter last year. Adjusted EBITDA in Q3 was $5.8 million compared with $8.6 million last year.
+
+Regarding cash flow and balance sheet items; as I mentioned, cash flow provided by operating activities was $22.6 million in the third quarter and $35.9 million year-to-date compared with $26 million of cash provided by operating activities for the first nine months of last year. DSO was 76 days at the end of Q3, down from 80 days at the end of Q2, and an improvement from 92 days at the end of Q3 last year. We finished the quarter with cash of $138.8 million, which increased from $115.8 million at the end of the third quarter last year and $117.7 million at the end of Q2 of this year. CapEx was $1.4 million for the third quarter.
+
+Now for guidance: In the fourth quarter of FY'20 we expect both GAAP and non-GAAP revenue of $138 million to $140 million. We expect non-GAAP net loss per share to be between breakeven and $0.01.
+
+For FY ‘20 we now expect the following: GAAP and non-GAAP revenue to be between $549 million and $551 million; adjusted EBITDA to be positive for the full-year between $11 million and $12 million; non-GAAP net loss to be $0.02 to $0.03 per share; GAAP net loss to be $0.45 to $0.46 per share. For modeling purposes we estimate that the tax benefit rate will be approximately 30% for the full year.
+
+Cash provided by operations to be between $45 million and $50 million and CapEx to be $14 million to $16 million. We're still in the planning process for FY ’21, so it is premature to provide specific guidance at this time. Qualitatively though, in the near-term our revenue growth outlook is cautious. However, as we execute on our security analytics platform, as well as our go-to-market strategy, we should begin to see MRR and net revenue accelerate later this year.
+
+I will now return the call to Mike.
+
+Michael Cote
+
+Thanks Wayne. We’ve begun an exciting journey to transform the cybersecurity industry by delivering innovative software solutions to secure our customers. I'm proud of our progress with launching our security analytics platform and software offerings and the traction gained in the marketplace, leveraging our powerful partnership across the Dell Technologies family, and the new leadership envisioned in our go-to-market strategy.
+
+As we continue to execute in these areas, I'm confident that we’ll deliver increased value to our customers and accelerate our growth. Finally, I would like to thank my SecureWorks teammates for their dedication to our customers. On behalf of the entire SecureWorks team, we appreciate your continued interest and support.
+
+Operator, you can now open the line for questions.
+
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions]. Your first question comes from the line of Sterling Auty from JPMorgan. You may ask your question.
+
+Unidentified Analyst
+
+Hi guys. This is Matt on for Sterling. Thanks for taking my question. I know in the press release and on the call you guys talked about TDR being sold with Carbon Black, and you know we've been seeing Dell increasing their activity in the security space. Just wondering if you guys could comment on really where is their focus in security, and what additional programs do you see them emphasizing in 2020? Thanks.
+
+Michael Cote
+
+So Matt, this is Mike Cote. I think your question was if we could comment on Dell’s focus in security?
+
+Unidentified Analyst
+
+Correct. Well, just given the partnerships and the moves they've made in this space, how do you guys kind of see them working with you guys in the future?
+
+Michael Cote
+
+Okay, I don't think I – let me comment on our relationship with the Dell Technologies family and with VMware Carbon Black, specifically I'm not sure in a position to comment on Dell's overall strategy or security.
+
+We've got a very good relationship with VMware and Carbon Black. Our Carbon Black partnership goes back several years in our endpoint partnership program, and as you can see in the announcement, we came out in this past quarter with a joint offering that has our TDR software combined with Carbon Black's software as part of the Dell's Safeguard endpoint partner program, and in the last we would expect that and are working with the VMware Carbon Black team to continue to enhance the capabilities we can bring to market.
+
+And having said that though, I would say that we at SecureWorks have been vendor inclusive for the last 20 years to allow us to work with the most effective, and come up with the most effective security solutions with our customers installed base of technology infrastructure. So we will continue to work with all of our security partners, including VMware, Dell, Carbon Black, CrowdStrike and the recently announced Microsoft across the various platforms that customers have and the infrastructure.
+
+So we're excited about the strategy that we're heading down and continuing to work with the Dell VMware, Carbon Black team to further, and the go-to-market team in that manner to further bring consolidated stronger go-to-market position and security solution.
+
+Unidentified Analyst
+
+Great! That's very helpful. And then just one last question from our side. I know you guys talked about international revenue coming in strong this quarter. Is there any – have you guys seen any softness in any specific regions or any concerns from customers around the macro-environment? Thanks.
+
+Wayne Jackson
+
+Yeah Matt, this is Wayne. In our business, no. Macro, EMEA is still strong for us as indicated by the growth in international revenue, so the answer is no.
+
+Unidentified Analyst
+
+Thank you. That's very helpful.
+
+Operator
+
+Your next question comes from the line of Alex Henderson from Needham. You may ask your question.
+
+Alex Henderson
+
+Great! Just one quick clarification. Could you just give us some guidance on what the interest and other line should be doing went negative after being positive. Can you give guidance on that for the upcoming quarter?
+
+Wayne Jackson
+
+Alex, this is Wayne. All of that sort of fluctuation in FX and for us FX is primarily UK, that’s certainly all of EMEA, but primarily U.K.
+
+Alex Henderson
+
+So the strength in the pound over the course of the quarter might actually help that number?
+
+Wayne Jackson
+
+You're talking about going forward?
+
+Alex Henderson
+
+Right. Well, given it's already moved to new recent highs.
+
+Wayne Jackson
+
+Yes. So Q3 obviously reflects the movement last quarter. If it goes the other way it would help, but we try to not forecast that.
+
+Alex Henderson
+
+Okay, great. So the question I wanted to ask was really around Microsoft Sentinel. You've expanded your relationship with them, but they also clearly compete. Can you talk about relative to Microsoft Sentinel offering what your advantages are and how you parse between the two when customers look at the two companies?
+
+Wayne Jackson
+
+Yes, so Alex, I'm not sure whether you're referring to the competitive nature of it, but we basically from our perspective look with the TDR application as the Microsoft ATP agent to be a data source for us to help customers through the TDR application, to be able to better detect and respond to things that they are seeing.
+
+So we're not looking at this, and I think you're referring to us potentially looking to sell the endpoints specifically itself. We're looking to do the cross-correlations to get the visibility across the full customer’s environment and are able to do that with Microsoft ATP as the preferred partner.
+
+Alex Henderson
+
+I see, and then if I could ask one other question. The CrowdStrike relationship, obviously you tightened your relationship substantially with Carbon Black as a result of your parent owning both companies in essence. Has that altered the degree to which you’re enabling people with the CrowdStrike or reduce the amount of business you're doing with CrowdStrike. I think that was a program that was just starting to really ramp up.
+
+Michael Cote
+
+Well, we – so I appreciate the question. This is Mike Cote. We remain vendor inclusive looking forward in the market to determine which of the various point products they want to use. We are still working with CrowdStrike and continue to work with CrowdStrike as a partner and have an installed base where we're taking the feeds off of the CrowdStrike endpoint and including them in the holistic solution that we're providing for our customers, as well as managing some of the CrowdStrike endpoints for those customers.
+
+With regard to the Dell SafeGuard relationship, the Dell SafeGuard relationship was previously used the CrowdStrike endpoint, and has moved to the Carbon Black endpoint and that would impact us because of the partnership that we have in the Dell sales organization and the revenue that they are generating. So that traction we're getting with the Dell sales team has gone well and we're continuing to see a lot of optimism in the growth that we'll see in that area.
+
+Alex Henderson
+
+I see, thank you. That’s a very helpful explanation.
+
+Michael Cote
+
+Thank you.
+
+Operator
+
+[Operator Instructions]. Your next question comes from the line of Brian Essex from Goldman Sachs. Your line is open.
+
+Brian Essex
+
+Hi, good morning, and thank you for taking the question. Congrats on the results in the quarter. I guess, I was – wanted to ask about Maureen and Steve joining the team, both in the channel and as TMO. Maybe if you could point to kind of any initial feedback from them in terms of their thoughts coming in with a fresh set of eyes and maybe initiatives that they are going to be focused on and how we might anticipate those initiatives would impact the organization both on pipeline spending and any organizational changes after the hire?
+
+Michael Cote
+
+Brian, this is Mike. Thanks for the question. I'll try and answer it, but I may not have picked up specifically on what you're asking. So if I don't, we’ll give you a mulligan with a follow-up question.
+
+I think as you know we had a Chief Marketing Officer position open and looked for a while. Steve’s been with us now I think two months roughly. From Steve's perspective, he is very heavily focused on capital funnel activity and demand gen, using the more electronic demand gen activities and focusing across the spectrum of the various buyers and influences in the decision process to help enable sales to be much more effective.
+
+So he has begun to take steps down that path, and I think is excited and optimistic about the opportunity to do some things on our branding and repositioning from a communication perspective or comps perspective, and to focus on customer loyalty and beginning to get a customer advisory board in place and prioritizing that list of items.
+
+From Maureen, Mau sees a very big opportunity here. Her background is working closely with and developing a channel within the EMC Organization and she is close with some of the leaders at the Dell Technologies channel team. So she sees a very big opportunity to leverage channel with our new product ties offerings in particular to help working closely with our sales organization to increase the effectiveness and efficiency of that sales organization, the core sales team.
+
+They – Steve and Mau have begin to talk already about working in a more fulsome go-to-market team and product approach, and I'm not going to give you the numbers, but I asked Maureen after about a week or two with us, what she thought three years from now would look like and I was pleasantly pleased.
+
+Brian Essex
+
+Okay and any – maybe just as a quick follow-up for either of them. Is this plug-and-play within an existing team? Do you anticipate any structural changes? In other words, do they have a view in terms of you know any change to the organizational structure, the teams that they work with or is this just complementary initiatives on their behalf?
+
+Michael Cote
+
+We have the leadership team on a go-to-market perspective in place today. They both have relatively small teams and should expect to see increased investments. I've talked to them about increased investments in both the channel and from a sales and marketing perspective. We'll find leverage to do that elsewhere in the organization, but I would expect them to continue to invest hopefully in the near term to drive results quickly from a top of funnel and channel perspective.
+
+Brian Essex
+
+Alright, that's super helpful. Thank you very much.
+
+Operator
+
+Your next question comes from the line of Saket Kalia from Barclays. Your line is open.
+
+Saket Kalia
+
+Hey Mike, hey Wayne. Thanks for taking the questions here.
+
+Michael Cote
+
+Good morning Saket.
+
+Saket Kalia
+
+First for you – hey, morning. Mike maybe for you, just a question on the core MSS business. I think you said the pipeline was roughly flat compared to last quarter. Maybe the mix is maybe trending towards more of your software products like TDR for example. So can you just talk about maybe what's happening with the core MSS pipeline? Just generally are you seeing any difference in competitive landscape there, are you seeing any difference in customers’ appetite for managed services? Anything on core MSS would be helpful.
+
+Michael Cote
+
+Yeah, I don't – Saket, thanks for the question. I would tell you that from a core MSS perspective and I've been saying this for a while now, I think the market is – I think the internet, the cybersecurity market overall is beginning to become more sophisticated, and more knowledgeable. I think that’s starting with boards and c-suites.
+
+We're doing a fair amount of learning lessons and learning sessions where we're spending a couple of hours either in our office or quite frankly at board meetings of customers or prospects. There is an increasing desire to understand security at a deeper level and to begin to understand how do we do a better job as an industry overall.
+
+So, I think if I take that down to the MSS business, we have made a concerted effort in the last 18 months and we’ll continue to do so to focus on the higher value side of “Managed Security Services,” but doing that through a software-enabled manner with the new platform we've developed and with our first App TDR with others to come.
+
+So when I think about the core Managed Security Service businesses, my hope is and desire is that we completely transform and change that in the way people are doing it from a value proposition and a perspective to – the reality of this is, what we want to do is help them put –automate all that we can or you know as Dell has talked about, the intrinsic security aspects of it, build as much into the systems as we can, but with that there's still going to be a need and a desire to detect – those hard to detect inside our threats for example, things that happened and respond rapidly being able to predict where the threat actors are going next to build more in, so that your scarce security resources can focus on what really matters.
+
+So we began to focus more on – from a sales perspective on our IR offerings and the offerings across MSS and SRC that are close, more closely tied to providing the value to our customers that matter. So from a direct MSS perspective, you know in the market itself I think we're not seeing a lot of changes other than a continued increase, focus and desire on looking for response and automation capabilities, and customers or prospects trying to make sure that they are focusing their employees on what really matters in the high-value of fighting the threat actors in the most effective manner.
+
+Saket Kalia
+
+That makes a lot of sense Mike, thanks. Hey Wayne, maybe for my follow-up for you. You know really nice increase on EBITDA and cash flow for the year. Can you just can talk about maybe the two or three biggest drivers for that, because I think you ended your prepared commentary about talking around maybe some near-term caution around the revenue outlook. So is the EBITDA and cash flow sort of raise coming from you know better expense control or any other factors that you feel are contributing disproportionately to that increase in profitability?
+
+Wayne Jackson
+
+So let's talk about EBITDA first. The primary driver of EBITDA was higher revenue and higher-margin. At the same time as we looked at the year and we revised the revenue outlook a couple of quarters ago, we did look at spend. We spent in areas that we believe were strategic and needed to be focused on immediately, and then those that we could delay a quarter or two we did, but not a lot of deferred maintenance Saket in the P&L.
+
+Cash flow, it’s primarily DSO. It's just again leveraging some things we put in place two years ago and continue to drive DSO. If I may, let me talk – my definition of cautious, because I think I don't want anyone to be too long, I'll just define it. We have visibility lower – as Mike touched on in his prepared remarks, lower trends in ACV in the third quarter, it really impacts the first half of the year. So the caution is really around the first half of the year. We're very excited about all the solutions we're rolling out, we're excited about the new management team Mike’s put in place.
+
+The Dell SafeGuard TDR portfolio, some of that's going to pivot from different timing from a revenue recognition perspective around TDR and Carbon Black versus the CrowdStrike program we had in place. So you factor all that in, the focus, the caution is really on the first half of the year, but we're very excited as all of these programs gain momentum about the second half of the year.
+
+Saket Kalia
+
+Got it, thanks for that clarification Wayne.
+
+Wayne Jackson
+
+You're welcome.
+
+Operator
+
+Your next question comes from the line of Gur Talpaz from Stifel. Please ask your question.
+
+Chris Speros
+
+Hi, this is actually Chris Speros on for Gur. For Mike, you spoke to the success of the Dell SafeGuard offering during the quarter. Can you detail what about the offering is beginning to really resonating with the customers?
+
+Michael Cote
+
+So Chris, let me make sure I heard your question correctly. It was basically in the Dell SafeGuard momentum. What about the offering is it that is resonating with the customers?
+
+Chris Speros
+
+Yes, that’s it.
+
+Michael Cote
+
+Okay. I think the fulsome opportunity to have the security bundled directly with the Dell offering on the box and the attractiveness of having a one-stop shop to order it and what you're buying in this case is basically both prevention and detection and response capabilities. And as we mentioned we’ve announced our recently added MDR on top of it, so you can have managed detection and response.
+
+And I think we, the scale of the Dell sales team and the breadth of the opportunity there is very large and we sort of just scratched the surface, spent the first couple of quarters of this year as we got this up and running, laying the groundwork and working through how to get some momentum, and I think under Mau’s leadership and the expansion we're going to make in some of our investments to draw closer there, there should be increased opportunities there over time as well.
+
+So from a – just from a customer perspective to specifically answer your question, it's being able to get prevention, detection and response altogether in a one-stop-shop bundled up front when they are ordering their endpoint devices.
+
+Chris Speros
+
+Okay, that makes a ton of sense and one more for you if I may. Can you talk about the opportunity for TDR as it relates to the announced partnership with Microsoft?
+
+Michael Cote
+
+Sure. So from a more broadly perspective, I think TDR fits well into the channel and what we – because it's a packaged software offering that customers can basically have an opportunity to use as a software, you know getting support from us via an online chat feature or have us have the opportunity to manage it.
+
+With respect specifically to Microsoft, Microsoft we have the ability to tie in now to Microsoft's endpoint agent, ATP, so there will be no incremental agent deployed and it will provide the sensing capability or the sense capability to send the data to us to allow us to do if you will what we call sense making or the detection and prevention capabilities in response using Microsoft ATP.
+
+Chris Speros
+
+Great, thanks guys.
+
+Operator
+
+There are no further questions at this time. Presenters, you may continue.
+
+Teri Miller
+
+Thank you again for joining us on today's call and for all of your questions. We appreciate your support and look forward to our fourth quarter call in mid-March. If we did not get to your questions in the Q&A section, please do not hesitate to reach out to us for a follow-up.
+
+Michael Cote
+
+Thanks very much.
+
+Operator
+
+Ladies and gentlemen, that concludes today's conference call. You may all disconnect at this time.

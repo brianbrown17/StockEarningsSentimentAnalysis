@@ -1,0 +1,245 @@
+@NYSE:ZUO
+@12.06.19
+@+0.03 
+
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to the Zuora Third Quarter Fiscal 2020 Earnings Conference Call. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Joon Huh, Vice President of Investor Relations. Please go ahead.
+
+Joon Huh
+
+Thanks Josh. Good afternoon and welcome to Zuora's third quarter of fiscal 2020 earnings conference call. Joining me today are Tien Tzuo, Zuora's Chief Executive Officer; and Tyler Sloat, Zuora's Chief Financial Officer.
+
+The purpose of today's call is for us to provide some color on our third quarter results as well as provide our financial outlook for our fourth quarter and remainder of the year. Some of our discussion and responses today will include forward-looking statements. So, as a reminder, our actual results could differ materially as a result of a variety of factors. You can find information regarding those factors in the earnings release we issued today and our most recent 10-Q filed with the SEC.
+
+Finally, we'll be referring to several non-GAAP financial measures today and reconciliations to the related GAAP measures are included in our earnings release. For a copy of our earnings release, links to our SEC filings, a replay of today's call or to learn more about Zuora, please visit our Investor Relations website at investor.zuora.com.
+
+And with that, let me turn it over to Tien.
+
+Tien Tzuo
+
+Thanks Joon, and welcome, welcome to our third quarter earnings call for fiscal 2020.
+
+I'm pleased to say that we had another solid quarter. In Q3, we continued to add key customers, we were recognized for our technology leadership by one of the top industry analysts, and we continue to see strong interest in subscription businesses from the best companies in the world, across multiple industries. This resulted in subscription revenues of $54 million, representing 25% growth year-over-year as we improved our non-GAAP operating income quarter-over-quarter in ahead of expectations.
+
+Tyler will cover some of the specific financial details later on the call, but overall, it was a solid quarter as we continue to lay the foundation for sustained long-term growth. For today's call, I plan to provide updates on a few key areas that we previously talked about.
+
+First, our sales leadership transition, specifically hiring of our new Chief Revenue Officer. Second, progress on the integration between our flagship products, Billing and RevPro. And third, the adoption, we are seeing with our emerging platform.
+
+So first let me talk about what we saw this quarter in terms of overall market trends. In Q3, we continue to see signs supporting our central thesis that there continues to be an early but broad shift to subscription business models that is playing out across multiple industries. And unlike traditional ERP systems that are proving to be too inflexible, our solutions are uniquely positioned to enable companies to succeed in this new economy.
+
+In our core technology vertical hardware, software, we continue to have market leadership for any company at scale. For example, this quarter we kicked off a deployment at Asana, the work management software company. Asana started off with the years ago with a simple billing system. But the more successful it became the more complex their needs became. And they switched over to Zuora to better scale their business.
+
+But of course, what's exciting about the subscription economy is it isn't just a technology story. As I've noted on prior calls, approximately half of our customers are now outside of the Hi-Tech vertical.
+
+In manufacturing, we continue to see strong growth coming from the Internet-of-Things or connected devices. Our Zuora Central Platform offers manufacturers not only a fast-path to launching new connected services, but more importantly, it also gives them a platform to quickly iterate and innovate as they learn from the marketplace.
+
+In Q3, we had go lives with Johnson Controls and Stanley Black and Decker. Now these launches feel similar to Cat's initial go-live from a couple of years ago that began with simple data services to a handful of U.S. based dealers.
+
+Today Cat has on-boarded over a 180 dealers globally launching new bundled services that includes GPS location, machine utilization, fuel burn analysis, engine monitoring and overall maintenance management per machine. Cat is a shining example about companies who use Zuora as a mission critical solution to iterate and expand the subscription offerings, unlock growth and increase customer value.
+
+In transportation, including auto manufacturers we continue to see a shift toward access not ownership. This quarter we're excited to have the go-lives with amazing brands like Kia, Fiat Chrysler as well as Harley-Davidson in motorcycles. The biggest vehicle manufacturers in the world are turning to Zuora to launch digital services, connect with their drivers and unlock new revenue opportunities.
+
+And while we are not ready to call it a full blown vertical for us yet, we continue to see utility companies move away from static product offerings towards flexible energy as a service models. In Q3 you saw our issue press releases with Saint Gobain, one of the world's largest manufacturers of building materials as we help them move into the business of smart buildings and launch consumption based services such as the subscription heating and water solutions.
+
+As well as amaysim, an Australian utility company, which we are helping growth through new offerings and flexible energy plants. It's still very much an emerging industry for us. But we've already meet and rolled with other major utility players around the world, such as Origin Energy, Sanan, A2A and Centrica.
+
+In November, we wrapped up our 2019 subscribed world tour with over 5,000 people registered for all these events in 16 cities worldwide. And we have speakers and highlighted key studies from Siemens, RICOH, Schneider Electric, SoftBank, Ubisoft and many others.
+
+While these companies turning to us simply put, is because of our technology. And this quarter, I'm pleased to say that for the third time in a row, we were named a leader in the Forrester Wave report.
+
+Now, if you look at the report titled SaaS billing technology, a sleeper agent for business agility, you will see Forrester recognizes us for having both the best technology offering and the largest presence in the marketplace.
+
+This is why our customers around the world are coming to us. And I couldn't agree more with the report's core thesis. Your ability to keep up with market changes in the quality of your customer experience will depend on agile billing technology, everything from customer trust to the account to the company's accounting is on the line.
+
+Forrester goes on to note that our product strategy is aggressive, and it's a good fit for firms that are looking for a new system of record for their recurring customer relationships where CRM and ERP each play supporting roles.
+
+They also called out our new platform functionality mentioning that customer references we spoke with especially developers those are powered by these new platform capabilities. This is a validation for Zuora and it's also a validation for the yet untapped potential of our market.
+
+Today the analyst community recognizes the customer focused subscription models are absolutely fundamental to digital transformation, but they require a completely different set of tools and solutions with the state of ERP based systems. Our central thesis continues to play out.
+
+Switching gears, on previous earnings calls, I've talked about the changes we're making to strengthen our underlying business to capture this opportunity. So let me spend a few minutes providing updates there.
+
+First let's talk about sales leadership. As you all know, we spent a considerable amount of time searching for the right Chief Revenue Officer to elevate our field organization. And I could not be happier with the results of our search.
+
+We're excited to have our new CRO, Robbie Traube on-board. He is a recognized leader within the enterprise software industry. He's worked with some of the biggest companies in the world on digital transformation, and he understands scale and how to build it. Robbie brings a proven track record from Adobe of building world-class enterprise sales teams for subscription businesses.
+
+We've also previously talked about the importance of system integrators to our future growth. And I'm incredibly pleased that we hired a new Head of Global Alliances, James Huang to lead these efforts. At previous SaaS companies, James successfully changed their implementation model from internal deployments to a significant part handled by partners, and now as part of Robbie's team, James is working with a few children partners to deepen our go-to-market relationships.
+
+Of course, Robbie and James are joining outstanding group of tenured sales leaders at Zuora, including Richard Terry-Lloyd, who had been the bedrock of our North American sales group for almost a decade. Kevin Niblock, our SVP of Sales Operations and go-to-market Expert; and John Phillips who continues to provide amazing leadership in Europe.
+
+We are laying the groundwork and building the infrastructure to capture the broad demand we continue to see in the marketplace for subscription solutions. Of course, give a number of new folks on the team, it will take us some time for the people in groups to gel and really becomes effective.
+
+So, what we have now is, in my bias opinion, the best sales leadership team in the industry, ready to meet our customers wherever they are in their subscription journey, launching a new service, modernizing billing system, driving large sales scale, digital transformation for automating the recognition of revenue.
+
+Second, let me provide an update on the integration of RevPro and Billing. I mentioned on the last call that the integration technology is complete and today we're making steady progress with our customer implementations. We've restarted all the paused implementations are targeting to deliver on our customers' timelines.
+
+In fact, we've completed the technical integration phase with a number of customers and three of them, Siemens, LivePerson and Modernizing Medicine are expected to be operationally live using RevPro and Billing in the next couple of months. This is exciting as our customers now have an end to end automated solutions to handle all their subscription needs from quote to cash to billing to revenue automation.
+
+We're working hard to get these customers operationally live on an integrated product by really next year. But this will take some time, but once these customers are operationally live and using the integrated solution, we can start cross selling our RevPro product into our Zuora Billing customer base.
+
+Third and finally, let me provide an update on the momentum of our Central platform offering. We talked a lot about the importance of our platform strategy on the last call. We have an incredibly diverse group of customers spread across a number of different industries and the number of industry shifting to subscriptions keeps growing. That's what makes the opportunity so excited.
+
+But as a result of this diversity, it's really important that we provide the right tools to allow our customers to customize and extend the Zuora solution into their businesses whether they are digital media company or an industrial manufacturer or a software provider. Every minute of developer time that we can save our customers on cost coding can go towards building new features for their end customers.
+
+Since our platform launch six months ago, we've seen nearly 100 customers adopt the platform capabilities. These companies are using our tools to orchestrate events in automate manual processes and receive immediate quantifiable results in terms of operational efficiencies.
+
+For example, Schibsted Media, they're one of the largest media groups in Scandinavia, they're using our workflow tools to automate reconciliation to a customer payment gateway saving in both time and money.
+
+Hudl, a sports analysis software company that serves hundreds of thousands of teams around the world is using the Zuora Central Platform to save over 100 hours a month by automating the upsell processes. And Motor Trend group is using Zuora Central to move credit card retry logic out of expensive middleware and giving them a single source of truth for their collections processes.
+
+In short, the Zuora platform is helping our customers work smarter by extending and integrating our system and data model into the core of their business.
+
+In closing, I remain incredibly excited about what we're building year and where we are headed. We made an early bid that the subscription business models pioneered by SaaS, media and technology companies would eventually spread to every industry and we see validation of this every day in the business headlines, in the analyst reports and most importantly in our customer base.
+
+Today, we're making Zuora the system of record for all customer centric businesses and we're innovating on a platform strategy that allows any company to customize and extend our solutions to meet their unique business demands, whether they are motorcycle manufacturer or an energy utility. We now have the right team, we have the right technology and we're going after a huge market that is new early stages of the transformational shift from products to services.
+
+Now let me turn it over to Tyler to take you through the financial details.
+
+Tyler Sloat
+
+Thanks Tien.
+
+As you can see we're continuing to deliver on our financial goals and improve our operational execution. As I typically do, I'll start my comments today by reviewing our key operating metrics customers over $100,000 ACV, dollar-based retention and process transaction parts. Then I'll move toward financial results and finish with our outlook for the fourth quarter and remainder of the fiscal year.
+
+Starting with customers, [Technical Difficulty] they still represent 88% of our annual recurring revenue. As you heard from Tien, we recently brought on our Chief Revenue Officer, Robbie, we're all working hard to improve our sales execution. We're really excited about Robbie and the sales team that's coming together, but we also know that it will take some time for the team to become operational effective and consistently land new customers in closing deals.
+
+Looking at how we expand with our customers, our dollar-based retention ended at 106%, slightly down from the prior quarter. This is partially due to stronger compares for the prior periods and also result of the past cross sell activity, and so we work through the RevPro integration of finance and get our customers' operations live. We believe that this metric will increase in the long run as we strengthen our customer success efforts and develop additional platform features. But this metric will see near-term pressure as we work to improve our upsell across our execution.
+
+Lastly, our systems processed $11.2 billion of transaction volume in the quarter, which represents 29% growth year-over-year. This continued to be the biggest driver of our upsell efforts with our customers as transaction volume naturally grows as Zuora businesses grow.
+
+As a reminder, our revenue does not track linearly with transaction volume growth because our customers typically realized pricing efficiencies at this scale. But this allows us to participate in the growth of our customers over time.
+
+It's also important to point out that there can be quarterly fluctuations as seen in seasonality that impacts this metric caused by different billing policies or larger customer go-lives in any given quarter. Because of this dynamic, it's often helpful to look at transaction volume on a trailing 12-month basis, which results in 38% growth.
+
+Now let's talk about how these operating metrics flow through to our Q3 financial results. As Tien noted earlier, subscription revenue grew 25% to $54 million in the quarter. This includes a one-time benefit of $1.3 million related to a contract that we included in our previous Q3 guidance calculations, which will not be recurring in future quarters.
+
+Professional services revenue decreased 3% to $17.8 million as our go-to-market changes will take time to be realized on the services side. This resulted in total revenue of $71.8 million or 17% growth year-over-year.
+
+Turning to margins. Total non-GAAP gross margin improved slightly to 58% compared to the prior quarter. We maintained healthy non-GAAP subscription gross margins 78%, consistent with the last two quarters on non-GAAP professional services gross margins were negative 5% and down sequentially due to lower utilization.
+
+Including one-time one item benefit our non-GAAP operating margin improved four percentage points quarter-over-quarter to negative 10% and ahead of expectations. This improvement was due to both higher revenue and lower expenses we utilized in the quarter.
+
+Most of the lower expenses or savings driven by actively managing our cost base, but we also had some marketing programs and service provider cost that was delayed into future quarters. We're investing for long durable, long-term growth and scalable manner that creates operating leverage in the business.
+
+Looking at our sales efficiency indicator, GEI or Growth Efficiency Index, it was 2.2 through Q3, a slight increase versus the prior quarter. As a reminder, this metric is calculated by dividing our trailing 12 months non-GAAP sales and marketing expense of $94.8 million by the year-over-year increase in trailing 12 months, subscription revenue of $43.1 million. We want to reduce this number over the long term as it signifies respect in the last to acquire each incremental dollars subscription revenue, but as we work through many of the changes in the sales organization, go-to-market activities in the near term, this metric may increase until we develop our operational lines in the field.
+
+Now let's turn to Billings and free cash flow. Calculated subscription billings for Q3 were $61.8 million, representing 22% growth year-over-year. We saw higher rate of early renewals and increased annual mix resulting in a tailwind in a few percentage points. As we've talked about before, quarterly billings can fluctuate due to these factors and include a benefit - they included a benefit for Q3. But can also result in a headwind in future quarters.
+
+These factors tend to normalize over a longer period of time, so look at subscription billings over the past 12 months, growth was 24%. Going forward, we expect full-year fiscal year '20 calculated subscription billings growth is slightly above 20%. Longer-term, we expect the subscription billings growth to be in line with subscription revenue growth.
+
+Turning to our cash flow, Q3 free cash flow was negative $5.1 million, compared to negative $10.3 million in Q3 of last year. This improvement was partially driven by increased efficiency in our operating model and favorable timing and payments.
+
+One item to call out on CapEx of those facilities spend, CapEx was $8.6 million for Q3 higher than prior quarters. As this includes $6.5 million in cost related to building out our new HQ, this CapEx amount was offset by $5.2 million reimbursements we received for tech improvements, which are recorded in our operating cash flow, resulting in a net impact of negative $1.3 million free cash flow facilities related expenses in the quarter.
+
+Looking on a sequential basis, free cash flow improved more than $6 million versus Q2. The improvement was primarily driven by the timing of ESPP purchases and lower expenses in the quarter. As a reminder, we have a cash flow timing benefit related towards ESPP plan in the first and third quarters of each year and a detriment in the second and fourth quarters of each year. The ESPP timing that contributed approximately $4.5 million to the improvement versus Q2.
+
+For the full year we now expect free cash flow to be negative $35 million, a $5 million improvement compared to our expectations from the Q2 earnings call. Excluding the facilities spend of $7 million related to our HQ move, we expect free cash flow to be negative $28 million for the year. We ended the quarter with $170.4 million in cash and cash equivalents and remain fully funded against our current operating plan.
+
+Lastly, our fully diluted share count as of the end of the quarter October 31, 2019 was approximately $125 million using the treasury stock method. As Tien mentioned earlier, we're really excited about our sales team, including a new leadership we brought on-board. We have a lot of fiscal year '21 planning work to complete though. So we'll hold off on providing commentary on our outlook for next year until our Q4 earnings call.
+
+Now for our guidance numbers for Q4 and fiscal '20. In Q4, we are currently expecting total revenue of $71 million to $72.5 million. Subscription revenue of $54 million to $55 million, non-GAAP operating loss of $11 million to $10 million. This loss reflects the seasonal impact of a higher expense base that we see in the fourth quarter due to merit increases and payroll taxes. This also includes $600,000 additional rent expense associated with our HQ move.
+
+Our non-GAAP net loss per share, we expect $0.11 to $0.09 of weighted average shares outstanding of approximately 113.5 million. For the full year fiscal '20, we are currently expecting total revenue of $276.7 million to $278.2 million, subscription revenue of $206 million to $207 million, non-GAAP operating loss of $40.8 million to $39.8 million. And non-GAAP net loss per share of $0.37 to $0.35 assuming weighted share and average shares outstanding of approximately 111.2 million.
+
+With that, we're happy to take your questions. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from Richard Davis with Canaccord. Please go ahead. Your line is open.
+
+Richard Davis
+
+So once RevPro is kind of integrated into the platform and you have all the CRO lined in and stuff like that, you and I've talked about this before. Is there a thought in terms of - will there be a change in the pricing like, why I have to pay more. I mean, obviously, if I can get the module that counts, but how would, should I think about your pricing model would that change at all or do you have any thoughts on go to market in that regard. Thanks so much.
+
+Tien Tzuo
+
+Yes, right now we have no current plans of changing our pricing and so the way we sell our products is the way we sell products. You obviously know given what we do that, we do believe in the power of pricing to build long-term sustainable models, it's something we're always looking at, but at this point, we intend to keep operating the way it is.
+
+Tyler Sloat
+
+Yes. Richard, this is Tyler. We always look at price, right, we iterate we try to learn from our customer base. With RevPro that isn't add-on and it is one of our flagship product, so it is meaningful. And so now having it is also meaningful. But we constantly look at price and we constantly iterate off a bit based on what we think customers are going to pursue from the value of what given.
+
+Operator
+
+Your next question comes from Stan Zlotsky with Morgan Stanley. Please go ahead. Your line is open. Stan Zlotsky with Morgan Stanley, Please go ahead, your line is open.
+
+Unidentified Analyst
+
+This is Sarah on for Stan Zlotsky. We're growing the downtick in net retention this quarter, last quarter you called out a higher number than usual of customers rightsizing and kind of resizing their commitments after signing to large of transaction volumes in the year ago period. Did you see a similar dynamic this quarter and did that play into a net retention?
+
+Tyler Sloat
+
+That’s a tough one to answer. No, we did call out a couple of down sales over the last quarter, we also said that going forward, we kind of gave a heads up that we could see some pressure on this number this quarter. We kind of said the same thing just now, so there wasn't anything dramatic that we called out this quarter. Just some year-over-year comp comparisons that are tough and then kind of just normal course of business.
+
+Operator
+
+Your next question comes from Brent Thill with Jefferies. Please go ahead. Your line is open.
+
+Luv Sodha
+
+Hi, this is Luv Sodha on for Brent Thill. Thank you again for taking my question. Just a couple of questions, one was on, I know in the previous calls you guys outlined some of these initiatives on the sales side, now that you hired is Robbie, is he sort of implementing those same initiatives or is he giving - is he being given more leeway in terms of what he can and cannot implement.
+
+And then the second one was for Tyler or Tien as well. Now that you've recruited James Huang and he is building out GSI pipeline, will that lead to faster deployment times if you will, and over the longer term, will that help ease out the deployment process? Thank you.
+
+Tien Tzuo
+
+Yes, absolutely. I'll go into the first one, I mean as you can imagine I'm incredibly pleased to give a hand over the range on some of the projects that we've been doing. We ended off to a professional like Robbie, I would say that as part of the process of coming together of interviewing, we certainly found that we are very aligned in our thinking. But I would also say that Robbie comes from an environment at Adobe, where he is selling to the largest companies in the world on digital transformation projects right, and this is the big part of our growth.
+
+And he is seeing success on how to scale a sales process that is more about that type of complex sale and so I think he’s taking what we've done, necessarily expect them to bring it to an entirely new level. And certain drive the growth of our Company. And so I wouldn't say that we should expect these undue - everything we did, but I would say that I would extremely expect to add to it and making much longer.
+
+Tyler Sloat
+
+Well, I guess I can talk to the last, the second part of the question, which was around the addition of our new head of alliances James and kind of what we expect to happen there. I think you specifically asked, do we expect a point in time to get shorter. The first thing that use relatively new with Robbie part of organization and we're really excited to have more, we are seeing, as we mentioned in the past, a lot of great traction of the deal size, but then these kind of partnerships take time to build.
+
+It might sound counter intuitive, but in some cases, at the point is might actually get bigger because - but the GSI's will be taking them over. So that, I mean, not necessarily on our P&L. The reason is either some large digital transformation that is where just be a piece of an entire stock that we're now seeing GSI's wanting to build into our architecture. And so when we look at this, and we say how can we be expert services and always maybe evolved, but get as many GSI's - as possible.
+
+On the flip side, we are also working on customers we're just launching and in that case, trying to reduce the time to deployment to get the line as fast as possible, utilizing our technologies and so we're actively working on that as well.
+
+Operator
+
+Your next question comes from Chris Merwin with Goldman Sachs. Please go ahead. Your line is open.
+
+Chris Merwin
+
+Hi, thanks very much for taking my questions. I wanted to ask about Zuora platform. I know we'll get to see that these are group meeting a few months back, but just curious like any used cases, you can highlight so far, any potential customers using the product, how we should think about adoption trending there. Thank you.
+
+Tien Tzuo
+
+Yes, thanks for asking about the platform. This is obviously an area that we're excited. But I'm really excited about. We try to highlight a few examples from the call. And so, there is one about a media company that really look to move a lot of collections processes, if you will into the system.
+
+We highlighted Hudl sports analysis software company that was really automated a whole bunch of different bunch of sale processes and then we highlighted Motor Trend Group in a similar capacity. It works about 100 customers, I would say that are using the platform actively and this is really up from 0 when we launched this in June or a handful of beta customers, if you will.
+
+And so really pleased with the progress and yes, as you can expects the whole purpose of the platform is to allow customers to do the last-mile customization and so the diversity - but we're starting to see is completing exploding. I mean we're seeing companies track utility metering, we're seeing company track big numbers of acquirers raising the system through customizing capability and so really pleased with what we're seeing in.
+
+It's kind of tied to the question before. We also do believe that this is a big part of being able to work with size right that there is actually more customization that has to be done from the last-mile customizations. And that's where the GSI simply step in and help us do a lot of that work.
+
+Tyler Sloat
+
+And, Chris, just to follow up. We are super excited what we're seeing with the customers. You can actually we're learning as well from the customers, but we are early in the monetization strategy and journey on. We're charging forward, but what we're - I don't want to say, we're not looking to optimize that yet because we are learning about how our customers are using it and that will evolve over time. And so we've been limited about that from last couple of calls and that's still constant.
+
+Chris Merwin
+
+And maybe just one more follow-up on verticals and apologize if this was addressed before, we're just jumping between a couple of calls. And any new industries or certain projects new businesses within new industries where you're starting to see more traction that you're getting more optimistic about that you'd call out?
+
+Tien Tzuo
+
+Yes. So, we see a lot of buys a lot of industries. And so you'll see some financial services industries, you see some health care industries right, but I would say those are more isolated one-offs right now, we're certainly monitoring. The one that we were that we're seeing more traction of any quarter we seem to announce a couple of more customers is utilities and there is something like utilities that are moving away from pricing models that have been fixed for 10, 20, 30 years into more of these dynamic energy of user service model.
+
+And so we announced two - we had two press releases this quarter right with two utility companies, and one is France and one in Australia. And that really joins a bunch of our other companies like Origin, Centrica, A2A and so we're keeping our eye on utilities and seeing if that does become an emerging vertical for us.
+
+Operator
+
+[Operator Instructions] We currently have no further telephone questions at this time. I'll turn the call back to management for closing remarks.
+
+Tien Tzuo
+
+Thank you so much for joining us today and we look forward to hearing from you. Please let us know if you have any questions and we'll talk to you next quarter.
+
+Operator
+
+This concludes today's conference call. Thank you for joining us. You may now disconnect.

@@ -1,0 +1,561 @@
+@NYSE:WORK
+@12.05.2019
+@+0.06
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Slack Technologies Third Quarter earnings call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Jesse Hulsing, Head of Investor Relations. Thank you. Please go ahead, sir.
+
+Jesse Hulsing
+
+Good afternoon, and thank you for joining us on today's conference call to discuss Slack's third quarter fiscal 2020 financial results. On the call, we have Stewart Butterfield, Co-Founder and Chief Executive Officer; and Allen Shim, Chief Financial Officer.
+
+During the course of today's call, we may make forward-looking statements. Including, but not limited to, statements regarding our guidance and future financial performance, market demand, product development, growth prospects, business strategies and plans, ability to attract and retain customers and ability to compete effectively. These forward-looking statements are based on management's current views and assumptions and should not be relied upon as of any subsequent date, and we disclaim any obligation to update any forward-looking statements. Actual results may vary materially from today's statements.
+
+Information concerning our risks, uncertainties and other factors that could cause results to differ from these forward-looking statements are contained in the company's SEC filings, earnings press release and supplemental information posted on the Investors section of the company's website.
+
+Our discussion today will include certain non-GAAP financial measures. These non-GAAP financial measures should be considered in addition to, not as a substitute for or in isolation from GAAP measures. Our non-GAAP measures exclude the effect of our GAAP results of stock-based compensation and certain other items. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP measures in our earnings release and on our Investor Relations website at investor.slackhq.com.
+
+I would now like to turn the conference call over to Slack's Co-Founder and Chief Executive Officer, Stewart Butterfield. Stewart?
+
+Stewart Butterfield
+
+Thank you, everyone, for joining today's call. We had a great quarter. Revenue was $169 million, up 60% year-over-year. We added more than 5,000 net new paid customers in the quarter, bringing the total above 105,000. And we continue to show leverage. Non-GAAP operating margin improved 26 percentage points year-over-year.
+
+Today, I want to hit on three points. First, our continued outstanding momentum in the enterprise segment, where we surpassed 50 paid customers with over $1 million in annual recurring revenue for the first time. Second, our accelerating pace of innovation on the product side with some exciting new launches. Finally, I'll spend some time on what we're seeing with shared channels, which launched halfway through the quarter. For me personally, this is the most exciting thing to happen for collaboration since we first launched Slack.
+
+So starting with Enterprise. We use paid customers with over $100,000 in annual recurring revenue as a proxy for our large enterprise customers. In this quarter, we set a new record by adding 101 of those customers for a total of 821 $100,000customers. That's a 67% increase over Q3 of last year, and included strong growth in the largest enterprises, another 11 of the Fortune 500, and in our international business more than a-third of the new 100,000 customers were outside of the U.S.
+
+We also saw great growth at the high end of this range, ending with more than 50 paid customers with over $1 million in annual recurring revenue. Last year at, this time, we had just over 30, and we're happy to see this number tracking to the growth in the broader base of $100,000 customers.
+
+The overwhelming majority of these million-plus customers, nearly 70%, are also Office365 customers. In general, we continue to see tremendous adoption across customers of the Office suite. They choose Slack despite having a bundled alternative that is marketed as free. They choose Slack because it scales to the complexity and breadth of their enterprise because it is open and integrated with all the software they use across their business, and because of the careful attention we pay to user experience, which creates deeply loyal and committed fans.
+
+These enterprise wins in Q3 included companies across nearly all segments. Healthcare, retail, financial services, education, logistics, media, and manufacturing. Innovative companies such as GlaxoSmithKline, Vodafone, IMAX, SiriusXM, and Dartmouth continued to choose Slack.
+
+Moving on, we've been doubling down on the strength of our product. We've made improvements to the basics, application performance, and reliability; new user onboarding and compliance features important to customers in regulated industries; and we've extended our platform lead with the launch of Workflow Builder, which increases the number of people who can develop on Slack by allowing non-technical users to create and manage simple workflows.
+
+Workflow Builder was launched in mid-October, and by the end of the month, over 10,000 unique workflows were created and in active use on Slack. Platform was also instrumental in helping close many of those million-dollar-plus contracts we won this quarter, particularly among customers who use Office365 and so who have access to multiple overlapping legacy collaboration tools effectively for free.
+
+Let's have a look at those customers. An Office365 using Fortune 100 retailer expanded to tens of thousands of users on Slack. They rely on integrations with many tools like Zoom, Jira, ServiceNow, and Concur. Also among the Office365 customers moving to million-dollar-plus contracts on Slack was a Midwestern insurer, and another was one of the largest technology companies in Europe who is expanding to tens of thousands of users, nearly one-third of its global employee population. They use over 1,000 integrations, most of them custom built.
+
+We won a million-dollar-plus contract with a highly regulated trading firm based in the Midwest that will be using our encryption key management feature to remain compliant. This customer has over 100 bots and custom applications integrated with Slack, despite also being an Office365 customer. In fact, we are seeing significant momentum across regulated industries.
+
+This quarter, we landed and expanded at multiple Fortune 500 and Global 500 financial services and healthcare companies. We also closed our largest federal government deal to date, a $1 million plus deal at a customer that is, you guessed it, also an Office365 customer.
+
+Our platform strategy and the strength of our ecosystem continues to drive value for our customers by making the software they use more valuable because they use Slack. We ended the quarter with over 700,000 active developers. In November, we crossed over 2,000 apps in the app directory. Slack is increasingly the developers' platform of choice.
+
+In Q3, we launched over 160 new features and have a strong roadmap for the next few quarters. We're excited to keep delivering innovative new features that become important drivers of business value for our customers. On the product side, we feel like we're still at the very beginning.
+
+That brings us to the most important innovation in the category since Slack first launched, Shared channels. Shared channels allow two Slack-using companies to create a channel that is shared between them and extend messaging between users at the two organizations. All this happens with administrative control, reporting, and compliance functionality. After an extensive beta period, we launched shared channels into general availability in mid-September. Growth has been explosive.
+
+Despite the fact that it was released halfway through Q3, we ended the quarter with 26,000 shared channels using paid customers. That's up 30% in that quarter alone. We see salespeople closing deals on shared channels, and customer success team supporting their customers on shared channels. Shared channels are used by HR teams working with external recruiters, marketers working with creative agencies, and a broad of variety professional services firms serving their clients. Shared channels are unique to Slack. No competitor has brought anything similar to market.
+
+Not surprisingly, this has started to have an impact in the field. As an example, shared channels were a key reason for a multi-thousand user win at a healthcare focused federal agency that uses Office365. The agency will use shared channels to communicate with external vendors and partners. All of this, the enterprise momentum, the pace of innovation, and the growth of the network in shared channels using organizations combined to drive the business forward.
+
+Adoption of shared channels in larger customers has been especially rapid, 80% of our 100,000 customers now you shared channels to collaborate with partners, vendors, customers and more. We're starting to see novel new platform applications built specifically for use on shared channels. The power and the dynamics of this network can be hard to understand merely from verbal descriptions. We recently saw a blog post with some visualizations of the network, we can really get a sense of how extensively shared channels are being been used, and I encourage everyone to check it out.
+
+Finally, before handing things over to Allen, I want to acknowledge the escalation in competitive narratives. Microsoft has announced that they are now 20 million people using teams around 10% of their Office 365 user base. When they first announced the shutdown of Skype for Business, we expected this. All the way back in 2015, Microsoft announced that Lync had 100 million active users. We have no reason to assume that any of those were lost, when Lync was rebranded as Skype for Business.
+
+The product still drove end users desktop VoIP phones and conference rooms. Now Skype for Business users are being forced migrated to teams, it's reasonable to expect more of the same. Unless, they hit a snag, we'd expect them to announced 50 million in the next six months and then 100 million within the next year.
+
+Although Microsoft markets teams has a Slack competitor and there's no doubt this causes confusion in the marketplace, in practice these are different tools, used for different purposes and our customers achieve markedly different results. Just look at the week engagement numbers that Microsoft themselves report of our teams and a much deeper level of engagement you see among Slack users.
+
+Slack represents a new category of software and regardless of which app opens when you click on a calendar reminder for a video call, if you need to work closely with colleagues in an environment that can integrate deeply with all the software you use, there is a clear choice and our customers know it. That's why we've continued to add Office 365 using enterprise customers at $100,000 plus level and at the $1 million plus level. Just as you can expect more Skype for Business users forced over the teams, you can expect more of these customer wins from us as well.
+
+With that, I'll hand it over to Allen
+
+Allen Shim
+
+Thank you, Stewart. And thanks again to everyone for joining us. I will go through our third fiscal quarter results in detail, before moving on to guidance for the fourth quarter and full year fiscal 2020.
+
+Total revenues in the third quarter were $169 million, growing 60% year-over-year. Our Q3 calculated billings were $186 million, growing 47% year-over-year. Trailing 12 month calculated billings were $684 million and grew 59% year-over-year. Our uptime was 99.999% or five nines in the quarter.
+
+We continue to invest in maintaining industry-leading uptime. Remaining performance obligations were $279 million, up 30% quarter-over-quarter. Because we have taken a practical expedient under ASC 606, our RPO disclosure is reflective of contracts greater than one year in length and excludes annual and monthly contracts, which are captured in deferred revenue.
+
+Accordingly, RPO growth is driven primarily by growth in multiyear enterprise license agreements. These multiyear deals tend to be larger and often reflect a decision by our customers to standardize on Slack.
+
+In terms of geographic breakdown, 37% of our total revenue came from outside the U.S., which is up from 36% in Q3 last year. We continue to invest in international expansion, particularly within our direct sales organization. This year, we opened offices in Munich, Paris, Sydney and plans to open an office in Osaka in December.
+
+As of the end of Q3, we surpassed 105,000 paid customers, up 30% year-over-year. As a reminder, in the second half of last year, net new paid customer growth benefited from the Atlassian acquisition, which contributed approximately 1,800 customers in the second half of fiscal 2019.
+
+We remain focused on expansion within existing customers and growing our large enterprise customer base and ended the quarter with 821 paid customers with greater than $100,000 in annual recurring revenue, which is up 67% year-over-year.
+
+As Stewart mentioned, we also exceeded 50 customers with greater than $1 million in annual recurring revenue for the first time with 53. This is up from 32 a year ago. Million dollar customers will be a milestone disclosure going forward. We expect large customer growth to exceed total paid customer growth for the foreseeable future, as we invest more in enterprise sales and customer success.
+
+Paid customers with greater than $100,000 in ARR, represented 47% of revenue in the third quarter, up from 39% in the year ago quarter. Our strong customer retention and ability to expand within existing customers have resulted in a consistently high net dollar retention rate, which was 134% at the end of our third quarter.
+
+Moving forward, I'll be discussing non-GAAP financial measures. Gross margin was 88% versus 88% a year ago. R&D expenses were $54 million or 32% of revenue. We continue to invest into Slack's user experience, scalability, our platform and new features such as shared channels and expect R&D expenses to grow roughly in line with revenue growth in the fourth quarter.
+
+Sales and marketing expenses were $78 million or 46% of revenue. While we continue to see leverage in sales and marketing in the third quarter, this is due in part to the timing of marketing campaign spend. We expect higher marketing expenditures to bring sales and marketing as a percent of revenue over 50% in the fourth quarter. G&A expenses were $36 million or 21% of revenue. We continue to expect G&A expenses as a percentage of revenue to decline moving forward.
+
+Our operating loss in the quarter was $18 million, representing an operating margin of negative 11%. Free cash flow was negative $90 million. Free cash flow, includes $10 million of capital expenditures related to the build-out of office space. Free cash flow was negatively impacted by $21 million of payroll taxes related to the direct listing that were collected in Q2 but paid in Q3. Excluding those payroll taxes, we were free cash flow positive in the quarter.
+
+Stock-based compensation and related employer payroll taxes were $76 million in the quarter. It's important to note that due to the performance based vesting condition of our RSUs, stock-based compensation recognition has accelerated in the first year after going public. We expect stock-based compensation, as a percentage of revenue to trend down meaningfully over the next year.
+
+Now I'll turn to guidance. For the fourth quarter, we expect revenue in a range of $172 million to $174 million, representing growth of 42% at the midpoint. We expect non-GAAP operating loss in a range of $36 million to $34 million. We expect sales and marketing as a percentage of revenue to increase in Q4 and exceed 50% of revenue.
+
+We expect non-GAAP EPS in a range of negative $0.07 to negative $0.06. We are modeling Q4 basic shares outstanding of approximately 550 million. For the full year, we are raising our revenue guidance to a range of $621 million to $623 million, representing growth of 55% at the midpoint.
+
+We are raising the low end of our full year calculated billings guidance and now expect a range of $745 million to $760 million or 46% growth at the midpoint. There are two dynamics to keep in mind for the fourth quarter calculated billings. The first is that as our enterprise business has grown, the fourth quarter has become increasingly large deal driven. The fourth quarter also is our most back-end weighted quarter of the year. Our pipeline coverage is higher quarter-over-quarter and year-over-year.
+
+But the range of outcomes is a bit wider due to the size of deals in the pipeline and when we are projecting them to close. Due to these factors, we are maintaining, but not raising the high end of our calculated billings guidance. We continue to expect that the credits we issued in Q2 related to service level disruptions will provide a $5 million headwind to full year calculated billings.
+
+Q3 calculated billings were negatively impacted by an estimated $1.5 million from the credits we issued last quarter. As customers with these credits are billed and credits are applied to their bills, the outstanding balance of credits from the second quarter, service level disruptions are reduced.
+
+We are raising our full year non-GAAP operating loss guidance to a range of negative $144 million to negative $142 million, it includes approximately $30 million of onetime expenses related to our direct listing.
+
+We expect full year stock-based compensation expense and related employer payroll taxes of $470 million. We are raising full year EPS in a range of negative $0.32 to negative $0.31. We are modeling full year weighted average basic shares outstanding of approximately $399 million.
+
+We expect full year free cash flow in a range of negative $85 million to negative $80 million. For the full year, total onetime cash expenses related to the direct listing fees and cash taxes are expected to be about $51 million. We do not expect any direct listing related expenses in the fourth quarter.
+
+For fiscal year 2020 CapEx, we now expect approximately $60 million of capital expenditures, predominantly related to the build-out of new office space to accommodate our growth. We continue to make steady progress towards becoming free cash flow positive. We’ll provide an update on timing related to our growth phase targets on the fourth quarter earnings call.
+
+With that, I'll turn it back to Stewart.
+
+Stewart Butterfield
+
+Thanks, Allen. Before we get to Q&A, I'd like to welcome two new members to our Board of Directors: Sheila Jordan is the CIO of Norton LifeLock and previously held senior positions at Cisco and Walt Disney World. Sheila has fantastic perspective on digital transformation and she brings the voice of our customers right into the boardroom.
+
+The second new Director is Mike McNamara. He was CEO of Flex for 12 years and grew the business to over $25 billion in annual revenue. Mike brings an operator's perspective to the Board that I value immensely
+
+Last, today we also announced that Chamath Palihapitiya will be stepping down from our Board. Chamath was a very early investor in Slack. And if you know him, you know he is one of a kind. Thank you Chamath for your; time, wisdom and invaluable contribution to the growth of Slack.
+
+With that Operator, we're ready for questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Richard Davis with Canaccord. Please go ahead, your line is open.
+
+Richard Davis
+
+Hey thanks. Simple question, and then maybe a harder one. So the simple question is, you announced your services partner program. Maybe if you could just talk about where you'd like to see that in 2 to 3 years?
+
+And then the second one, Stewart, I think you kind of talked about this, but I think a lot of -- one of the things people don't understand about your company is that, you're selling really against non-consumption rather than in the classic application we can replace, Linkedin did that, Facebook did that, and they all reached scale.
+
+Is there a way as an outsider that we should think about when you guys reach critical mass that you're at scale? And I know that's an almost impossible question, but just – you know I think that's important for people to remember that it's non-consumption really that you're competing against? Thanks.
+
+Stewart Butterfield
+
+Yes. So starting with the second one, I think non-consumption or maybe slightly differently, the consumption of e-mail and just an inefficient way of doing the same thing. I think it's a really good point. And from our perspective right now, scale is a long way off. I mean, because they're -- we have 105,000 paid customers, there are millions of customers just in the U.S. that have 5 or more employees.
+
+We see Slack -- in addition to all the enterprise wins that we talked earlier, and we can continue to detail, we see Slack using a dentist office and tax preparers and florists and city police departments and administrations. If it works in one of those, then it will work for many.
+
+So I think scale is a long way off, and I think the part of your question, the non-consumption to consumption is really transformative. I don't want to go out there and make a comparison to social media and smartphone influence on culture, but it is pretty dramatic.
+
+If you talk about 100,000 people at a Slack-using customer average of 90 minutes of active usage a day, 150,000 hours a day, 0.75 million hours a week, 640 million hours of your employees' time mediated by Slack. And if you have 100,000 employees, you probably have around 10 billion in payroll. That is an impact that is completely out of proportion to what people think of when they might think like we're switching messaging products.
+
+Richard Davis
+
+Got it.
+
+Stewart Butterfield
+
+I'm sorry, and the services partner program, the -- first of all, we'd like to see it scale. And what we hope to do with the SI community and with consultants generally is as you can make it easier to present, the customers are happier in just the same way that for whatever third-party software tools like the actual products that our customers buy. We want to make their experience of those tools better because they use Slack, we want to help those SIs working on big integrations of systems of record, realize those workflows in a simplified way, and Slack delivers their applications in a clear way, have the notifications and approvals, flow a lot more smoothly, and we're increasingly giving them tools.
+
+So we introduced the workflow builder this quarter, which was no code, very simple, anyone can use it. The next step there, obviously, is to open it up to programmatic interfaces, so people can establish really simple workflows in Slack and save them the trouble of developing a new application.
+
+So, the ideal is both more value delivered by the SI community to the customers in less time. So, exciting early results there and some good partnerships and interesting discussions. It's still very exploratory.
+
+Allen Shim
+
+Yeah. Richard, it's Allen. I'll just add that, overall our open-platform strategy continues to be a real strategic advantage for us. And you're seeing the ecosystem more broadly benefiting. We've got over 2,000 apps on in the app directory, over 700,000 developers and over 550,000 customer applications. So, just really building on the investments and strategy of having this open-platform strategy, including the kind of go-to-market element.
+
+Richard Davis
+
+Super. Thank you so much.
+
+Operator
+
+Your next question comes from the line of Keith Weiss from Morgan Stanley. Please go ahead. Your line is open.
+
+Keith Weiss
+
+Excellent. Thank you guys for taking the question and a very nice quarter. Really impressive additions to sort of those enterprise customers, the customer is greater than $100,000.
+
+So question number one, did the general availability of shared channels, did that have any impact in terms of sort of acting as the [indiscernible] pushing kind of more customers across the street [ph] for that enterprise customer base, or am I sort of conflating sort of two coincidental events?
+
+And number two, when we think about the enterprise customers and the growing percentage of revenue that's coming from customers over $100,000, how should we think about the impact on the average price per user? Because I know when you go into like a really large customer, there was a bigger discount for that kind of volume. How should we think about that trade-off between percentage of revenues coming from over $100,000 versus what our expectation should be for going forward ARPU?
+
+Stewart Butterfield
+
+So great questions. I would say that the general availability of shared channels probably had some really minor impact on the enterprise, because enterprise customers were added to the beta late and we definitely saw people resist upgrades to Grid because shared channels usage was so important to them, but I don't think that's going to be a major driver by any measure now.
+
+And I think just more broadly, while we're very excited about shared channels and we see some really promising early results, obviously when we see someone upgrade and then immediately create a shared channel, we think that's a driver of the usage. There's some interesting stories we’ll be sharing about service providers actually paying for their customers' Slack usage because they feel like they can deliver a better service that way. But this is like a driver for the business at scale three to five years out as opposed to something that's going to make a difference next week.
+
+By Q1 results, we should be able to give a better idea of the dynamics there, but we're not even modeling the impact of shared channels ourselves at this point, because it's just too early to say.
+
+For the second question, it's -- I mean, maybe just two was to look at it. We have had a lot of focus on the enterprise business over the last three years and where we invest and where we focus, we see progress, and we see results. So it's not just releasing the enterprise great product in the first way, but it stands like encryption key management earlier this year. Yesterday, literally, the final release of international data residency, which is important for a lot of customers, but there's a whole host of administrative tools and compliance features that go along with that. And starting to bring some of that focus to the self-serve business and to thinking about how to really scale that because two things happen at the same time. One is, I love the bass line, consumers are divinely discontent. The bar is continually raised on usability on the degree of onboarding help you need, performance characteristics of the clients just have people's expectations.
+
+But also we're just moving to a much broader audience. So, it's more a mass market, and we have to do more to simplify and make the experience accessible to people. I think just like the focus we've had in enterprise that demonstrated real results, we'll see the same thing in the self-serve business.
+
+Allen Shim
+
+Yes, Keith, it’s Allen. I would say that on the enterprise side of things, we still think there are tens of thousands of enterprises out there. So, our focus is still adding customers and expanding within those customers. I think you're right that as you get big within a customer, there's a degree of efficiency that the customer expects. So, pricing still is an output for us relative to the -- our focus on adding customers and staying within those customers.
+
+So, we're prudent about driving efficiency for customers in a way that, that makes sense, given kind of the enterprise buying pattern. So, we're continuing to invest there. I would expect to, again, continue to add upon this record quarter that we had in enterprise results and we're going to keep investing at store setting continue delivering against those results.
+
+Keith Weiss
+
+Got it. Thank you, guys.
+
+Operator
+
+Your next question comes from the line of Brent Bracelin from Piper Jaffray. Please go ahead, your line is open.
+
+Brent Bracelin
+
+Thank you for taking the questions here. One for Stewart and a follow-up for Allen. Stewart, you talked about shared channels. I know it's early, but having some help relative to some new enterprise wins in the quarter. My question really is around the technology there? How hard was it to kind of roll out shared channels?
+
+Just remind us what were some of the technology hurdles you had to overcome to roll that out and how hard would it be for some of your competitors to copy what you're doing there? And then again, one quick follow-up for Allen.
+
+Stewart Butterfield
+
+Sure. So, I mean, the short answer is, it would be really, really hard. We spent the last two years working on this and there's a bunch of subtleties. So, one thing is both sides of this relationship, we want to have control. They want have the ability they want to understand the message retention policies. They want to -- how the availability for eDiscovery and legal holds and digital loss prevention and all of that kind of stuff.
+
+But you still want to be able to create and then sever these relationships and retain the data on both sides. You also want to be able to incorporate applications and have them have appropriate permissions that are shared by both sides. So, there's a lot of technical heavy lifting.
+
+And obviously, you go from a model where, let's say, there's 10,000 people using Slack in the company X, where we have to worry about 10,000 people to -- potentially, we have to worry about million people because they can create shared channel with more or less anyone.
+
+I would point out that we're starting from a relatively new code base. We're not carrying a legacy of technical debt. And I think if we were strapped to half a dozen different products that were all, on average, about 20 years old, it would be very, very difficult to replicate this.
+
+Allen Shim
+
+Yes. I mean just to add to that, Brent, for us, the channel is the atomic unit. You're starting to see this recognized in the industry. And I think Arnold put out a report that described this. It's not the team, it's the channel. And that means that being purpose-built in having the architecture that allows for that is very proprietary to us. And so you can't accomplish this with a legacy kind of stitching together at different systems. You have to really have a specific intent to build this way.
+
+Brent Bracelin
+
+Right. Super helpful. And then, Allen, just a quick flow for you. As we think about a record number of new net adds on the enterprise side. If I back into kind of the mass market transactional kind of customer cohort, the net adds are slowing there. And I didn't know what that was a function of if it was a function of just competition, if it's a function of productivity, like what are the factors there as you think about your focus on the enterprise, what's happening on that transactional side of the business, the smaller customers, a lot of self-serve paid customers there. But what's happened there? Are there things you can do to kind of reaccelerate kind of customer outside of the enterprise space? Thanks.
+
+Allen Shim
+
+Yes. I mean to echo what Stewart said earlier, I think where we focus and where we invest, we know that we will deliver results. And enterprise has been a primary area of focus for us both on product and go-to-market over the last couple of years. And you're seeing that every quarter, we're winning more and more enterprise customers.
+
+We -- this quarter alone, it was Grabtaxi in Asia, SiriusXM in the U.S., GlaxoSmithkline in the U.K. So, you're seeing it globally across a bunch of different sectors. So, I think we're very pleased with that.
+
+I think the corollary to that is, on the self-serve side, we see a ton of opportunity. I mean this is still a very, very large market. And I think in terms of the net adds, you're seeing it level off here this quarter. And we'll obviously guide as when we think that it will reaccelerate, but that's really the intent for us to invest there and to see those results over the coming quarters. We know that there's a lot more we can do to make this category, a lot easier to understand, both for customers, investors, for all stakeholders, and we're trying to build something different here. We're trying to do -- build a transformative type of platform for our people work. And that takes time to educate, and we're thinking about this in a kind of a multi-quarter, multi-year type of investment.
+
+Brent Bracelin
+
+Got it. Helpful color. Thank you.
+
+Operator
+
+Your next question comes from the line of Mark Moerdler with Bernstein Research. Please go ahead. Your line is open.
+
+Mark Moerdler
+
+Thank you for taking my question and congratulations on the quarter. Two questions. The first one is your largest customers have obviously quickly adopted shared channels, which is great. Can you give some color, and maybe it's too early on the impact shared channels within the customers. Are they starting to -- are you hearing of them getting their partners and customers to adopt Slack due to shared channels? And then I have a follow-up question.
+
+Stewart Butterfield
+
+Yes, absolutely. So I mean, we're obviously a heavy user of our own product. And what we've seen is our sales and success teams using it with customers. And that has -- because we have really had a great penetration in the enterprise software maker market.
+
+Generally, we're starting to see that happening all over the place. So people are delivering premium support and customer success programs. People getting deals closed faster. But I'll give you just one super re-story. We have broad post coming about this. We noticed a small audiology testing software company called Smart Care that had invited in 17 audiology testing center.
+
+So there's places where you're going to be hearing a tested, and they were in Wyoming, in Vegas, New York, and we thought that's crazy that they're bringing in obviously who presumably new users to Slack. It wasn't just that. They were creating the instance, setting it up, inviting the customers to become administrators of it and then paying what their customers to use it, because they knew that satisfaction that their customers had was so much higher.
+
+And another anecdotal one would were out in London for our Frontier's conference there. One of the executive briefing centers I participated in was a London-based legal firm, who was hearing increasingly from their digital-first banking clients that they were getting requests to serve them over shared channels?
+
+And what is the Slack thing and how can we -- we best use it. So I mean, there's a lot of -- those are anecdotes. There are hundreds or thousands of those, and we're starting to see the use cases emerge. But the exciting thing for us is those are discovered by customers. Those are not like things that we're creating is very inventive kind of generative usage, and it's a really exciting platform, and we're just getting started.
+
+Allen Shim
+
+Yes. I mean, the road map from here, Mark, is not just one-to-one, but one-to-many and expect to see more of these stores and more of these use cases become the norm in terms of how people are transforming work with Slack.
+
+Mark Moerdler
+
+And then a follow-up. Just a confirmation, employee stock comp has increased as you had guided to. Is the distribution effect of that through the employee base completed, or should we see any additional significant change in the stock comp?
+
+Allen Shim
+
+Well, I think as we noted in the call, it has accelerated right now post the listings. It will take, I would say, another year or two to really work through the existing grants that were pre-listing, and then I would expect that to normalize over time.
+
+Mark Moerdler
+
+Perfect. Thank you. Much appreciated.
+
+Operator
+
+Your next question comes from the line of Bhavan Suri with William Blair. Please go ahead. Your line is open.
+
+Bhavan Suri
+
+Hey, guys. Thanks for taking my question. Nice job here. I wanted to touch a little bit on the premium opportunity a little bit. You mentioned in the past or maybe in a few months ago, 50% of the daily active users we're paying. That's a pretty high number in terms of premium models go. And so as we think about the next few years, do you think this number sticks around 50%, or do you think there's the opportunity to increase this by adding maybe more premium picture, maybe changing pricing a little bit, increasing conversion? Again, not for a quarter or two, but, let's say, three to five years, how do you think that ratio changes?
+
+Stewart Butterfield
+
+I think it will continue to go up. I mean, we don't have a model for that because there's a lot of usage in the premium side, that is like time-bound events, things like planning their wedding or home renovation project or organizing kids stocking for the season.
+
+And to be clear, we love that. It's great. It brings Slack to new customers, and they intend to introduce to their companies. But my conjecture that is going to tend to increase just because it's tended to increase over the years. At the very first time, we reported daily active users and paid seats. Would have been probably in 2015, maybe in 2014, and it was around 20% there, and it was like high 20s than 30s, 40s and now it’s cross 50%.
+
+Allen Shim
+
+Yeah. But I think it's more a reflection of the fact that we are doing, so well in enterprise and the sales motion, in particular, I think as you expand, the expansions are larger off of, what started out as, an organic base, even at these large customers and as they expand their all capes. So they kind of skip over that free DAU mark. So that's why you're seeing that mix really trend towards a higher percentage of pay, because as these expansions happen on enterprise, you're seeing that percentage shift towards more paid because they're starting off as paid.
+
+Bhavan Suri
+
+Got it. Got it. Actually, that leads into my next question. When you look at those, 1 million ACV customers, I guess, two parts. One, how long does it take – again, I know that the it's never – no one's exactly say, but on average, to get them there, is there more room for them to go above $1 million plus, which I expect there is? And then when you look at the sort of 800,000, 100,000 ACV customers, as you think of those are – all those candidates to get north to $1 million? Thanks.
+
+Stewart Butterfield
+
+I would say, not all of them are candidates as all of them are big enough, but many of them are, and there's many that are candidates that aren't even at $100,000 stage yet. It can take a long time. I mean, just in totally candid, someone signs up for Slack. They don't really get it. But they're busy. They later on invite someone. It takes a while for that team to get going. Now, you have five people than eight people. So getting from there, too, like we have an enterprise license agreement and there is 10,000 people and there's a change management program and our success team is on the ground. That can take six months. In the best case, it can take years. So I think that's another reason why you see the percentage of paid increase over time is because it takes a little while to – it is a really big transformation.
+
+Allen Shim
+
+The last time we looked at this, when we said, what is the, particularly, the TAM within our existing large customer's, it was in the low double-digit percentage. So it's 3, 4, 5x higher in terms of expansion opportunity just within that existing base to kind of give you another angle at it.
+
+Bhavan Suri
+
+Yeah. That's exactly what I was getting at. That's very helpful. Thank you guys and nice job. Thanks for taking my questions.
+
+Jesse Hulsing
+
+Yeah.
+
+Stewart Butterfield
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Will Power with Baird. Please go ahead. Your line is open.
+
+Will Power
+
+Great. Thanks a lot. Yeah. I guess two questions. I just want to come back to the strong Enterprise growth, I am thinking about the $100,000 customer additions in the quarter. I mean, how much of that's driven by some combination of sales productivity and new logos versus just continuing to drive users? I'm just trying to understand, what's really driving that acceleration, I guess, in the last couple of quarters.
+
+Allen Shim
+
+Yeah. I mean, Will, as we were saying, it's a function of – of things. We've been investing in this for years, and we're seeing more traction with our enterprise customers and also just more understanding of Slack. As customers spend time with us, they can appreciate the difference in the value that we're providing relative to the competition. They're seeing this as transformative, enabling their digital transformation and not something far beyond communication. We give them the platform. We give them now this network value of share channels. So I think you're seeing it these things intersect where the understanding of the product, understand the category, and then the building relationship over time with more sales capacity out there is leading to both new and expansion driving that enterprise strength you're seeing.
+
+Will Power
+
+Okay. Okay. And then just a financial question, nice improvement in the guidance for both, I guess, operating profitability and free cash flow. Any further color you can provide there just on a source of outperformance relative to the prior guidance on those two fronts?
+
+Allen Shim
+
+Well, I think it's a reflection of – this is a software SaaS model. I mean, we have very strong fundamentals, high gross margins and strong retention dynamics. So I think we've always said as part of the growth phase, the first priority is to invest in growth, and you're seeing that. We're going to continue to invest in growth, continuing to invest in innovation, and we're leading in those areas. But you're also going to see more leverage. And I think this is really a part of our deliberate effort to continue to drive more efficiency in the business as we invest in growth. So I think both have always been kind of a dual-track goal for us, and we're really just executing against that.
+
+Will Power
+
+Okay. Thank you.
+
+Operator
+
+Your next question comes from the line of Raimo Lenschow with Barclays. Please go ahead. Your line is open. Mr. Lenschow, please go ahead. Your line is open.
+
+Raimo Lenschow
+
+Sorry, sorry. Sorry I was on mute. If you look at the competition without naming is like, so the main marketing message around the active users. But that's kind of also almost like a false number because it doesn't really tell you anything about engagement levels and how do you – is there a way – or what are you thinking about reacting to that in terms of like, if you look at the Slack usage that you see out in the field there, it looks – the engagement level seems a lot higher. But I'm just wondering how – what's the way for you to kind of communicate that? Thank you.
+
+Stewart Butterfield
+
+If you have ideas for how to communicate, I would love to hear it, because we're trying a lot of stuff. I think it's going to take some time, and it's going to take a couple of more quarters for people to really appreciate it. But I mean, the confusion is deliberately created. I mean, you can't make any mistake about that. And it's not just -- I think we undercount the difference a little bit. If you talk about just like, there's more engagement here and a little bit less here because that makes it just purely quantitative where, I think, it's a quality difference.
+
+There is a lot of people who have desktop VoIP phones that work Skype for Business and are now achieved. So they pick up the phone and make a call and they are -- a team user has nothing to do with what people do. You Slack for why people are switching to Slack, the strength of the platform or any of that.
+
+So I mean I want to just be candid and say, we haven't carry out the right way to message that. I think trying to get ahead of it and get people to understand that you were going to hear 30 million day active user announcement and the 50 million daily active user announcement and 100 million daily active user announce, because the 100 million people using link.
+
+So, of course, they're going to get there. I think our priority is really serving the customers, continuing to not getting too drawn into that distraction. But we do have to head on when we go to talk to customers, because there's going to be a population of 1,000 people who have built all these incredible integrations inside this customer and people are fanatical, and they say it's transformed where they were, and you reach a population outside that, where people don't -- aren't familiar with it and they kind of shrug their shoulder and think that we already get teams to free. Getting past that can take us a couple of months or it can take a couple of years. People have done multiyear valuation of teams that have ultimately failed and they’ve gone back and expanded their Slack usage. And if we can figure out a way to get that happening in a month or a week or a day, we would love to roll that out very broadly.
+
+Allen Shim
+
+I mean, when we see 70% of our top 50 customers, our office -- also Office 365 customers. It's clear to us that the comers appreciate the difference and what the transformation that we can provide versus the more communication, legacy tools that they already have.
+
+So we want to continue to invest in that, continue to invest in customer success, continue to invest in how people want to change their organization's culture and may become more agile. And we think that that's something that will take time as stores. So it's a new category. We're spending a lot of time in education, and we know we still have a long way to go.
+
+Raimo Lenschow
+
+Perfect. Thank you.
+
+Operator
+
+Your next question comes from the line of Gregg Moskowitz with Mizuho. Please go ahead. Your line is open.
+
+Gregg Moskowitz
+
+Okay. Thank you very much for taking my question, and good afternoon guys. I guess the first one is for Stewart. Shared channels has had one of the most successful data programs that I can recall in software, at least as measured by user adoption. So what might be a realistic penetration rate for shared channels, say, three years or so from now, how should we be thinking about that? And I just have a follow-up for Allen.
+
+Stewart Butterfield
+
+Yeah. So I mean like I said, we don't even model it internally because we don't understand the dynamics will not. But if you're talking about adoption inside Slack customers, it will totally approach 100%. So 80% of our largest customers are already shared channels users.
+
+The reason for that is our success teams are there. They can explain to people, they can give an use cases, they can help them get it set up. They can help make it consistent with their existing compliance setups and all of that.
+
+The other 100,00 plus customers don't have that luxury, but they are independently discovering it. And there's two things we should say. So one, we're very early in the stages of kind of the commercialization product work around the base of shared channels. And by that, I mean, in the beta, you had to know the person you wanted to invite workspace URL, which is kind of the scariest company named out slack.com, but it's hidden in the IOS app, it's hidden in the desktop app. You have to kind of go out of your way to find it.
+
+So our CPO, tomorrow, talked about that as the customers walking over broken glass in order to get it set up. That's now a lot easier. You can just send someone a link and then the administrative approval process kicks in, but we want to go much farther than that. That includes free trial offers for the invitee, it includes the option I mentioned before, for the inviter to pay for the Slack usage of their correspond. But look barely begun experimenting with that. So I think both has the feature of convenience for customers and also as a way to actually be a growth driver.
+
+But the second thing I would say is, right now, your channels is just between two Slack-using organizations. There are this enormous set of use cases that involve three or more. I mean you think about the architect, the engineering firm and the customer. Come up as many as you want.
+
+That is going to be a driver of adoption and spread because every time someone gets an invite to a share channel there are many, many times more likely to send an invite themselves. So there is a network effect and that kind of compounds over time. So if you can have three or five people participating, that's a huge boon. And there's a whole roadmap beyond that, that I could literally talk about for hours, but I want to make sure we have time for other questions.
+
+Gregg Moskowitz
+
+Okay. That's very helpful. Thanks Stewart. And then for Allen, you had very good revenue upside this quarter although the billings was only modestly above. I think where consensus was. Conversely your RPO was strong, grew by 30% sequentially as you noted in your prepared remarks. So aside from the impact from the credits in Q2, is there anything that you would call out here, in terms of duration or any other puts and takes that we should be aware of?
+
+Allen Shim
+
+Nothing in particular. I think the momentum has been strong as we've been highlighting in the enterprise. We have more opportunity in self-serve. So I think we're going to continue to invest in that area as well. So I think you'll see the results of that as we talk more about next year.
+
+Gregg Moskowitz
+
+Great. Thank you.
+
+Operator
+
+Your next question comes from the line of Ryan MacWilliams from Stephens Inc. Please go ahead. Your line is open.
+
+Ryan MacWilliams
+
+Thanks for taking the question. Just one for me today. With the initial success with shared channels and workflow builder, so your next big feature rollout, how do you think about the potential upsell opportunity, a new feature could provide versus instead bolting your existing paid offering? Thanks.
+
+Stewart Butterfield
+
+That's a great question. I think we're a long way away from offering new products actually, -- if we're thinking about those as products that are intended to drive ARPU, just because the market is so big, right.
+
+Answer so a single-digit percentage penetrated in we've got to focus on that, we have to focus on continuing to deliver more value to our existing customers. If they get more value and we get the same amount of money, all good, we want these people to be fanatics and want them to recommend it at their next job, we want their IT Department to be thrilled with how easy it is for them to administer and how much time they're saving. We want the executive team to be thrilled by the productivity increases. So I mean that's the focus for the long run.
+
+And I think what you'll see is because Slack is horizontal, extending across a whole organization or a whole team or whole workers, whole division or whatever. It's a slightly different dynamic than what you've seen in the past within enterprise software companies where you choose a vertical you get some customers, you choose an adjacency and you sell the new product to the old customers.
+
+I'm not saying that, that doesn't happen for us in the future. But it's a little bit different when you turn things 90 degrees, and you're thinking about what's a horizontal adjacency. And for us, I think that's principally around platform and it's around workflows, it's about making that easier for systems integrators. It's making it easier for customers to get new applications up and running.
+
+So if you think about the 550,000 custom integrations that were developed by customers to integrate with their internal software. That's a number that works the 2,000 apps in our app directory, which is also a new record. But there's a huge amount of activity and if we can make that easier, I think that's a real win for us and a real win for customers. So they don't have to provision a new server. They can get those things up and running. I think that the server as function approach to development is a great step forward, especially for the relatively simple kinds of applications that people are developing.
+
+And then I think there's a huge opportunity for us around the distribution for our partners because if you imagine you're brand-new SaaS company and you're looking for your first 100 customers, 99 of them are going to be using Slack. So, if you can get in front of them or we can help you buy one, that's a big win.
+
+Allen Shim
+
+Yes. And just to reiterate on the share channels point. I mean the network effects that we believe are possible, they take time to compound. But we think that's definitely a priority for us to continue that thing, and we think the payoff for that will be significant. And obviously, we're going to invest in that near-term for what we think is very significant long-term payout.
+
+Ryan MacWilliams
+
+Perfect, thanks for the color. Great quarter.
+
+Allen Shim
+
+Thank you.
+
+Operator
+
+Your next question comes from the line of Walter Pritchard with Citi. Please go ahead. Your line is open.
+
+Walter Pritchard
+
+I was wondering if -- just for Allen. On the billings for the last year, you had an incredible ramp in Q4. And then that sort of come down pretty hard in Q1. Things like this where you might be kind of managing the quarters a little bit more closely. Could you help us understand how you're thinking about seasonality here? I mean you've given the guidance, but maybe a peak into Q1? And how that may be the same or different from what happen last year? And then I had a follow-up.
+
+Allen Shim
+
+Walter, we had an exceptional quarter in Q4 last year. And I think this year, we are setting up a stronger pipeline, and we think there's going to be even more pronounced seasonality kind of this year as well. And I think what you're seeing in the guide is just really a prudent approach to how we want to set expectations relative to the visibility that we think you kind of lose what the fact that you've got more enterprise heavy distribution of billings.
+
+And so we're trying to balance that with the fact that this enterprise momentum well great, it does lead to a little bit less visibility in term of timing. So I think the momentum is good. Sales capacity is up. Pipeline is up. So we're going to the quarter with out of confidence, but we're balancing that out, just given the more enterprise driven nature of the results.
+
+Walter Pritchard
+
+Got it. And then, I guess a question on the economics of the enterprise customers. I think last quarter, you talked about this, and you're talking about again this quarter. How are you thinking about sort of the customer acquisition costs of these more recent enterprise customer adds? And it feels like you might be spending a little bit more to get there. Is that the case? And how do you get comfortable with that as go forward with the economics of trying to focus more on those larger customers?
+
+Allen Shim
+
+It's a more to balance out with. We've had a tremendously efficient machine with soft-serve feeding enterprise business, and we think that's going to continue to be the strength of Slack. But, I think, as we grow and as we scale, we want to continue to be even more aggressive.
+
+We see so much opportunity out there. And we're just getting started in Western Europe in earnest. We just opened our office in Paris and in Munich. Our office in Tokyo is just about a little over a year old. So we still see a tremendous amount of opportunity internationally, in developed markets and even in the U.S. itself.
+
+We just opened Chicago. We just opened up a larger presence in other parts of the U.S. as well. So, we still see a lot of opportunity here, and we want to make sure that we are accelerating our approach to acquire more of those customers, and we still see a very efficient dynamic there in terms of our ability to do that.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Rohit Kulkarni with MKM Partners. Please go ahead. Your line is open.
+
+Rohit Kulkarni
+
+Okay. Thank you and congrats on the great quarter. I know we have to wait another three months for the next year's guide. But as you're kind of ramping profitability probably much faster than what the Street is modeling. I've been wondering whether you wanted to comment on why or why not you wouldn't have several quarters of free cash flow positive next fiscal year?
+
+And then I know everybody is talking about shared channels, I was at the Spec conference, and the workflow builder is a very cool add-on and a very cool feature. And can you talk about how large enterprises are using that? And to what extent the adoption and stickiness is being kind of affected by the workflow builder?
+
+Stewart Butterfield
+
+Sure. We'll take those in reverse. I'll handle the workflow builder question. We're seeing it for everything. And I think there's a real interesting spectrum. On the one hand, if you have a supply chain to manage, you need a real official system of record and you'd to be able to run reports against the database and have all that stuff kind of officially loved.
+
+Most companies or many ways have this whole host of other workflows, which are kind of like more by convention, so they're not captured in any database. You can't run reports on them. But it's how contracts get approved. How deals and discounts get approved by the sales desk.
+
+It can be like attributable as booking a conference room, or reporting a security incident, where there's a intruder on the campus. We actually use workflow builder extensively in our own security operation center. So there's a whole host of opportunity there. And I think we're seeing customers adopted for things that we never really imagined.
+
+What we need to next is give it more surface area, kind of, inside our software, to make it more visible to people. So when there are channels that are set up for specific kinds of workflows, those workflows are made more visible, and we also need to give the creators of those workflows more tools for kind of branching logic and the events that can be triggered.
+
+But the last thing I would say is, there's a real important tie-in to the platform more generally, because you should be able to invoke those workflows programmatically. So from outside tools or from your own internal software that's not part of Slack, and then have the result of those workflows also post back.
+
+So that's something that we're really focused on. And I think this is a -- I mean, I'm glad you went back, if it gets great, and I think it's great that you noticed that. It's a little bit more obscure. So I think it can take the market a little and catch on to that, and it will take customers a little while, but where we're seeing them adopt it. We've been really excited, and they've been very happy.
+
+Allen Shim
+
+And Rohit, on the profitability question, we're focused on acquiring more customers. It actually kind of ties nicely to Walter's question, previously. I mean, as we think about the growth phase, the first priority is investing in growth. And you're seeing that both on the R&D front as well as the go-to-market side of things.
+
+And the reason why we specifically highlight cash flow breakeven as really the target is that, as we see more opportunities to invest, we believe we're so early in this category, and the opportunity is so large that, really, the most prudent thing for us to do is to continue to go after acquiring more customers, growing them out and building more of the capabilities that you're hearing Stewart talked about, whether it's workflow builder and share channels and other areas of innovation that we continue to work.
+
+So I think that's really the balance that you're going to hear from us, that we want to -- we see so many opportunities to continue investing in growth, and that's really a priority, but we're balancing that out with really getting to the degree of leverage and efficiency of that cash flow breakeven would indicate.
+
+Rohit Kulkarni
+
+Okay. Thanks guys.
+
+Operator
+
+Your next question comes from the line of Rishi Jaluria with D.A. Davidson. Please go ahead, your line is open.
+
+Unidentified Analyst
+
+Hi guys. This is Hannah [ph] on for Rishi. Thanks for taking the questions today. First, I know there are a number of small VC-backed companies that are solely applications built on Slack, such as -- I was just wondering where you see the number of companies like this trending over time. And is there anything you guys are doing with rent to encourage companies?
+
+Stewart Butterfield
+
+Yes. So, I mean, we're doing, say, it's maybe two big paths. One is just the development of the platform and our developer relations efforts broadly, that team is on the road all over the place all the time. So, look across the U.S., but also in Europe and in Asia, helping to educate developers and also we're still early in this thought process still taking a lot of input from them on what kind of features and functionality they need to be able to deliver better experiences to the end users.
+
+We also have Slack Fund, which has been tremendously successful. There might be an update to December, but the last one I heard was nine Slack first companies that we invested in being acquired by someone else. So, there's a lot of interest out there in those kinds of efforts.
+
+And there's also a kind of a real interesting experimental intersection between a little bit more to call it like platform enhancers on the outside world thing that makes systems integration either and the Slack platform.
+
+So, StdLib company, it's spelled S-T-D-L-I-B. Just released a new integration and makes it easier for people to get new applications up and running. So, there's really a continuum between the one-hand internal developers, of which there are 600,000 registered followers.
+
+Allen Shim
+
+700,000.
+
+Stewart Butterfield
+
+700,000, sorry. Many of those inside of the customer companies doing their own systems integration, the third-party products, like the ones you mentioned that are like sold directly, and we want to obviously be able to support those because that's -- it's good for them.
+
+If the customers are buying, it's obviously good for the customers, and of course, it's good for us. And then an ecosystem of tool that help develop on both sides of that. So, help people deliver better third-parties tools will and help internal developers develop better integration.
+
+Unidentified Analyst
+
+Okay, great. And then given the [technical difficulty] on team, you're seeing any impacts, such as changes in buying behavior, longer sales cycles from?
+
+Stewart Butterfield
+
+So, I mean, it definitely comes up. It doesn't always come up. I think that customers tend to understand that we have the superior product and almost all of them say that. The reality is last three years since we launched Enterprise Grid, we have been -- and competition team has been out, but there's just such an enormous market. And I think it's helpful to think of those in terms of concentrators, like all the companies in the world, we do great. All the big companies in the world who don't use Microsoft, we do great. All the big companies in the world who use Microsoft, we still do great. Big companies in the world to use Office 365 specifically, we still do great, because almost all of our enterprise wins are in that population.
+
+I don't want to give the impression that it's not inconvenience for us because it definitely does force a conversation. And what we see is there's a population of 1,000 or 5,000 people happily using Slack inside of a company and people think we've got a $0 budgeting approach. This is a new line item. I don't understand it. I'm not sure that all these people are talking about; we at least have to evaluate teams, because I'm told by my wrap or my channel partner, whoever that, they're equivalent products, and we need to force that evaluation, and that evaluation can, like I said earlier, be really quick, but it's more often and quite long. It takes time for people to say, I get it, this doesn't work and to extend Slack usage. So, it’s a little bit of both.
+
+Allen Shim
+
+I would just maybe conclude with, again, 70% of our top 50 customers use Office 365. So, there's a lot that we can now take the marketplace on, particularly with customers about the differences here. And then those that understand that difference and appreciate it buy Slack, right. There is really no option there because we're the only like in scale, and we don't have a legacy architecture kind of holding us back. So, we're very confident in our ability to compete, and we think there's a huge opportunity in front of us and we're focused on driving value for customers.
+
+Unidentified Analyst
+
+Great. Thanks guys.
+
+Stewart Butterfield
+
+Thank you very much.
+
+Allen Shim
+
+Thank you.
+
+Operator
+
+There are no further questions at this time. Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.

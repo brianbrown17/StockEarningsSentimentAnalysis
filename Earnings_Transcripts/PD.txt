@@ -1,0 +1,395 @@
+@NYSE:PD
+@12.06.2019
+@-0.01
+
+Operator
+
+Good afternoon. My name is Ian, and I'll be your conference operator today. At this time, I would like to welcome everyone to the PagerDuty Third Quarter 2020 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers remarks there will be a question-and-answer session. [Operator Instructions] Thank you.
+
+I will now turn the conference over to Stacey Finerman. Please go ahead.
+
+Stacey Finerman
+
+Good afternoon, and thank you for joining us on today's conference call to discuss PagerDuty's fiscal third quarter financial results. With me on today's call are Jennifer Tejada, PagerDuty's Chairperson and Chief Executive Officer; and Howard Wilson, the Company's Chief Financial Officer.
+
+Statements made on this call include forward-looking statements. Forward-looking statements involve known and unknown risks and uncertainties that may cause our actual results, performance or achievements to be materially different from those expressed or implied by the forward-looking statements.
+
+Forward-looking statements represent our management's beliefs and assumptions only as of the date such statements are made, and we undertake no obligation to update these forward-looking statements.
+
+In addition, during today's call, we will discuss non-GAAP financial measures. These non-GAAP financial measures are in addition to and not a substitute for or superior to measures of financial performance prepared in accordance with GAAP. There are a number of limitations related to the use of these non-GAAP financial measures versus their closest GAAP equivalents.
+
+For example, other companies may calculate non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as tools for comparison. A reconciliation between GAAP and non-GAAP financial measures is available in our earnings release.
+
+Further information on these and other factors that could affect the company's financial results are included in filings we make with the Securities and Exchange Commission from time to time, including the section titled Risk Factors and the company's most recent quarterly Form 10-Q previously filed with the SEC.
+
+Now I'd like to turn the call over to our CEO, Jennifer Tejada. Jennifer?
+
+Jennifer Tejada
+
+Thank you, Stacey, and thank you, everyone, for joining us this afternoon for our third quarter earnings call. Q3 was a strong quarter as revenue grew 37% year-over-year to $43 million. I'd like to share three highlights in the quarter.
+
+First, customer growth remains consistently strong as we scale. We ended the quarter with over 12,400 customers, up 15% year-over-year and growth has remained remarkably steady over the past seven quarters.
+
+We also saw sustained robust growth with our enterprise and mid-market customers that have annual recurring revenue or ARR above $100,000 growing 49% year-over-year, similar to the growth we delivered in the second quarter. These two customer metrics that show a sustained growth rate on an increasing base demonstrates the durability in our revenue growth.
+
+Next, we close some terrific large strategic deals in the quarter continuing to solidify our leadership position in enterprise. We're now partnering with two of the three largest contract -- defense contractors in the world and two of the five largest investment banks after new wins in each of these sectors. These wins, both Fortune 100 companies have a combined value of almost $2 billion [ph] in ARR.
+
+The requirements to do business in huge multinational, highly regulated verticals are not in consequential and our multiyear enterprise tech investments born in the cloud architecture and go-to-market models set us apart.
+
+Both companies show us progress of our platform, especially our machine learning and automation based features, our ease-of-use, our proven resilience in security and scale and our referenceable enterprise track record for value realization.
+
+Our go-to-market teams continue to win expansion business in our base through a laser focus on customer success, resulting in an 81% increase in customers that spend over $500 thousand in ARR a year with us. This quarter we won a significant expansion partnership with a large global software Company headquartered in Europe.
+
+The relationship started with the U.S. subsidiary and they have now expanded users and upgraded to the digital operations package in the European business to support their global growth and enhance the trust our customers place in their software and services.
+
+We continue to see growing demand for our digital operations offering as customers realize measurable value through reducing incidence and by advancing their digital transformation efforts.
+
+This underscored the expansive and the early addressable market we see in digital operations management this quarter where 45% of the net new ARR was attributed to the digital operations package.
+
+This bundle includes our platform, our workflows and Modern Incident Response, our AIOps solution event intelligence which leverages machine learning to automate work, visibility which quantifies business impact in real-time and our analytics product, which provides recommendations on improving digital operations management and metrics to benchmark against other teams.
+
+We're proud of our revenue growth rate and net dollar retention as they rank highly within our peer group. That said, we see an opportunity to stabilize our dollar rate net revenue retention. As we mentioned in Q2 we front-loaded sales hires in the first half of the year to increase our sales capacity.
+
+However, we didn't ramp those salespeople as fast and as effectively as we could have in territories with significant expansion upside and this impacted sales productivity which put pressure on our expansion revenue.
+
+This is an execution issue that we're working on. Not a competition issue, evidenced by our customer retention rate that has remained constant at well above 95%, meaning, we churn far less than 5% of customer ARR in any given year and also validated by our gross margins that remain best-in-class at 85% for the last six quarters.
+
+Over the last few months, we implemented the following initiatives that are delivering early but encouraging improvements in more effectively ramping sales people. First, we doubled down on sales enablement leadership, programs and tools to ramp new reps faster.
+
+Second, we continued our efforts to simplify and differentiate our platform and messaging in an increasingly noisy market including more clearly articulating the return on investment for PagerDuty and making self-service and discovery of new products easier for all of our customers.
+
+Finally, I'm very excited to share that we have strengthened our senior leadership team in sales with the appointment of our first Chief Revenue Officer, David Justice, a high-caliber global sales leader from Salesforce and Cisco with significant depths in commercial and enterprise sales and experience in infrastructure, security and customer service.
+
+Dave will join us in early January and I expect him to be an excellent compliment and partner to our CMO Julie Herendeen who has expertise in growth, digital and high-velocity B2B marketing.
+
+We remain incredibly excited about our opportunity to extend our lead in digital operations management, a market where we see a total addressable market of at least $25 billion for incident response alone and a $100 million when you consider all the teams across the company that are part of managing digital operations.
+
+Let me explain what we mean by digital ops and why PagerDuty is in a unique position. An Always-on World and customer patients results in every company needing to be a technology company. As a result, our customers continue to move more of their services to the cloud constantly iterating on their apps to provide the best customer experience.
+
+In parallel with this market transition modern work has changed with mix shifting from planned and structured work to emergent, mission-critical, spontaneous and unstructured work.
+
+PagerDuty is the only partner that leverages machine learning to orchestrate teams on complex issues across multiple business units and geographies converting a dilutive data into insightful action in seconds and minutes.
+
+Digital operations are increasingly costly and complex to manage and the stakes are high where a minute of disruptions can cost $200,000 to $500,000 in revenue. This requires a long-term partner that sits above the rest of the technology ecosystem acting as a central nervous system, orchestrating all these critical workflows simultaneously and cutting through the noise.
+
+PagerDuty is in the unique position to work for large complex enterprises, as well as innovative startups, because we've been architected for the cloud with enterprise grade resilience and security at scale.
+
+While our customers frequently start with on-call management to accelerate their agile transformation, we increasingly see customers adopting our additional digital operations management products to support their digital transformation programs and business outcomes.
+
+The Gap initially started with 1500 PagerDuty business platform seats to support a DevOps you build it, you own it culture. Early success with PagerDuty led the company to add another 1000 users. As we expanded our product capabilities with greater intelligence and automation Gap saw that they could realize further value by leveraging our digital operations package to reduce major incidents that could cause millions of dollars.
+
+Gap now uses PagerDuty to directly connect product and IT teams, as well as distribution centers creating smarter, more streamlined approach to handling incidents. We estimate that this digital operations upgrade will save Gap's millions of dollars per year.
+
+There are several great solutions in the market that address different and sometimes it related challenges associated with digital transformation including many of the companies that went public this year. We recognize it can be hard to discern how we complement each other.
+
+Some companies like our customers Datadog, Cisco AppDynamics, New Relic show you the health of all your IT services in a single pane of glass. Others like ServiceNow and Jira will give you standard workflows to route your customer service and help desk ticketing.
+
+These are all valuable services. But when there is an unpredictable customer-facing time-sensitive mission-critical work analytics and sequential ticketing are limited by manual detection, a lack of speed, inflexibility and the absence of data-driven intelligent work orchestration.
+
+PagerDuty is different because we go beyond finding a signal in the noise to automate and orchestrate the cross-functional work of people all the way through to a resolution in service of the end customer experience.
+
+Only PagerDuty can do this because as the central nervous system of the software ecosystem we consume a super set of data from all the different technology services our customers use through over 350 integration to build a holistic understanding of our customers digital health.
+
+When we recognize symptoms of a service becoming unhealthy, we pattern match the situation against 10 years of data on how IT services performed and how humans respond to them that we can bring together a small team of only the right owners and subject matter experts and with right detailed technical and business context and help from AI-based automation to action solutions and resolve issues proactively.
+
+Our longstanding customer and partner Sumo Logic illustrates this quite well. They expanded their use of PagerDuty in the third quarter by purchasing our digital operations package. As a SaaS business relied heavily -- relied on heavily by developers to understand the performance of their applications it's critical their platform is highly reliable at scale.
+
+They use PagerDuty to orchestrate teams for immediate response to incidents when seconds matter and they increasingly leveraged PagerDuty preventing events from storming to become major customer disrupting issues.
+
+Now that we have set the stage for you in terms of the sizable opportunity and explain why PagerDuty's in such a unique position, I'll talk about how we capture the opportunity by winning an enterprise, increasing our revenue from new products and validating our position as a horizontal platform.
+
+First, we need to win an enterprise where today we serve 58% of the Fortune 100 after adding another two companies this quarter and 38% of the Fortune 500. In these accounts significant expansion opportunity exists for both user up-sell and new product cross-sell. Enterprise like our other segments is greenfields and a growing opportunity for us.
+
+Our deals are largely are largely uncontested as our competitors lack the product depth, track record and resilience of scale to serve this segment. We're cloud native architected for highly resilient 24x7 operations and have never had a maintenance window.
+
+We implement change in production because our customers can't afford even moments where they lack visibility and awareness of their digital operations. This is one of the many critical requirements to support the Always-on World and is one of the reasons that our customers continue to trust us as a mission-critical platform partner year-in and year-out.
+
+In addition to our strength in self-service and small and medium-sized businesses, we see significant upside in mid-market and enterprise. This is precisely where sales execution comes into play.
+
+Our enterprise sales motion builds on, but differs from our frictionless direct-to-developer sales motion. With our field-based teams engaging with developer teams and senior leadership alike addressing the strategic needs of economic buyers and the technical needs of product users per enterprise and midmarket customers realizing value quickly while meeting security administration and compliance requirements and large businesses is critical.
+
+Our solution meets these needs as illustrated by our recent ITC study that shows PagerDuty enterprise customers averaged $3.6 million in annual visits savings and revenue risk mitigation, a four-month payback period and a 731% ROI over three years.
+
+As we strengthen our senior sales leadership with the appointment of Dave Justice as Chief Revenue Officer, we will have more of a global 2000 manage their digital, operations optimizing revenue and customer experience and significantly reducing operational expense in the process.
+
+Next, we are increasing our revenue from new products. Modern Incident Response, our AIOps solution, Event Intelligent, visibility for situational awareness, and analytics for measuring operational and team health and productivity, all of which build upon data and learnings from our platform.
+
+We also announced two new capabilities this quarter; Intelligent Dashboards and Intelligent Triage. Intelligent Dashboards is new to our analytics product and leverages 10-years of data through its spotlight recommendation engine that teams can use for future improvements such as stopping on actionable alerts, fixing repeat issues and improving escalation practices.
+
+It also provides managers with built-in benchmarks to see how their teams compared peers in the organization and across their industry. Intelligent Triage is new within Event Intelligence and provide additional context into issues so teams know how to prioritize their work and can reduce the time between detection resolution of an issue significantly cutting outage time and mitigating the risk of business impact.
+
+All of our products help businesses mature their digital operations and deliver greater return. When customers use these products they mature from reacting to incidence more efficiently to proactively managing their digital operations and preventing problems before they arise.
+
+As I mentioned before we've also seen some great signals here recently with regards to our ability to upsell these products as 45% of the net new ARR we booked in the quarter was attributed to the digital operations bundles.
+
+Last but not least we continue to validate our position as a horizontal platform. What we mean by horizontal is that customers increasingly apply our solutions to teams and challenges well beyond the purview of DevOps and IT.
+
+In the third quarter we launched PagerDuty for customer service in partnership with Salesforce and Zendesk. This follows the launch on PagerDuty for security operations in February.
+
+Customer service management is a significant opportunity for us as those teams that are on the front lines of ensuring customer experience and rapidly resolving customer impacting issues is a cross-functional effort.
+
+Being horizontal platform also means being applicable to all companies with time-sensitive critical work. That mean that brings to mind another new customer partnership we initiated in the corner with a Top 20 U.S. city municipality.
+
+Think about essential services like power, gas and water, where always on is both a physical and virtual must-have. Historically, the city would be notified of issues by a customer with little visibility into the underlying causes.
+
+Service outages were costly and it would take upwards of 45 minutes to coordinate teams after a power outage before they even start to triage the issue. Using PagerDuty, this city redesigned as digital operations with the help of our expert services team, so they can address issues quickly and proactively.
+
+And PagerDuty Modern Incident Response -- with PagerDuty Modern Incident Response the city can automatically run response plays to resolve issues before customers are impacted. Significantly reducing the time from detection to resolution and mitigating revenue impact.
+
+One additional highlight from the quarter was our Annual Summit Industry Conference in San Francisco where we built significant sales pipeline value in the millions. This is our biggest and best summit yet with over 1200 attendees, a 40% increase from the previous year.
+
+Customers were supportive and excited about the new innovations we announced and our investments in customer service through deeper integration with Salesforce and Zendesk. As we close out the calendar year, we at PagerDuty want to wish our entire community of users, customers, employees, partners and shareholders a safe, happy and uneventful holiday period.
+
+Over the holidays we will continue to help our customers reduce the financial customer and employee impact of emergent work. We're also keenly aware that the holidays can be difficult for those in need. So in honor of our customers we're supporting the delivery of time-sensitive healthcare for those in needs by donating $25,000 each to VillageReach and Medic Mobile, two of our PagerDuty.org partners.
+
+With that, I'd like to turn the call over to our CEO Howard Wilson. Howard -- our CFO Howard Wilson.
+
+Howard Wilson
+
+Thank you, Jennifer. We're pleased with our third quarter of fiscal 2020 results. Revenue for the third quarter increased 37% year-over-year to $42.8 million beating the high end of our guidance.
+
+Strong new customer acquisition, new product adoption and healthy growth in international geographies particularly EMEA, all contributed to our strong results. Our non-GAAP gross margins which are industry-leading remain strong at 85%. Our Non-GAAP EPS came in at negative $0.10 per share in line with our guidance.
+
+We continue to add to our track record of managing capital efficiently generating positive cash flow again this quarter. We saw 15% increased in total customers on a year-over-year basis to 12,436 customers.
+
+We were pleased to see further evidence of our success in the enterprise with customers above a $100 thousand in ARR, up 49% year-over-year to 303 customers. As Jen mentioned growth in both total customers and larger customers were in line with the growth rates we've exhibited for several quarters now demonstrating our ability to grow of a bigger base.
+
+Our dollar based net revenue retention for the quarter was 129%. This metric will fluctuate relative to the amount of new business versus expansion we do in a quarter and the variabilities of customer buying patents.
+
+As Jen mentioned in her remarks, some of the challenges we faced with ramping new sales reps has led to suboptimal execution on the expansion opportunity in our installed base, which has created some downward pressure on this metric.
+
+However, we're pleased to see our tenured sales reps continue to drive significant new and expansion deals. For example, we added two new customers in the Fortune 100 bringing us to 58 and increase the number of customers who spent over $500,000 in annual recurring revenue with us by 81% year-over-year. In fact this quarter was our largest quarter for annual recurring revenue from new customers.
+
+Our international revenue grew 52% year-over-year. This was an exceptional quarter for our EMEA region including one of our largest deals for the quarter with a global enterprise software company based in Europe.
+
+I will now turn to the detailed financial results. These results are on a non-GAAP basis. Our GAAP financial results along with a reconciliation between GAAP and non-GAAP results can be found in our earnings release.
+
+In the third quarter, non-GAAP gross margin was 85% in line with the third quarter of last year. Our cloud-native architecture, DevOps approach production and programmatic approach to customer success drives our efficient operating model. We look to run our business at between 84% and 86% gross margins.
+
+When it comes to managing the operating expense side of the business, we take a balanced approach to growth and profitability. In the near term, we are more focusing on investing in areas that will help us scale our growth as we look to take advantage of the opportunity ahead of us. However, over the long term as we scale we expect to reap the benefits of operating leverage.
+
+In the third quarter, non-GAAP operating expenses were $46 million compared to $32 million in the third quarter of fiscal 2019. Non-GAAP research and development expenses for Q3 were $11 million compared to $8 million in the same year-ago period, representing an increase of 39% year-over-year.
+
+Innovation has been and will continue to be a top priority for us, as we continue to extend our lead in real-time operations. We expect R&D to increase in Q4 both in total dollars and as a percentage of revenue.
+
+Non-GAAP sales and marketing expenses for Q3 were $25 million and grew by 43% compared to Q3 of fiscal 2019 of $18 million. As we discussed on our Q2 earnings call we plan for incremental discretionary spend for our Annual Industry Conference where we set a new record for attendance and sales pipeline generation.
+
+And for above-the-line advertising for our brand campaign, we expect sales and marketing to decline in Q4 back to a run rate close to Q2 and to decrease as a percentage of revenue as we continue to scale our sales team and improved productivity.
+
+Non-GAAP general and administrative expenses for Q3 were $9 million for the quarter and increased 37% year-over-year, more modest increase in the two previous quarters given our investment in headcount and systems in the latter part of FY 2019 team in anticipation of being a public company. We expect general and administrative expenses to increase slightly in Q4.
+
+Our non-GAAP operating loss in the quarter was $9 million compared to a loss of $6 million in the same quarter last year. Our non-GAAP operating margin was negative 22% in Q3 and negative 18% in the same period of last year, primarily driven by investments in go-to-market and increases in research and development. Over the longer-term we expect improvement in operating margin.
+
+Non-GAAP net loss for the third quarter was $8 million or a net loss of $0.10 per basic share compared to a non-GAAP net loss of $5 million or a loss of $0.24 per share in the third quarter of last year.
+
+The drop in interest rates negatively impacted EPS by about a penny this quarter. We generated $3.4 million in operating cash flow in the third quarter as compared to $2.8 million in the prior year.
+
+Free cash flow was $2.3 million in Q3 compared to $200,000 last year. Free cash flow margin was a positive 5% compared to positive 1% in Q3 last year. Working capital improvements were a major driver here as we continue to manage capital efficiently.
+
+As we mentioned on our last earnings call we're still expecting an increase in capital expenditures related to our office build-outs. This will negatively impact free cash in the short-term. On a long-term basis we will work towards sustainable free cash flow.
+
+Turning to the balance sheet; we ended the quarter with $346 million in cash, cash equivalents and investments, up $218 million from the end of the fiscal year 2019. This was primarily driven by proceeds raised in our initial public offering as well as positive working capital.
+
+Moving onto guidance for the fourth quarter of fiscal 2020 and the full fiscal year 2020, revenue is expected to be in the range of $44.5 million to $45.5 million for the fourth fiscal quarter, and we'll see our full fiscal year 2020 and in the range of a $165 million to a $166 million.
+
+Non-GAAP net loss per share is expected to be in the range of $0.06 to $0.07 for the fourth fiscal quarter and in the range of $0.38 to $0.39 for the full fiscal year 2020. Basic shares outstanding for Q4 and the full-year fiscal 2020 are expected to be $77 million and $65 million respectively.
+
+With that, Jennifer will make some closing comments.
+
+Jennifer Tejada
+
+Thanks Howard. In closing I've just spend the last three days in Las Vegas with our partner Amazon Web Services, and a number of our largest and most innovative customers at AWS Reinvent.
+
+Every conversation reinforced the importance of cloud adoption and digital transformation. Andy Jassy also reminded us in his keynote Tuesday of how early we are in the cloud migration journey with only 3% of the world's $3.7 trillion IT spent in the cloud today. 97% of that market is still on-prem and with cloud migration being one of PagerDuty's most popular customer use cases I've never been more optimistic about the opportunity we have in front of us.
+
+We are focused on the long game of building a company that generates measurable value for our customers through innovation that solve big problems and on delivering durable growth on a cash efficient business model.
+
+Given the innovation we continue to build into our platform. This quarter's uptake on digital operations management and our growth in enterprise is truly an exciting time for PagerDuty.
+
+Operator, you can now please open the call up for Q&A. We're happy to take your questions.
+
+Question-and-Answer Session
+
+[Operator Instructions] Our first question is from the line of Bhavan Suri from William Blair.
+
+Q - Bhavan Suri
+
+Hey guys. Thanks for taking my questions and congrats on the David Justice hire. Obviously he did great things at Cisco and Salesforce, so that should bode well, so nice job there. I guess, I want to touch on sales and sort of the things you've brought up here in terms of execution. And as you guys think about building a business for the long term I don't care about the next couple of quarters because these things do take some time. But as you look at the pieces playing out over the next say 12 to 24 months maybe a couple of years, love to get some color or understanding of your confidence levels of returning to sort of the NDRR growth rates you had and net dollar retention rate you had and the growth rates you had driven by sort of that improvement in sales price. Just some understanding of how you think that will play out over the next 12-24 and sort of what gives you confidence in those returning those rates? Thank you
+
+Jennifer Tejada
+
+Sure. I'll start with market demand and the market opportunity, because we're in a very strong leadership position that we're extending particularly as it relates to mid-market and enterprise where our direct go-to-market motion is unique. In that we can land customers through self-service, expand them rapidly at lower values, but then deploy a direct sales organization that really provides a strong focus on customer success. And when you start with a strong market position in a market where there is credit like growing demand in my view and then add to that the fact that we are going from strength to strength from a product perspective where we've built the trust and the foundation of our business on our first product on call management, but are starting to see real validation of our ability to expand the platform to help companies solve problems beyond DevOps and IT in areas like customer service and security and others.
+
+We're very excited about that opportunity to grow within the base that we've already landed and not a single one of those customers is sold out. It's early days in the journey with all of them. So bringing on a strong leader like Dave who comes to us with significant at scale global leadership experience, but also the technical domain expertise, I think it presents a really unique opportunity. It gives me a lot of confidence. I'd also mentioned that our sales team is doing a very good job. We still had a terrific quarter growing at 37%. We're still very efficient in the way we go about it. And we're landing larger deals. You look at our customer cohort up over a 100,000 growing at 49% and customers over 500,000 growing at 81%. That's a very strong base to drive our execution improvement on top of it. So I feel I feel very optimistic about our ability to stabilize that net dollar retention rate and continue to build our position in what I think is a very early but exciting market.
+
+Bhavan Suri
+
+Got it. Got it. And then one quick follow-up. Obviously you started rollout a number of very compelling use case based solutions basically for cloud operations, made duty for customer business intelligence, business response sorry. I just want to understand early interest in our solutions and the pricing monetization strategy for those solutions? Thank you.
+
+Jennifer Tejada
+
+Sure. There's been very strong interest in those solutions because they were built on the basis of customer demand. Our customers told us things like when we're working through an incident that has the technology-centric origin we need to be able to communicate with the balance of the business so that they can start to execute on the commercial response whether that's communicating with their customers, managing the legal or the public risks associated with these incidents that can have a material impact on business.
+
+And so business response, for instance was designed to take the intelligence that's happening within a response automate the communication of that intelligence. You don't take responders away from solving really big important problems, but give stakeholders in the loop quickly so that they can take action. And I think the important thing there is that it is about the ability to drive action automatically through the right people in the right moments. And so we're talking about microseconds seconds and minute. So there has been strong interest in that. There's been very strong interest in PagerDuty for security. In fact, that again came from demand where customers are already using us in security even though we weren't designed for that. So we've really built out our integration stack there to support those teams who are trying to work collectively with the IT and DevOps organization to make sure they're coordinated and improving their response times and reducing the threat of business loss within their businesses.
+
+And what we're seeing -- the other thing I would just add is, as we develop our ability to engage more effectively with senior leadership across our customer base and we're talking about CIOs, CTOs even in some cases CFOs, they're asking for a broader platform of services where they can take the success they've seen within the developer and IT community and drive that kind of efficiency, operational improvement and execution capability across to other teams within their organization. And I think that conversation tends to start with trust on the basis of the users that are already using PagerDuty, loved PagerDuty and they want to see that business impact in other parts of the organization.
+
+Howard Wilson
+
+And then Bhavan, this is Howard. I might just comment on the pricing aspect of this. In terms of platform is not -- this doesn't represent new products for us. This is the great thing about these new used cases as they emerge. The platform being a horizontal platform that can be applicable to any number of used cases, means, that the same pricing applies regardless of the use case. And so we -- essentially the work that we do is to ensure that we have the right kinds of integrations available to support this use case or we work with customers as they build custom integrations using our open API to be able to access the platform appropriately.
+
+Jennifer Tejada
+
+And suffice to say, you can expect us to monetize through the expansion of new users in new teams and new functions or divisions in a business that we don't serve today. And in some cases in services where we're going those organizations get up and running.
+
+Bhavan Suri
+
+Got you. Very helpful. Thanks guys. Appreciate it.
+
+Jennifer Tejada
+
+Thank you.
+
+Howard Wilson
+
+Thanks Bhavan.
+
+Operator
+
+And your next question is from the line of Matt Hedberg from RBC Capital Markets.
+
+Matt Hedberg
+
+Okay guys. Thanks for taking my question. Jen, it looks like it looks like Dave is a great addition to the team. And it was certainly good to see the growth in large deals. I think that was really impressive, obviously growing a lot faster than even revenue. I'm curious on the sales reps productivity obviously you noted that they aren't ramping quick enough but tenured reps are doing better. I'm curious, if you can comment on with the capacity that you've added, do you have the right mix of newer reps, I guess secondarily how quickly do you expect this cohort to ramp under Dave's leadership? And are there any other broader changes that Dave needs to make to really position yourself for this next leg of growth?
+
+Jennifer Tejada
+
+I think we need to continue to do what we do well and but do very efficiently and quickly. So we front-loaded the hiring in the first two quarters of the year and it did not digest the elephant fast enough. And so, it took some of our reps a longer period of time to ramp. But having said that, I'm really pleased with their progress and how they are coming up to speed. Some of the deals we mentioned today came from relatively new reps who are working under more tenured managers. And so I think that creates a platform for us to continue to improve.
+
+And I think Dave will come into the business and look to lean into things that we do well and identify new process, new opportunities to improve and build process where we don't have process and ensure that the way we go-to-market and engage with our customers continues to be focused on their success and on value, but really continuing that shift from selling on the basis of technology and feature and function to selling on the basis of driving business outcomes and realizable quantifiable value. But I think it's like any other fast-growing business. There are always new things. You have to learn how to do as you get bigger and things that we can be better at and be smarter. And despite the execution issues we have and we delivered a terrific quarter and I'm very proud of that. I think it gives Dave of really good foundation to start from and hit the ground running.
+
+Matt Hedberg
+
+That's helpful. And then the digital operation disclosure was super helpful. I'm wondering can you talk about what happens to spend when a customer moves to more of this platform approach. And maybe what the sales cycles looked like? I assume this is more of like an up-sell or maybe there's a new cell into a new account, but curious on kind of the sales cycles for these broader platform sales versus point-based sales?
+
+Jennifer Tejada
+
+Sure. It depends -- I think it varies from one customer to the next. So one example I can think of with a large retailer. They started on our first solution with several 100 users. They expanded to over a thousand users. They started to see the benefits of Event Intelligence in particular in a trial, the benefits of automation and machine learning which allow you to do things like see a series of alerts that would historically be treated like five or six separate work streams. Using machine learning we consolidate those alerts and recognize that they are actually one particular issue and get that to the small cross-functional team that can resolve than instead of getting a 100 people involved in a process which is inefficient and takes a long time. And so they saw through a trial of benefit of that simple example of machine learning and automation and that led to them exploring other solutions in the platform.
+
+The other area where we see a lot of interest particularly from leaderships CIOs and CTOs is in our analytics product, which helps you understand that the true cost of your operations in the house. So for instance, we see a lot of customers that use the cloud to abstract legacy system so that they don't have to invest dollars and re-platform there and can shift that investment into new customer facing application innovation. Unfortunately, what can often happen is those legacy platforms are actually creating drags for all of their other new services and you think you may be saving yourselves $5 million year-over-year you're actually costing yourself $30 million in unplanned work and lost revenue due to disruption.
+
+So analytics brings all of that to the surface and also can help you heat map the health of your teams. So recognize people who may be burning out sooner, benchmark one team against another to understand why you have some teams that are very efficient and productive and some that aren't. And that's tied to real operational expense and top-line deliverables. And so, lots of interest there in having a single source of the truth, where historically all that information has been delivered to executives manually. And so I think that's the other shift, Matt, is that we tend to see a more senior buyer getting involved in the process of a platform play and because more and more of the CIOs and CTOs leading a large organization are very technical. They recognize the value of PagerDuty being loved by the developer community and our technology and innovation being well ahead of the rest of the market. And so there's a lot of confidence that comes with that.
+
+The sales cycle doesn't necessarily have to be dramatically longer either often in an expansion situation it plays within the average of our traditional sales cycles. We have recently seen some larger lands with big multinational companies where they start on digital operations as opposed to starting with the entry point. And we'd like to see more of that because we think those customers realize value faster.
+
+Matt Hedberg
+
+Super helpful. Thanks a lot.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+And our next question is from the line of Rishi Jaluria from DA Davidson.
+
+Unidentified Analyst
+
+Hi guys. This is Hannah [ph] on for Rishi. Thank you for taking my questions. Just first, I was wondering if you could talk about traction with your PagerDuty for customer service and what expectations you have for the next 12 months?
+
+Jennifer Tejada
+
+Thank you for the question Hannah. It's nice to hear a female voice in the Q&A queue. I would say that we've had very good traction. We only just released to PagerDuty for customer service in September at our event. And I think both we, Zendesk and have been very encouraged by the results. I think within the first few weeks we saw over 30 new customers sign up to those services and these are customers that hadn't been using us within their customer service teams in the past. So I think that's really good early indicator. But we won't be providing detail on that as a separate line item in the future.
+
+Having said that, if you just think about how these set of problems play themselves out in customer service. Identifying a customer issue before the customer does it for you is really important value proposition for our customers and then resolving customer cases. That process that you need to go into. One looks a lot like an incident resolution process, so our customer service teams kind of see that as being analogists and leverage what they're learning from their developer counterparts. And two, more and more of the problems that customer service teams are trying to solve for their end customers have a technology-centric origin, something in the app didn't work. My order didn't deliver it as it arrived. My car didn't show up, whatever the case may be. The customer services are now inextricably linked with the app development and IT teams in the business and that's providing a lot of momentum there for us.
+
+Unidentified Analyst
+
+Okay, great. That's helpful. And then it sounds like you have a lot of opportunities both inside the base and with new customers. Wondering if you could talk about how you prioritize these two in balance?
+
+Jennifer Tejada
+
+Yes. Well, the good thing is because we have self-service land motion through our digital marketing engine, there you don't always have to trade-off one for the other. The vast majority of our customers land by coming to us through a qualified search. They already have a set of problems. They know our reputation. They start with a trial and experienced the product and then they swipe a credit card and go. And so that doesn't take time away from a sales rep. And then our sales teams are more focused on pure expansion and really driving upside. And occasionally our sales teams will engage with the new lands like are the large defense contractor I mentioned where they wanted more help. They didn't want to start with an online trial. They really wanted to be handheld through the process and in that particular case we came out with a much larger land.
+
+So, it's sort of various. But we see both landing new customers especially in mid-market and enterprise where the expansion opportunity is much larger as an area where we want to continue to focus by simplifying what our product does and how it works and driving account-based marketing into prospects that we think could be interesting. And at the same time continuing to make it really easy for both customers and prospects alike to discover our product, discover new products and try them online if they don't want to engage with a salesperson. And if you've met developers, they often don't really want to talk to sales people. They just want to use the product and go. And so I think the last thing I would underscore there is our growth is product lead and we win on the basis of the breadth of our platform, the depth of our technology and our track record for delivery. And that's something that will not continue to change. We're very focused on innovation on listening hard to what customers are asking us for, but also thinking about what's around the corner from them and pre-empting some of the things that we think they're going to need in the future.
+
+Unidentified Analyst
+
+Great. Thank you guys so much.
+
+Operator
+
+And our next question from the line of Keith Weiss from Morgan Stanley.
+
+Keith Weiss
+
+Hey guys. Thank you for taking the questions sitting in for Jen this evening. Nice quarter in terms of sort of new customer additions. Two questions I have, one was, in terms -- coming onboard. It sounds like he's an addition to the sales management team, kind of like being a top selling [ph] organization. What are the new kind of capabilities that you are looking for him to bring to the equation versus what you guys are looking for [Indiscernible]? What is it that he adds to the overall equation, number one? And number two, on the reduction in the net expansion rate some issues you are having there. I usually assume net expansion have been kind of moving between sales reps, again sales reps that sells into account and then a lot of the expansion comes from it and continuing to sort of switch forward with that account and then you find the opportunity. So I was wondering kind of like new sales rep ramping up would have issues with net expansion. What am I getting wrong in that equation in terms of the connection to kind of new guys?
+
+Jennifer Tejada
+
+So, I mean I'm gong to try and repeat your question because the lines was a little difficult to hear. I think your first -- the first part of your question was about what additional qualities or capabilities does Dave Justice bring to the table for our existing organizations? Let me start there. So first of all Dave brings not just sales leadership experience, but general leadership experience from two the best performing enterprise software companies on the planet. And whenever we look to bring a new leader into the organization it starts with company leadership. It starts with can we find someone who is a terrific fit to the culture, who can help us recruit the best talent, but more importantly, will also develop our talent internally.
+
+And Dave has very strong reputation for developing leadership within the organization that he's worked in. But as I mentioned also has the unique combination of both global go-to-market experience in all of the segments that we engage in, but also deep domain expertise. And those two things together are quite hard to come. He complements Steven Chung, who has been with us for some time, been largely focused on scaling a direct sales organization that frankly didn't exist when Steven got here. And some of our other leaders who have been at smaller companies or run smaller parts of the organization within those companies. Dave comes to us with significant scale. But within the large companies he's been and he's built a number of important businesses. So he led the security go-to-market organization for Cisco as it acquired a number of new businesses. It really started to build out more of a software footprint there. He is leading one of the largest parts of the go-to-market organization for Salesforce most recently and we think they are both terrific companies that we admire.
+
+So I think he brings scale. He's got a lot of experience in leading in the future that we want to build for ourselves, but it's also spent time in modern SaaS and sort of see the opportunity to build the machine that's unstoppable here. And I'm very excited about just his fit to our culture which has one that's very oriented around customer championship that is designed around taken the lead and not waiting to be asked and importantly, centers around inclusive leadership. So I think he's going to be a great addition to an already strong team that I'm very very proud.
+
+I think your second question was really hard to understand. So what I think I heard you say was can you break down what's driving some of the pressure on net dollar retention. Is that right?
+
+Keith Weiss
+
+Yes. I'm sorry about that background. So just want to understand the connection. I normally associate net expansion with like an existing sales rep has already sold an account and then he continues to see the accounts. So I was trying to understand why like new sales guys ramping up would be impact on net expansion versus kind of like new customer additions where it looks like you guys did really well?
+
+Jennifer Tejada
+
+So our direct go-to-market sales organization is not hundreds of people. It's pretty -- It's still emerging. And what I would say is as you grow a sales organization, scale an organization, you're changing territories and slimming those territories down and dividing them as you add more capacity. So you often have a new rep in a territory that another rep who has maybe been promoted into management has run in the past. So that new rep is essentially green with a new set of accounts and coming up to speed on the product and the services in the market and our buyers are very technical. So they also have to be deeply technically engaged as well.
+
+And historically our reps have ramped very efficiently and very quickly. But as we've added more reps I think we've just had to systematize that enablement process more effectively. And so that's been put some of the pressure on net dollar retention where the expansion opportunity is there. We're just not executing on it as quickly as we could and having to provide management oversight to help bring those reps up to speed faster. Our existing tenured reps who have been here one year, two years, three years and our existing reps, they're still performing at the same high productivity levels we saw in the past. So, we feel really good about our ability to get them there. We just needed to improve the process around it. And then the last thing that I mentioned that has some pressure on net dollar retention is just the flow-through of some of those large competitors that we mentioned last quarter that left the platform.
+
+Keith Weiss
+
+Got it. That's super helpful. Thank you, guys.
+
+Jennifer Tejada
+
+Thank you.
+
+Operator
+
+[Operator Instructions] Our next question is from the line of Rob Oliver from Baird.
+
+Rob Oliver
+
+Great. Thank you, guys for taking my question. One for Jennifer and then a quick follow-up for Howard. Jennifer you mentioned on the call and I think you mentioned last quarter as well that most of your deals are still uncontested. I'm assuming when you get to the sort of scale of the large banks and large aerospace and defense contractor that's probably not the case. And what I'm curious to know is where we're there are other vendors clearly in there, does you guys being an independent sort of neutral third-party resonate to the sale? And could we drill down a little bit more into the sales process. I also thought it was a really unique that the aerospace and defense contractor had not better customer before with the larger initial land. So I would love to get a little bit more color on those deals and the sales motion?
+
+Jennifer Tejada
+
+Sure. So a couple of things. One, thanks for the question because I actually like talking about this part of the process. So you're exactly -- you're absolutely right that our customers appreciate the fact that we are neutral third-party that we take singles from any software-enabled environment across not only the 350 plus out-of-the-box integrations we've built, but custom integrations that customers will build using our API keys. And they like the fact that they are coming in through kind of one catchment then being consolidated and correlated using our machine learning, our Event Intelligence to turn those events into insightful actionable work that then gets orchestrated the right people. So that neutrality we believe is very important and our customers reinforce that.
+
+The first part of your question though around the presumption that as you move into larger enterprise it's actually more competitive. The opposite is actually the case. As we move up into larger enterprise there's nobody else there, because there isn't another platform that has proven at scale with tens of thousands of users in highly regulated environment that does what we do and is liked by the user community. And so, we really don't see much competition there. In the case of the defense contractor that you mentioned it's a great example of one of our more tenured reps do has been tremendously successful selling our first product, but learn through some other customer relationships about the opportunity to go more broad in the account to new use cases and has taken that knowledge and applied it and been working with this particular contractor for a period of time and helping them to see, one, what's the size of the problem. Like how much does it cost you when something doesn't work the way it's supposed to work.
+
+And these could be machine automation system. These can be life and death situation not just IT and technology situation. So there is a high-stakes game. Reliability and trust becomes very, very important in that. And I think this particular salesperson who we're very proud of, leans hard into that value proposition, but also really through the process. I think one of the things I'm most proud of about our sales culture and the team that Steven and our sales leaders have built to-date is that these are people that genuinely want partner with their customers and help them be successful. They're in their effective partners and thought partners, they're often hands on helping customers get up and running and that lend to a long-term mindset and our long-term relationship that I don't think you can get to in a 100% frictionless environment. I think you need that kind of account management and relationship, but we try and do it in a very efficient way. Did I answer the whole question?
+
+Rob Oliver
+
+You did. Thank you. That's great. Jennifer, really appreciate the color. And then just a quick follow-up, Howard for you. You did call out EMEA as particularly healthy in the quarter. And I know it sounds like you guys signed up a pretty exciting deal with a large software company. Was it more broad-based than that? And can you talk a little bit to that as a trend or was it more of kind of that deal?
+
+Howard Wilson
+
+Yes. That's was actually interesting. This is a global software company where we were already broadly deployed within one of their subsidiaries. And they started a process with us which ended up being a little bit longer than our regular process because they were fairly rigorous in terms of the evaluation. Their subsidiary had been using more of our standard offering and hadn't taken the full set of offerings including the Event Intelligent and Modern Incident Response on those components. And so in this deal the team is very thorough intensive evaluating what they were going to get out of it in terms of both management capability and the ability to be more proactive with their business. And so, that was an example of a customer than who strategically find that for our digital operations plan with a view to being able to deploy across a fairly broad set of users at the outset, but with a very large population that we could still get to.
+
+Rob Oliver
+
+Great. Very helpful. Thank you both very much.
+
+Operator
+
+[Operator Instructions] And there are no final questions at this time. I will now turn the conference back over to Ms. Finerman for closing remarks.
+
+Stacey Finerman
+
+Great. And thank you for everyone and thank you for taking the time for our call. I know lot of your busy with many other calls today. And have a great night, and happy holidays.
+
+Operator
+
+Ladies and gentlemen, this does conclude our call. You may now disconnect.

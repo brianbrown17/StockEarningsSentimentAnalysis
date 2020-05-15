@@ -1,0 +1,583 @@
+@NYSE:MDLA
+@12.06.2019
+@+0.02
+
+Operator
+
+Good afternoon and welcome to Medallia's Third Quarter of Fiscal 2020 Earnings Conference Call. Joining us today for today's call are Medallia's CEO, Leslie Stretch and CFO, Roxanne Oulman. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions]
+
+With that, I would like to turn the call over to Roxanne Oulman for introductory remarks. Roxanne?
+
+Roxanne Oulman
+
+Thank you, Chris. Welcome to Medallia's third quarter fiscal 2020 earnings conference call. We have issued our earnings release a short time ago and furnished the related Form 8-K to the SEC. To access the press release, please see the Investor Relations section of our website.
+
+With me on the call today is Leslie Stretch, President and CEO of Medallia. The primary purpose of today's call is to discuss our third quarter fiscal 2020 financial results.
+
+Before we begin, please remember, during the course of this call, we may make forward-looking statements about the operations and future results of Medallia that may vary and involve many assumptions, risks and uncertainties. If any of these risks or uncertainties develop or any of these assumptions prove incorrect, actual results could differ materially from those expressed or implied by our forward-looking statements.
+
+For a discussion of our risk factors associated with the forward-looking statements, please refer to the text in the Company's press release issued today and to our periodic reports filed with the Securities and Exchange Commission, including our prospectus, dated July 18, 2019 and Form 10-Q dated September 12, 2019. We disclaim any obligation to update any forward-looking statements.
+
+On today's call, we will refer to both GAAP and non-GAAP financial measures. The non-revenue financial figures discussed in today’s call are non-GAAP, unless stated that the measure is a GAAP number. Please refer to today's press release for the reconciliation of GAAP to non-GAAP financial performance and additional disclosures regarding these measures.
+
+Additionally, in conjunction with the release of our earnings report, we have posted on our website at medallia.com under the Investor Relations section, additional charts that identify trended metrics, performance that we believe will aid in understanding and evaluating our performance over time.
+
+Now, I will turn the call over to Leslie.
+
+Leslie Stretch
+
+Thanks, Roxanne. Good afternoon everyone. Before I begin my prepared remarks, I would like to thank each and every Medallian for their hard work in Q3, our second public quarter.
+
+I started last quarter's report painting the picture of Medallia, our customers and the market that is so important to us, since we're still new to the public markets and customer experience management technology is new for many people, I wanted to continue that discussion. What sets us apart from traditional market research and survey vendors is our deep technology capability and our platform and signal story.
+
+In the Medallia experience cloud in aggregate across all of our clients, over 80% of our signal data is non-survey data giving our customers unmatched insight into their customer's feedback and intent. This data includes IoT signals, transactional information, operational data from sales, marketing service clouds and many other systems.
+
+The Medallia experience cloud has been uniquely architected to capture this expanding signal field to interpret it securely and provide actionable insights that create enormous value for our customers in lifetime.
+
+The importance of net promoter scores also centrals our point of view. Medallia customers track from 2012 to 2018, for example, increased their NPS, Net Promoter Scores by eight points, an improvement of 16% on average, in many cases leading to better customer traction and financial performance. Net promoter score and/or other customer effort and frictionless business measurements are all part of the measurement regime of customer experience.
+
+Importantly, our customers use Medallia across their organizations not just in small market research or survey use cases. The Medallia platform is purpose-built to be fast, accurate and intuitive displaying role-based information to ensure data relevance and actionability.
+
+The ease of use of the Medallia system and in particular our mobile apps reduces the need for intensive training and it's the reason behind our high levels of user adoption with approximately 50% of mobile users logging in daily.
+
+This year, 54% of our customers have more than 1,000 active users. On average, our large clients have over 25 integrations with sales, marketing, service cloud, call center systems and other operational systems as I have mentioned. With our easy-to-use technology, we have the ability to run simple feedback programs for all kinds of organizations of all shapes and sizes.
+
+But it is our unmatched ability to handle scale, integrate out-of-the-box with core systems and our ability to securely distribute and connect feedback from relevant signal sources, not just survey, that means we win the majority of enterprise opportunities where we have feet on the ground and can engage.
+
+At each quarterly report, we will highlight one or two customer use cases in a specific vertical. This quarter, we've chosen the retail grocery and retail pharmacy space. Almost exactly one year ago, we won the contract for a Voice of Employee implementation in one of the very largest retailers in the world.
+
+Fast forward one-year later and we have over 1.5 million employees in that particular program and our success has positioned us now to move to Voice of Customer on e-commerce digital implementations in our current quarter giving us a strong start to Q4 of fiscal 2020 and increasing our annual subscription in that case by over 400%.
+
+At the same time a year ago, we added CVS, one of the largest retail pharmacies in the world to our platform for customer experience. And within four months, they've gone live for orchestrated feedback in 6,000 stores. Today, we're up and running in nearly 10,000 stores. And we've now expanded to their Voice of Employee program.
+
+London expand opportunities like this exists across a very large part of our customer base. We're seeing small medium and large customers looking to supercharge their customer experience and employee experience capabilities with Medallia. On each quarterly call we will also focus on one of our experienced management domains a little more deeply.
+
+Today, we've chosen to showcase employee experience to highlight our progress. Our employee experience platform provides real-time feedback through multiple signals including text, WeChat, WhatsApp's, voice and now video through partnerships with specialist companies like Living Lens, and SpotMe and with workplace collaboration tools such as Slack and Facebook Workplace.
+
+Today, nearly 60 large customers subscribe to our employee experience platform, including one of the largest retailers in the United States I mentioned earlier and one of the U.S.'s largest automobile manufacturers.
+
+Importantly, we are not tied to one HRIS, HCM or talent platform either, which positions us to do well in all the major ecosystems. For example, in Q3, we became an access tier of software partner of Workday. At Workday Rising, they showcased our forthcoming integration with their Prism analytic suites. We led a breakout session to highlight the link between employee experience, customer experience and transformative business outcomes.
+
+In addition, we demonstrated our idea management offerings from our new solution Crowdicity. There are many more reasons that we lead. Our data visualization technology, our out-of-the-box integrations with Sales Cloud, Marketing Cloud, Service Cloud and so on, our privacy capabilities, our personal identity and information and security philosophy and capability, our massive scalable data platform and our emerging but broad and deep partner ecosystem.
+
+Before I turn into Q3 performance, I want to also highlight one of our recent tuck-in acquisitions. This quarter I want to focus on Crowdicity. Next quarter, we will review Zingle and its impact in hospitality and beyond.
+
+Rob Wilmot, the Founder of Crowdicity is a thought leader in applying technology for global issues. Crowdicity is a part of our employee experience domain because of the unique way the solution engages people in core missions, but its reach goes beyond this area. The unique solution speeds up traditional market research by digitizing the processes previously managed by people and weak survey tools.
+
+The platform has also been used by public sector organizations to Crowdsource, citizen ideas and turn them into action. Rob will be presenting at our Washington D.C. City Tour next week.
+
+Now let's turn to our Q3 performance. The third quarter represented an important milestone for Medallia. With the $100 million in quarterly revenue mark behind us, let's look forward to $500 million in annual revenues as soon as possible and then to $1 billion in annual revenues and beyond. These are the milestones I am focused on, because at this scale we can continue to innovate and outperform others and continue to lead the customer experience market.
+
+In Q3, we had record revenues and record SaaS revenues. We had solid business performance beating all of our forecasts. We were able to acquire two new technology tuck-ins in the quarter that add tremendous value to our platform and to our customers. We've already executed new Crowdicity and Zingle deals with major brands.
+
+We run ten Medallia city tours in Q3 and Q4, where we had packed audiences around the world with the highest quality customer engagements I've seen in my career.
+
+We had approximately 50 customer experience and employee experience case studies presented companies including Airbnb, Aeromexico, Walmart, IBM, Disney, BNP, Schneider Electric, Samsung, McDonalds, Four Seasons, Coach and others shared ROI and the value Medallia brings to their organizations to packed audiences.
+
+We had nearly 2,000 high-quality executive attendees at these events and my personal customer interactions supported my view of our opportunity in the short, medium, and long-term. We added nearly twice as many enterprise new logos in Q3 than a year ago.
+
+Today, we have more productive sales capacity than ever and are able to show up and more active opportunities never before. In Q3, just some of our new business wins included Amadeus in the travel space, Amtrak, Hard Rock Café, Microsoft and Pizza Hut.
+
+In Japan, we closed our first major deals with Softbank and Nomura Securities. In Latin America, we closed deals with Vivo Telefonica and in Itau in Brazil, Itau in Chile and Grupo Telesis in Mexico. We also had many expansion deals including Banner Health, Jones Lang LaSalle, Mass Mutual, UBS and Wynn Las Vegas, just to name a few.
+
+I'm pleased to note that our mid-market team is beginning to see traction also. Some of the mid-market deals closed in Q3 included the Callaway Bank, Caribou Coffee for employee experience, ControlUp and Missouri and Vivid Learning Systems.
+
+Our partner channel also performed well. As you know, this is a relatively new capability for the company. And although it's in its early days, I'm pleased with the traction we're seeing. In Q3, we signed on another ten partners including global SI’s Advisory Technology Delivery Partners. This included new alliances for our emerging markets across EMEA, Latin America and Asia-Pacific, as well as broadening our capabilities across speech and media.
+
+In Q3, we also closed our first deals with newly signed strategic ISV partners, Adobe and ServiceNow. We launched our second integration on the ServiceNow Store getting us a full suite of capabilities that maps to their full product suite. We're now a premiere tier partner and our employee experience integration is currently a featured offering on the ServiceNow Store.
+
+We launched version two of our Adobe Analytics integration, seamlessly integrating our digital offering for Adobe customers. This also deepens our lifetime capabilities as it allows customers to tailor digital experiences for customers based on instant feedback.
+
+We just attended Dreamforce in San Francisco where we had a superb event with great traction from a packed crowd. We had several hundred key customer meetings in four days, many attended by Salesforce.com representatives keen to capitalize on our joint value proposition.
+
+Our Professional Services business continues to be a differentiator. I'll remind you that our one-off implementation services represents less than 10% of our overall business. Majority of our Professional Services is ongoing managed services helping customers create programs and extend their adoption of our technology. I view this as a strategic team that drives great value for customers through the best industry know-how and effective integration capability.
+
+Easy in survey software is often easy out and proved platform to cross sell-through. We're clearly differentiated through our value-added services and the services provided also by our partners. We continue to hire enterprise and mid-market sales executives and our progress as the market leader positions us as the most attractive customer experience play for real talent today.
+
+We're on target with our hiring plans this year. Our time to productivity shows some exciting data points with several new sales executives delivering small, medium and high six-figure attainment in their very first quarter in the company.
+
+Turning to our pipeline in the future. Our platform and signal story is resonating with customers and prospects and partners alike. Our scale and ability to innovate the market is being clearly recognized and this positions us well for the future.
+
+We expect to continue our tuck-in M&A strategy and to effectively evaluate our buy-versus-build options as we seek to capture every signal our customers want to examine and act upon in their pursuit of customer experience excellence.
+
+Finally, adding to my confidence is our strong start to Q4. We landed two seven-figure global retail contracts in November and continued our land and expand deals across the globe. I am very excited indeed about our immediate opportunity and about our prospects for growth in FY ‘21.
+
+I'll now hand over to Roxanne to provide more color on the Q3 financials and our outlook.
+
+Roxanne Oulman
+
+Thank you, Leslie and good afternoon, everyone. Across the board, we posted strong financial results including a total revenue growth, SaaS revenue growth, Professional Services revenue growth, and operating margin improvement.
+
+As a quick reminder, unless otherwise noted, all numbers except revenue mentioned during my remarks today are non-GAAP. You can find a reconciliation from GAAP to non-GAAP results in today's press release.
+
+We ended the quarter with 698 enterprise customers, of which 44 came from our two acquisitions in the quarter. On an organic basis, we added 41 customers nearly double from Q3 of the prior year.
+
+Total revenue was $103.1 million, an increase of $21.9 million or 27% over Q3 of fiscal 2019. Total revenue exceeded our expectations due to solid contribution from SaaS, managed services and implementation services.
+
+Recurring revenue, consisting of SaaS and managed services continues to be at 90% of total revenue. In Q3, SaaS revenue was $79.7 million, an increase of $16.5 million or 26% year-over-year. Our SaaS revenue growth rate improvement benefited from the timing of new bookings in the quarter, as well as revenue contribution from the two acquisitions we completed in the quarter, which contributed approximately $700,000.
+
+Professional Services revenue was $23.3 million for the quarter, which increased 30% year-over-year. During the quarter our services revenue benefited from strong demand for both managed services and implementation services. As a reminder, services revenue ebbs and flows based on a variety of factors.
+
+Medallion provides a high ROI to our customers as evidenced by our strong renewal rates. During the 12 months ended October 31st, 2019, our dollar-based net retention rate was a 118%.
+
+I will now turn to our non-GAAP gross margins and operating expenses. SaaS revenue gross margin was 82%. We believe our SaaS margins are among the best-in-class for SaaS companies. In Q3, Professional Services gross margin was 116%, a dramatic improvement from 6% in Q3 of last year.
+
+Looking ahead to Q4, this level of Professional Services margin may decline to below 15% due to the holiday season. In addition, we will continue to subcontract additional services with our partners as they continue to build out the Medallia consulting practices.
+
+Sales and marketing expenses were $38 million or 37% of revenue in Q3, as we continued to invest in our go-to-market initiatives. We continue to expand productive sales capacity and pipeline generation and anticipate an increase in expenses in Q4, given our large presence at Dreamforce and the continuation of city tours as Leslie discussed earlier,
+
+R&D expense was $20 million for the quarter or 19% of revenue. R&D remains an important investment area as we expand our platform with new features and capabilities each quarter. G&A expenses were $12.9 million or 13% of revenue in the quarter. The increase was primarily related to incremental expenses associated with being a public company.
+
+However, we expect additional leverage on the G&A line overtime. Non-GAAP operating loss in the third quarter was $2 million, compared to a loss of $8.8 million in Q3 of fiscal 2019, an improvement of $6.8 million. Similarly, non-GAAP operating margin in the quarter was negative 2% an improvement from negative 11% in the year-ago quarter.
+
+Non-GAAP net loss was $932,000, compared to a net loss of $9 million in Q3 of last year. During the quarter, we generated $2 million in interest and other income, an increase of $1.8 million from the proceeds – increase of - an increase of $1.8 million from prior year's quarter primarily as a result of interest income earned on our IPO proceeds.
+
+We incurred $912,000 in non-GAAP income taxes in Q3. Our GAAP income tax benefit of $47,000 includes a $1 million one-time benefit related to the acquisitions in the quarter.
+
+During the quarter, our weighted average basic share count was a 127.7 million shares. Because we had a net loss on a GAAP basis, our diluted share count is the same on a basic count for both GAAP and non-GAAP EPS.
+
+Turning now to the balance sheet. We ended the third quarter with $319.3 million in cash and equivalents, down $98 million from the end of the second quarter, driven primarily by the use of $55.7 million in cash for the two acquisitions.
+
+Note that the two acquisitions in Q3 were primarily technology and talent-focused, therefore, our SaaS deferred revenue included de minimus amounts. SaaS deferred revenue was a $141.8 million, an increase of 33% over SaaS deferred revenue in Q3 of the prior year.
+
+Now let's move to SaaS calculated billings, which we define as SaaS revenue, plus change in sequential SaaS deferred revenue and contract assets. As you know, there are a wide variety of factors that influence this metric. Therefore, quarter-to-quarter fluctuations in calculated billings should not be taken as an indication of changes in future revenues.
+
+For example, billings will fluctuate quarter-to-quarter due to the timing of renewals and annual contracted billings. As we discussed in our last earnings call, we believe that the 12 month trailing SaaS billings growth rate is a more meaningful measure of our performance.
+
+For Q3 fiscal 2020, our trailing 12-month SaaS billings growth rate was 24%, which was down from the 33% in the prior quarter. The sequential decline in deferred revenue from the prior quarter was in line with what we communicated to you on our Q2 earnings call. Q3 deferred revenue declined sequentially based on our typical seasonality.
+
+That said, we expect a significant increase in SaaS deferred revenue in Q4 based on our historical seasonality over 40% of our annual billings occur in the fourth quarter. Our Remaining Performance Obligations or RPO totaled $585.7 million. We expect to recognize approximately 50% of the RPO over the next 12 months.
+
+Note that the RPO metric may be impacted by contract duration and extensions, as well as the timing of renewals of large multiyear contracts. So while well RPO provides for strong visibility, it may fluctuate from quarter-to-quarter. We generated a loss of $18.4 million in cash flow from operations for the quarter.
+
+From a cash flow perspective, our operating cash flow fluctuates based on seasonal patterns that we have experienced historically due to the timing of bookings and cash collections.
+
+As a reminder, we have historically experienced seasonality in our cash flow from operations, given that over 40% of our billings occur in the fourth quarter. As a result, our cash collections in Q4 and Q1 are higher than other quarters. We anticipate this seasonality will continue.
+
+On an annual basis, we continue to expect trends positively and are reiterating our plans to be operating cash flow positive for the full fiscal year of 2021.
+
+Now let me turn to our financial outlook for Q4 and fiscal 2021. For Q4, we are projecting total revenue to be between $103.2 million and $105.2 million, representing a 20% to 22% growth rate over last year. For Q4, we are projecting SaaS revenue to be between $83.2 million and $84.2 million representing growth of 23% to 24% over last year.
+
+For Q4, we expect non-GAAP operating loss to be in the range of $3.5 million to $4.5 million. We expect other income and expense to be roughly $700,000 and income taxes to be in the range of $500,000 to $1 million. We expect basic weighted shares outstanding to be approximately $129 million.
+
+Finally, we remain on track for our capital expenditures to be $20 million for the second half of this year as we continue to expand our datacenter capabilities and the final phase of the build-out of our new customer briefing center in downtown San Francisco.
+
+Based on this Q4 guidance, for the fiscal year 2020, we expect total revenue to be between $395.6 million and $397.6 million, representing a 26% to 27% growth over last year. We expect SaaS revenue to be between $309.2 million to $310.2 million, representing growth of 25% to 26% year-over-year, an acceleration from the 22% growth rate in fiscal 2019.
+
+We are keenly focused on driving SaaS accelerated growth on an annual basis. However, there will be quarterly fluctuations in our year-over-year growth.
+
+For 2020, we expect non-GAAP operating loss to be between $5.9 million and $6.9 million, which is a dramatic improvement from the operating loss of $47.7 million in fiscal 2019. For the full fiscal year 2020, we expect basic weighted average shares outstanding to be a little over 83 million.
+
+I would now like to provide insight into our current thinking for fiscal 2021. We remain confident in our ability to sustain SaaS accelerated revenue growth, given our new go-to-market initiatives and Medallia’s established position in a large addressable market. This is a first glimpse into fiscal 2021. We want to be prudent with this preliminary outlook.
+
+We will update you on a regular cadence as we move forward to fiscal 2021. For the full fiscal year 2021, we are projecting total revenue to be between $474 million and $483 million, representing a growth between 20% to 22% year-over-year.
+
+We expect SaaS revenue to be between $382 million and $387 million, representing growth of 24% to 25% year-over-year. We expect revenue to follow a similar pattern to this year with more than 50% of annual revenue to be recognized in the seasonally strong second half. We are committed to investing for growth, while balancing growth and profitability and see the opportunity to show bottom-line leverage over time.
+
+In conclusion, we are very pleased with our third quarter performance. Leslie and I will now take questions. Operator?
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question is from Kash Rangan with Bank of America Merrill Lynch. Your line is open.
+
+Kash Rangan
+
+Hi. Congratulations on the spectacular results. Nice gifts for the holidays from you guys. I had a couple of questions related to the net new customer adds. Leslie, if I heard you right, do you said, you were more than 2x relative to a year earlier, right? I was wondering if you could clarify that across the mid-market or is it only for large enterprise and depending upon whatever that answer is, I'm curious how that ties into your expectations for sales productivity that you've laid out at the time of the IPO?
+
+And is it turning out to be as much better than you expected or just about in line with expectations? And consequently, how does that change your view or not change your view with respect to sales hiring as you look at the next fiscal year? Thank you.
+
+Leslie Stretch
+
+Yeah, yeah, great question. Well, I personally think there is more upside. I mean, I think there is more productivity to come. I think that's a good progress. But my discussions is on a daily basis and I gave the example of Dreamforce and that was enterprise customers by the way. We got a lot more mid-market transactions going on and coming indeed.
+
+But I am looking for more upside. I think the productivities there we brought on some superb talent. SaaS talent from a lot of different great companies and some from the customer experience space we’ve been trying to kind of successful. So I'm very focused on driving uptime in Q4 mode. So, I'm focused on driving this to be a great quarter, as well. That's my view of it.
+
+Kash Rangan
+
+Wonderful. So, the customer count was more than 2X relative to the year earlier period, right, third quarter of last year?
+
+Leslie Stretch
+
+Enterprise customers approximately two times, nearly two times more.
+
+Kash Rangan
+
+Three times. Okay got it. Got it
+
+Leslie Stretch
+
+Two times. Two times. But there is more to come. Way more to come.
+
+Kash Rangan
+
+Wonderful. And I know that at the time of the IPO, you said down in expectation that 60% of SaaS revenue was coming from the installed base and 40%, but over time you'd like to have that flipped the other way to get majority of your SaaS revenue growth from new customers. How are you making progress towards that Leslie? And also, and could that goal change as you get into the next fiscal year since you've obviously winning new customers at a pretty fantastic pace? Thank you.
+
+Leslie Stretch
+
+I’ll let Roxanne take you through the specifics on it.
+
+Kash Rangan
+
+Sure. Sure. Absolutely
+
+Roxanne Oulman
+
+We have significant land and expand opportunities and you have heard Leslie highlight just some of them on the call. And so, we are - as we shared looking at balancing our land and expand with our new logos, we continue to see roughly about 60% of our bookings coming from expansion as we saw last year.
+
+Overtime, as we continue to add new logos, we would like to see this get to more than 50 to a 50-50. However, what we are really focused at this point in time is, we want to continue to see strong growth on the SaaS revenue and the total revenue line.
+
+Kash Rangan
+
+Wonderful. Congratulations once again on across-the-board strong results here. Thank you
+
+Operator
+
+Your next question comes from Bhavan Suri with William Blair. Your line is open.
+
+Bhavan Suri
+
+Hey guys, Zygo cash, nice job. I want to touch on two questions. First, Leslie to you, through the IPO process, and even last quarter the messaging had been sort of building a growth acceleration story. And this is a good quarter of strong print across all metrics. You touched on, sort of near-term confidence in terms of some large deals in November.
+
+If I have to look at this sort of on a three-year basis, I'd love to understand how your confidence is versus going forward. You've been in the company since last August I guess. Do you think you're executing just really well on the initial strategy? Or you say success is trending ahead of what you expected? And maybe you are more constructive in this side for the next couple of years?
+
+How should we think about the confidence levels of that acceleration process over the next couple of years?
+
+Leslie Stretch
+
+That's a great question. The way I think about it is, I'm five quarters in to this mission where we had a company that had a beautiful technical solution and reference customers, the most enviable reference customers. But a very small professionalized sales force, very small. We've now – we are at our hiring goals this year.
+
+We're way over to where we were this time last year. We got a great contingent of quota-bearing sales people. But if we were around a 160 I am going to give you the precise number, 160 to 170 quota-bearing salespeople, a lot of them are still new. That's still a tiny sales force. That's still small coverage.
+
+Our partner channel is in its infancy. Dreamforce was - I've been to ten Dreamforces. It was spectacular. 170,000 people, but quality and quality engagement with Salesforce. That's not coming home to roost yet. The new productive hires we’re making this quarter aren't coming home to roost. Eleven modules to sell. I think in our cross-sell mission, we're doing okay.
+
+I think we can do a lot better. There is a ton of opportunity, but the biggest thing for me is I've really learned this business. This marketplace has had a couple of really mediocre companies shooting fish in a barrel, right, and getting people a per value service. That's a big opportunity for us. We're consuming other people's survey into our platform.
+
+We're consuming so many signals into the platform and I gave us that in my prepared remarks. The upside is ahead of us. Absolutely, ahead of us. I have no doubt about it.
+
+Bhavan Suri
+
+That's really helpful. I guess, one other question now sort of on the product roadmap side. So, obviously, you’ve brought a couple of other tuck-ins here. You've done a really nice job of sort of building journeys for folks being able to route text messages and calls and signals around by investing and buying.
+
+I guess, as you think about the product roadmap, I would love to get an update on sort of the near-term focus areas where are you guys thinking of driving the product roadmap in the near-term? Thank you.
+
+Leslie Stretch
+
+Yeah, great questions. So, I don't want to give too much away. But we did some great stuff on our city tours with some video technology. So, sensing sentiment from images and from facial expressions alongside voice turned into text. Voice, it's all about frictionless, easy feedback at speed and at massive scale.
+
+And that's why our technology architecture and our philosophy around technology is so powerful and sets us apart. So those are some of the things we're thinking about even better data visualization. People want to look at the airline. They want to look at the cabin of the airplane. They want to look at the store. They want to look at the hotel and visualize Net Promoter Score and experience that across that field of vision not just two-dimensional chart.
+
+So there is all kinds of things there without getting too much away and we'll build as easily as much as we buy - easily as much as we buy. When our core build isn't stuff that isn't super exciting, it's in previously scale performance, robust reliability that just can't be matched by these people that are trying to graduate out of the survey business, very hard for them to do.
+
+Bhavan Suri
+
+Really helpful. Thank you guys. Appreciate you. Thanks for taking my question.
+
+Operator
+
+Your next question is from Walter Pritchard with Citigroup your line is open.
+
+Drew Foster
+
+Hi this is actually Drew Foster on for Walter. Thanks for taking our questions. Leslie, I just wanted to double-click on the competitive side of things for a second. Can you just spend a little bit of time addressing the comments like Qualtrics and where exactly you're seeing them more? Is it - that you are having more at bats against them downmarket as you build out your velocity sales business? Or are they pushing more into the enterprise biz?
+
+Leslie Stretch
+
+So, I haven't made any commentary about that company. I'm not really close to them. I don't really understand fully what they do what they are about. They are part of another very large company. Now I'm focused on our opportunity. This is a massive market. There are a thousand little bit players in this market.
+
+There are many companies in this market who come from this old market research survey domain who don't understand technology. That can be really exploited by us and our partners and that's what we're studying about. We still have a relatively small sales force, compared to some of those companies, our sales force was a first and now a third of the size of their sales force.
+
+But we're actually winning the lion's share of enterprise deals. We’re more competitive. We have a better offer. I hear people talking about scrappiness and stupid things like that. We've got the scrappiest, most entrepreneurial sales field and customer experience sparing none, right and the upside is ahead of us. So, I'm not really focused on the competition ever.
+
+I am focused on our customers. I am focused on this market. It's a big market. If they don't do well, that's their issue. And it's not because of us. There's plenty of opportunity for them and others.
+
+Drew Foster
+
+Thanks. And then, last quarter you talked about having success in verticals like insurance and healthcare where you didn't have a large presence before. Was that the case again in this quarter? Or do those verticals represent sort of a longer-term opportunity for you?
+
+Leslie Stretch
+
+No, that's great. I think we had a good spread of vertical performance. I read out just some of the wins in the prepared remarks and I think deliberately we picked across different verticals. So, we did have some great issuance of lens and banner and things with our insurance progress and so on. But we also had great retail, great hospitality, right across.
+
+That's what's exciting. It's right across every industry. We're beginning to see some momentum in federal and in government. Now we've got DC city tour next week in Washington. It’s oversubscribed already. So, federal, I think is going to be a strong future for us. I think that's a different mission. Citizen experience, I think patient experience in healthcare, I am really pleased.
+
+We started that vertical this year and we've had great progress already and verticals are the key. Understanding the customer's business to be able to talk to them and take assets about the industry to them is very important. So, you're going to see more vertical emphasis, not just in go-to-market but in the way we built products, and the way we think about service and deployment, as well.
+
+Drew Foster
+
+Really helpful. Thanks a lot.
+
+Operator
+
+Your next question comes from Terry Tillman with SunTrust Robinson Humphrey. Your line is open.
+
+Terry Tillman
+
+Yes. Thanks for taking my questions and I'll echo the congratulations. Hi, Leslie and Roxanne. First question maybe, Leslie for you, that is a great data point in terms of 2x the number of enterprise wins. What I'm curious about and part of this might relate to just the maturation of the market and people getting it in terms of experienced management and the importance of it.
+
+These landings, this increased number of landings that you had your wins, what is the deal size like? And they're kind of - how much are they buying initially versus maybe a year ago or six months ago. Are you seeing any discernible change in how much they're buying when they come onboard? That’s the first question.
+
+Leslie Stretch
+
+Yeah, we're definitely seeing more land and expand deals. Six small, six-figure, even under six-figure 50k deals. We're definitely seeing more of that. But we are still seeing the large enterprise commitments because of the capability that I am trying to get people familiar with by my long-winded description of the platform and the technology on this call. We are definitely seeing that.
+
+And I think the other thing is the dimension and the roles and the level of the dialogue that's going on. Just this week, I've been talking to several CEOs just this week of household name companies across the U.S. They are really engaged. This is a strategic initiative and they've just been underserved. So, great opportunity. But more land and expand. I'm looking for more.
+
+I'm looking for more land and expand. I’m looking for more cross-sell. And I'm looking for deployment of these beautiful new modules that we've added in these new signal parts that we've acquired.
+
+Terry Tillman
+
+Okay. And Roxanne, my follow-up question, thanks for the color on the acquisitions and the impact in 3Q. I think you said 700 K. So, that's not that material. But just any commentary about, like how to think about that in 4Q and/or like a deferred revenue write-down going the other way next year, is it more material in terms of contributing to sub-revenue? Just a little bit more M&A color. Thank you
+
+Roxanne Oulman
+
+So, Terry, that's a great question. As I shared in my prepared remarks, we had about $700,000 in revenue with the two acquisitions. We were very focused on technology and talent, tuck-ins. But if you do the math based on the acquisition dates, we estimate that the revenue in Q4 associated with these acquisitions will be about $2 million.
+
+Now, in regards to the deferred revenue as I shared, the deferred revenue contribution was extremely small, because most of these billings are monthly. So, I don't expect any uptick next year from the renewable of the deferred haircut.
+
+Terry Tillman
+
+Thanks.
+
+Roxanne Oulman
+
+Okay. And there is one other thing that I would like to add, during my prepared remarks, I said that I talked about Professional Services gross margin. I want to ensure that we heard that it was 16% for the Professional Services gross margin.
+
+Operator
+
+Your next question comes from Tom Roderick with Stifel. Your line is open.
+
+Tom Roderick
+
+Hi, good afternoon. Thanks for taking my questions. So, Leslie, let me throw the first one here. I know you spent a fair chunk of time visiting customers all over the world and particularly spent some time overseas. I would love to hear what you're hearing from customers as you look at the international opportunity and Europe in particular?
+
+Obviously, investors have been worried about Europe with Brexit and some of the other issues. But this market is so young that it would be interesting to hear your thoughts on any impacts, if there is anything you're seeing to the demand dynamics there? And then, bigger picture, how ready is that market on the CX side and the EX side with respect to really thinking strategically about this market? Thanks.
+
+Leslie Stretch
+
+Yeah, great questions. So, let's take Europe first. We called out some regional wins in Latin America and APAC growth we're very excited about. We just - we're just putting our legal entity in Korea for the business, because we have some great customer traction there. And obviously we got Japan up and running, which is super.
+
+But turning to IMEA, that opportunity is phenomenal for us. Our leaders are out there Estelle and Eduardo and Greg as our new leader in EMEA. These people are real warriors you know, and they're taking down enterprise level deals. So, I think the markets there - I visited. I'll give you just one example. I mean, I visited a very large telco in Southern Europe.
+
+I don't want to be too specific. And they were – it was a C-level meeting, COO, CEO, CMO and they were on the spot committed immediately to doing business with us. They are just thrilled about the opportunity to communicate and have a dialogue in lifetime with their customers. At our Paris city tour, I was visited by two of the biggest industrial concerns in France, who had gone with one of these kind of old school survey vendors.
+
+And we're paying a pretty penny for it as well. And they came to our conference. They spend a day and I spent 90 minutes with each of them and my question is, why are you here if you've got this great solution from this so-called great company. And the truth is, there's a ton of opportunity. It's not replacement. When we see people with survey or some kind of free stupid survey system, that's a great opportunity for us to ingest that data stream, put it into our platform and make real sense of it and they see that.
+
+So, I loved my time. I spent four weeks in Europe. I am heading out to APAC and then I did Latin America twice in the last quarter. The opportunity is just everywhere hence my earlier comments, which is I expect more. We still have a small sales force, remember. So, we got to keep investing steadily in that sales force. The opportunity is phenomenal and it's strategic.
+
+And it's now not just giant deals of the past. Its land and expand, show the value and that's been great. And that's why I gave the example in the prepared remarks of the company that went up 400% after they went in place to survey, replace the survey solution for employee, went to customer, went to e-commerce, 400% expansion. That's sort of the thing that’s out there across the customer base.
+
+Tom Roderick
+
+Fantastic. Thank you for that. That's great. A follow-on question here, just curious for some more thoughts on Crowdicity. Really interesting acquisition. Crowdsourced data gathering, very nice opportunity to, not only gather information from the CX side, but also the employee experience side. And I think you mentioned at least one, if not a couple of sizable wins there that you've had some big reference accounts and employee experience.
+
+Can you just spend a second talking a bit more about the market reception for employee experience? And then how Crowdicity helps you expand and accelerate that product offering? Thank you.
+
+Leslie Stretch
+
+Yes, it’s a great question. So as I mentioned in the prepared remarks, we had a very large company that was using our kind of old school survey tool. It didn't scale. They were looking for a digital daily pulse for their people. And customers aren't cynical. They're looking for really to engage their employees. You can't do that on a monthly, quarterly, or sadly as many people still do an annual survey.
+
+The annual survey is that, it's no way to communicate with your employees while you're trying to do the annual survey, they are slacking their Facebook workplacing and they're doing all kinds of other things. You need to engage them meaningfully in rendering a better company and that's what our employee experience solution is all about.
+
+The deep technical solution Crowdicity’s role is really even deeper than that, Crowdicity capability is to create initiatives and ideas and challenges across companies, across organizations. We are taking it into the employee space first of all with Rob Wilmot who is a thought leader, is taking that solution worldwide to national and super national organizations and you can hear him hopefully we will record his speech at our D.C. conference next week.
+
+But it really goes beyond employee. It goes to employees, customers and partners challenging one another, creating ideas, rendering better products and services. But the real issue in the employee experience space is that's the way you get engagement is by really encouraging your people to participate in ideas, product ideas, service ideas, M&A using the high minds of the corporation or the organization
+
+That’s what Crowdicity is all about. I would love you to see a demo and listen to Rob's talk next week or just give him a call. He's a great entrepreneur.
+
+Tom Roderick
+
+Outstanding. Thank you. That's great. Nice job. Thank you.
+
+Operator
+
+Your next question comes from Brad Zelnick with Credit Suisse. Your line is open.
+
+Brad Zelnick
+
+Great. Thanks so much. And I echo my congratulations on a great quarter. Leslie, I just got back from the Credit Suisse Tech Conference where we heard from so many of your industry peers talking about digital transformation. And how customer strategies need to be designed from the outside in, rather than inside out.
+
+And to me, it really speaks to the need for customer experience solutions, especially those like Medallia that can adjust limitless signals at massive scale. But how should we think about your ability to complement the leading customer data platforms out there and to what extent that your partnerships in the field tightly align to help drive broader digital transformation initiatives, which just seems to be so well-funded today?
+
+Leslie Stretch
+
+Yeah, I think it's a super question. And I think the customer is at the center, at the beginning and the end of digital transformation. And customer experience first because if you can do customer experience at scale, you can do anything and that's why we're so focused on customer experience. But I will just give you one example.
+
+We signed up our new app exchange deal with Salesforce and we were at Dreamforce. We look at their seat - their customer 360 story as the core data backbone were customer feedback. What we're about, is this visceral real-time, lifetime customer engagement at massive scale. And understanding that feedback, understanding how to distribute it securely to the right people, that's what our operational platform is all about.
+
+Our machine learning models are learning all the time as to understand and sense that feedback and re-present it for action. And we look to Salesforce as the platform for the source of hierarchy data and other key data. We also look to Salesforce to add value into Sales Cloud, Service Cloud and Marketing Cloud and others, of course. But that's just one example.
+
+And I think that's why we were getting so much traction at the conference because we had that shared vision of we're doing very different things in a complementary way.
+
+Brad Zelnick
+
+It seems that there's a lot of leverage to be had in these partnerships. Maybe if I could follow up, can you speak more about the Zingle acquisition? And specifically, how should we think about these acquisitions improving or evolving the feedback loop, like do they drive incremental ROI for your customers and by extension eventually perhaps drive incremental monetization for Medallia?
+
+Leslie Stretch
+
+Great question. The hospitality industry really is represented by many thought leaders and customer experience, I would say. They are really ahead of the game, because they're living with their customers on a daily basis. And if you think about it, you get the post-experience survey or you'll get a text in lifetime while you're staying in a property.
+
+But you'll also get the opportunity to order room service, the opportunity to book a dinner, book a show, do whatever through the Zingle application and have transactional experiences taking place. So we can look at that transactional data alongside feedback data and create a much more comprehensive view of the customer.
+
+We can hear feedback saying one thing we can see transactions, seeing another and that's very exciting. And there's another great partnership there of course with the Amadeus, who are a great partner of Zingle. And I said on my prepared remarks, I would showcase Zingle at the next earnings call in more detail. But very excited about the technology.
+
+Great momentum in both of these little tuck-initiatives, right out of the gate.
+
+Brad Zelnick
+
+Very cool. Thanks so much and happy holidays everyone.
+
+Leslie Stretch
+
+Thank you.
+
+Operator
+
+Your next question is from Brian Schwartz with Oppenheimer and Company. Your line is open.
+
+Brian Schwartz
+
+Yes, hi. Thanks for taking my questions this afternoon. Leslie, I was just wondering if I could follow-up on your comments about the pipeline that you've made in the introduction, as well as the Q&A. And just sort of what's built in Roxanne’s expectation for top-line next year. It’s certainly better than what I would previously modeled.
+
+But I'm just wondering macroly for the industry, are you expecting the experience management demand industry-wide, what kind of stayed the same the way it's been this year or maybe last year? Or do you see opportunities next year for the industry demand to sort of pick up? And then I have a follow-up. Thanks.
+
+Leslie Stretch
+
+Yeah. I think, my modeling or our modeling, Roxanne’s modeling is really focused on our opportunity sets, right, which is comprised of our book of business. Our new quota-bearing sales capacity, our new channel capacity and so on. And so, we've got a lot of confidence around that. But I think on something that's more exciting, which is people are really, really buying into this idea that customer is where you start when you think about digital transformation.
+
+And only a lot of people who say, I think I need to do some digital transformation, right. Where do I begin? And you begin with customer and I think Salesforce’s view of the customer at the center of digital transformation is spot on. I think that though we have a fantastic view about as well so to service now, there's some great players out there that are as to your point are creating this motion in the market.
+
+But I think above all of that, there is no so much information about the return on investment from these implementations. But it's a no brainer. I mean if you intuitively if you're just not talking to your customer in lifetime and having dialogues at massive scale, you're missing out. It's like driving up the mountain road with your headlights off in the dark.
+
+You're really missing out. You need to be having that digital interaction in lifetime. And that's what all of our signal capture is about. That's what our new acquisitions are about. So, I expect - I absolutely expect that to be the case that the atmosphere is going to expand. The atmosphere of opportunity is going to expand.
+
+What we're basing our projections on a nice conservative view, our opportunity set. But I think all of these players in the space will do well, if they just focus on customer experience.
+
+Brian Schwartz
+
+Thank you. And then the follow-up question that I had it's kind of building on the last question. But just talking about the potential here for the number of opportunities to increase in the future. I'm just wondering competitively Leslie, SAP that had Qualtrics in the operations for an entire year now.
+
+And I'm just wondering, if you're seeing that more in RFPs, could SAP actually be helping driving more RFPs here in the market than maybe what you - what you saw last year or in the previous year and maybe any comments that you'd like to share in terms of the win rates against them and how that's trending. Thanks.
+
+Leslie Stretch
+
+Yes, I think they, absolutely that’s - SAP is a great company. They absolutely are driving opportunity for everybody. There is no doubt about it and they have great strength internationally. However, we're doing something very, very different. And that's all we do.
+
+We are not doing all of these other things. We also have an opportunity to play with all of the open HR, CRM, marketing cloud, service cloud, sales clouds, of all these other great companies not just one. But it's definitely a good thing for the market. No doubt about it.
+
+Brian Schwartz
+
+Thank you.
+
+Operator
+
+Your next question is from Scott Berg with Needham. Your line is open.
+
+Joshua Reilly
+
+Hey there. This is Josh on for Scott. Congrats on the strong quarter. Can we get an update on the impact from go-to-market changes you've implemented over the last year including realigning to a vertical sales strategy domestically from a geographic focus? And then, you talked about the new international sales leaders and where you are in that taking full effect for productivity?
+
+Leslie Stretch
+
+Yeah I think it's still early days the full effect and that takes ramp that we have ramp time when we bring on new people. We have a program called Okay to Sell, right. We want to make people Okay to Sell as fast as reason to be possible, but they have to be able to learn the space. I did give some examples, anecdotal examples of a few people, a few women and men who came into this company this year and we're hitting it out of the park in their first 90 days or six months.
+
+But we still expect people to take a couple of quarters to get up to speed. So there is ramp time involved. They are learning the new modules and have a fit and they are learning the industry. I still don't think we've gone as far as we can from a vertical perspective. I think understanding a customers’ industry and how they operate is absolutely essential.
+
+And the very best cloud companies out there like Salesforce and others have got strong vertical focus for that reason and we shouldn't be any different. We are in, maybe the beginning of the second innings of the process. I am five quarters in here. It's going great. I am really pleased with it. But I think there is way more upside.
+
+Joshua Reilly
+
+Okay great. And then, just one more. With the number of new modules being released or acquired including now Zingle, Crowdicity and a new one that was highlighted at Dreamforce, Action Intelligence, how should we think about the decision to include these new features in the core platform versus cross-selling or up-selling for these features?
+
+Leslie Stretch
+
+Well I think they're added value and I think platforms we do multiple releases in the cloud every year and platforms evolve over time and the core platform gets richer by definition. But these are very clearly defined new pieces of value and functionality for customers. So we expect to get value back for that, right. So we're looking for cross-sell motions there. It's not always the same.
+
+It's not always as much as the core platform. It maybe a fraction of the core platform in some cases, but we haven't bought or built anything yet that isn't added value. I don't think we bought or built anything yet that has failed to sell either. So, we've got confidence around that approach.
+
+Joshua Reilly
+
+Great. Thank you.
+
+Operator
+
+Your next question comes from James Rutherford with Stephens Inc. Your line is open.
+
+James Rutherford
+
+Hey, thanks for taking the questions. A couple from me here. I guess the first one is, we're hearing that Medallia is getting much more aggressive on price in the market. I'm just wondering if that is a strategic decision across your business, and is it a reflection of you being willing to sign a smaller deal and expand over time or is it more a willingness to be flexible around price to win that initial deal. And then a follow-up please.
+
+Leslie Stretch
+
+Yeah, good. Yeah, I think that we want to be competitive, but we also want to maintain our margins. And the way we look at deals and evaluate deals just to give you some insight is, as long as we're maintaining our margins, let's give the customer value. I think what's more critical is, we're prepared to land and expand.
+
+But we just did one deal, which was in this other company’s ecosystem we didn't name them on the prepared remarks here where actually the competitor was about a tenth of our price initially. They then came up to our price and we still won the deal. It was kind of a odd dynamic. But we are focused on maintaining SaaS margins and we're focused on land and expand and taking territory.
+
+And why shouldn't we give a three-dimensional live time radar scope of customer experience to small and medium and large companies. We have a partner that can implement an individual business, a gym membership business, a restaurant business or a single hotel in a day, right.
+
+So, why shouldn't we give the three-dimensional radar scope of customer experience or experienced management to small companies, as long as we maintain our margins. That's really the only governor for us.
+
+James Rutherford
+
+Okay. That's very helpful. And then I would like to dig in a little bit on the expand motion as well. I know that there is a focus to add additional bookings from new customers but a significant portion here is still from existing.
+
+So I am just curious is there is there anything going on within your business that might cause an inflection in customers trying that second, third, fourth module onto the core and really what you're doing to drive that as the focus for your business?
+
+Leslie Stretch
+
+Great question. I had a conversation with a U.S. CEO this week where he said, I won a commercial regime with my customer experience partner that incentivizes me to capture more signals. I want to know everything about my customer. Everything I'd possibly can about my customer. I want to integrate with the sales force data hierarchy.
+
+I want to look at the Medallia feedback data and I want to be able to do that without having a pricing regime that inhibits me. And we've been able to do that very well whilst we maintain our margins. So, we're really focused on giving our customers every possible signal that we can and not giving them any reason to de-prioritize a digital signal, text signal, WhatsApp, WeChat, voice, video or whatever.
+
+So we are going to continue with that program. As I say as long as we maintain our SaaS margins and that represents, I think upside for us.
+
+James Rutherford
+
+Excellent thank you.
+
+Operator
+
+Your next question comes from Richard Baldry with ROTH Capital. Your line is open.
+
+Richard Baldry
+
+Thanks. It looks like your initial guide on 2021 is quite a bit stronger than I guess, we would have expected and I think the street as well. Do you - would you attribute that to faster sales hiring, faster ramping, and productivity, changes in your win rates or sort of across-the-board? Where do you feel like that strength is coming from? And how sustainable do you think it looks like?
+
+Leslie Stretch
+
+I think it's faster more effective sales hiring. I think it's great sales leadership and sales management around the company. Now with some long time served Medallia leaders that are phenomenal. Some new leaders that come in and made an impact. I think it's better sales enablement - professional sales enablement.
+
+I think it's waking up to the expanding opportunity. I think it's our partner channel to that is now as nascent, right. But it's beginning to contribute. And also with the platform signal story and our ability to capture and understand these other signals owned some of them, partner with some of them is really unique and the way our team and our customers articulate.
+
+This platform signal story comes from the customer. And the way our customers articulate this business problem and opportunity is really what's driving us. So it’s all of those things.
+
+Richard Baldry
+
+And you've talked before about growing quota-bearing capacity I think like a 40% clip. Do you think that that's sustainable for several years? Or do you think that sort of law of large numbers as that number would come in a little bit? How do we think about that investment may for fiscal 2021 now?
+
+Leslie Stretch
+
+Well, certainly for fiscal 2021, I think we need to maintain that runrate. We need to maintain that expansion clip rates.
+
+Richard Baldry
+
+Great. Thanks.
+
+Operator
+
+And we do have time for one more question. Our last question comes from Chad Bennett with Craig-Hallum your line is open. Chad Bennett with Craig-Hallum, your line is open.
+
+Okay, ladies and gentlemen. There are no more questions in queue. I will now turn the call back over to Leslie Stretch, the CEO for concluding remarks.
+
+Leslie Stretch
+
+Thanks for taking the time with us everyone and look forward to seeing you on the road in Q4. Happy holidays.
+
+Operator
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation and you may now disconnect.
+
+Roxanne Oulman
+
+Good bye.
